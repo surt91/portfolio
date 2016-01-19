@@ -1,7 +1,5 @@
 .. Portfolio documentation master file, created by
    sphinx-quickstart on Tue Jan 19 20:34:57 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Hendrik Schawe
 ==============
@@ -11,7 +9,7 @@ Hendrik Schawe
     :alt: portrait
     :align: right
 
-My Name is Hendrik Schawe and I am a PhD student
+My name is Hendrik Schawe and I am a PhD student
 in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_
 of the University Oldenburg.
 
@@ -25,3 +23,5 @@ optimization problems and networks.
 .. include:: publications.rst
 
 .. include:: cv.rst
+
+.. include:: projects.rst

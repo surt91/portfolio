@@ -1,3 +1,5 @@
+.. _conferences-label:
+
 Conferences
 -----------
 
@@ -6,10 +8,15 @@ Conferences
 * 2014 DPG Frühjahrstagung, Dresden
     * Poster: `Ising-Ferromagnet on Proximity Graphs`
 
+.. _education-label:
+
 Education
 ---------
 
-* 2015 Master of Science in Physics, CvO University Oldenburg
-* 2015 `Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef
-* 2014 `5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry`, Oldenburg
-* 2013 Bachelor of Science in Physics, CvO University Oldenburg
+* 2015
+    * Master of Science in Physics, CvO University Oldenburg
+    * `Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef
+* 2014
+    * `5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry`, Oldenburg
+* 2013
+    * Bachelor of Science in Physics, CvO University Oldenburg

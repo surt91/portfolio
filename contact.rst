@@ -1,5 +1,7 @@
+.. _contact-label:
+
 Contact
-------
+-------
 
 | Institut für Physik
 | Carl von Ossietzky Universität Oldenburg
