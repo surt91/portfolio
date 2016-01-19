@@ -13,7 +13,7 @@ My name is Hendrik Schawe and I am a PhD student
 in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_
 of the University Oldenburg.
 
-Currently I am working on large deviation properties
+Currently, I am working on large deviation properties
 of convex hulls of random walks.
 Further research Interests are phase transitions,
 optimization problems and networks.
