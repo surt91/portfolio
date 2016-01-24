@@ -13,3 +13,5 @@ mv _build/html deploy/de
 
 make -e SPHINXOPTS="-D language='en'" html
 mv _build/html deploy/en
+
+scp -r deploy/* rasp:portfolio
