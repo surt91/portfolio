@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Hendrik Schawe
+# This file is distributed under the same license as the Portfolio package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-24 10:42+0100\n"
+"PO-Revision-Date: 2016-01-24 10:55+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: ../../index.rst:5
+msgid "Hendrik Schawe"
+msgstr ""
+
+#: ../../index.rst:12
+msgid ""
+"My name is Hendrik Schawe and I am a PhD student in the `Computational "
+"Physics <https://www.uni-oldenburg.de/compphys/>`_ group of the University "
+"Oldenburg."
+msgstr ""
+"Ich bin Hendrik Schawe und  Doktorand in der `Computerorientierte "
+"Theoretische Physik <https://www.uni-oldenburg.de/compphys/>`_ Gruppe der "
+"Universität Oldenburg."
+
+#: ../../index.rst:16
+msgid ""
+"Currently, I am working on large deviation properties of convex hulls of "
+"random walks. Further research Interests are phase transitions, optimization "
+"problems and networks."
+msgstr ""
+"Momentan erforsche ich `large deviation` Eigenschaften der konvexen Hüllen "
+"von `random Walks`. Weitere Interessengebiete sind Phasenübergänge, "
+"Optimierungsprobleme und Netzwerke."
+
+#: ../../contact.rst:4
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../../contact.rst:6
+msgid "Institut für Physik"
+msgstr ""
+
+#: ../../contact.rst:7
+msgid "Carl von Ossietzky Universität Oldenburg"
+msgstr ""
+
+#: ../../contact.rst:8
+msgid "26111 Oldenburg"
+msgstr ""
+
+#: ../../contact.rst:9
+msgid "Office: W2 3-351"
+msgstr ""
+
+#: ../../contact.rst:10
+msgid "hendrik.schawe@uni-oldenburg.de"
+msgstr ""
+
+#: ../../publications.rst:4
+msgid "List of Publications"
+msgstr "Veröffentlichungen"
+
+#: ../../publications.rst:9
+msgid ""
+"Phase Transitions of Traveling Salesperson Problems solved with Linear "
+"Programming and Cutting Planes, 2016"
+msgstr ""
+
+#: ../../publications.rst:7
+msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
+msgstr ""
+
+#: ../../publications.rst:8
+msgid "peer review pending"
+msgstr "eingereicht"
+
+#: ../../cv.rst:4
+msgid "Conferences"
+msgstr "Konferenzen"
+
+#: ../../cv.rst:6
+msgid "2016 DPG Frühjahrstagung, Regensburg"
+msgstr ""
+
+#: ../../cv.rst:7
+msgid ""
+"`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
+"Linear Programming and Cutting Planes`, :download:`download slides "
+"<pdf/2016DPG.pdf>`"
+msgstr ""
+"`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
+"Linear Programming and Cutting Planes`, :download:`Folien Download "
+"<pdf/2016DPG.pdf>`"
+
+#: ../../cv.rst:9
+msgid "2014 DPG Frühjahrstagung, Dresden"
+msgstr ""
+
+#: ../../cv.rst:9
+msgid ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
+"<pdf/2014DPG.pdf>`"
+msgstr ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
+"<pdf/2014DPG.pdf>`"
+
+#: ../../cv.rst:14
+msgid "Education"
+msgstr "Ausbildung"
+
+#: ../../cv.rst:17
+msgid "2015"
+msgstr ""
+
+#: ../../cv.rst:17
+msgid "Master of Science in Physics, CvO University Oldenburg"
+msgstr "Master of Science in Physik, CvO Universität Oldenburg"
+
+#: ../../cv.rst:18
+msgid ""
+"`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
+"Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
+msgstr ""
+"`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
+"Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
+
+#: ../../cv.rst:19
+msgid "2014"
+msgstr ""
+
+#: ../../cv.rst:20
+msgid ""
+"`5th International Summer School on Modern Compuational Science Compuational "
+"Quantum Chemistry`, Oldenburg"
+msgstr ""
+
+#: ../../cv.rst:22
+msgid "2013"
+msgstr ""
+
+#: ../../cv.rst:22
+msgid "Bachelor of Science in Physics, CvO University Oldenburg"
+msgstr "Bachelor of Science in Physik, CvO Universität Oldenburg"
+
+#: ../../projects.rst:4
+msgid "Projects"
+msgstr "Projekte"
+
+#: ../../projects.rst:7
+msgid "`TSPview <https://github.com/surt91/TSPview>`_"
+msgstr ""
+
+#: ../../projects.rst:7
+msgid ""
+"A GUI to visualize different solution strategies of the travelling "
+"salesperson problem."
+msgstr ""
+"Ein Programm zur Visualisierung von verschiedenen "
+"(Näherungs-)Lösungsstrategien des Problem des Handlungsreisenden (TSP)."
+
+#: ../../projects.rst:10
+msgid "`Ising Ferromagnet <https://github.com/surt91/IsingFerromagnet>`_"
+msgstr ""
+
+#: ../../projects.rst:10
+msgid ""
+"A simple C code used to simulate an Ising model on irregular graph "
+"structures."
+msgstr ""
+"Ein einfacher C Code um Ising Ferromagnete auf irregulären Graphen zu "
+"simulieren."
