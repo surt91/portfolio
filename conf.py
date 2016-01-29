@@ -125,7 +125,7 @@ html_theme_options = {"github_button": False}
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = "Hendrik Schawe"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -164,7 +164,8 @@ html_sidebars = {
             'select_language.html',
             # 'globaltoc.html',
             # 'navigation.html',
-            'localtoc.html'
+            'localtoc.html',
+            'code.html',
     ],
 }
 

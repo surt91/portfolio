@@ -1,11 +1,12 @@
 .. Portfolio documentation master file, created by
    sphinx-quickstart on Tue Jan 19 20:34:57 2016.
 
-Hendrik Schawe
-==============
+About Me
+========
 
 .. image:: img/portrait.jpg
     :width: 256
+    :height: 256
     :alt: portrait
     :align: right
 

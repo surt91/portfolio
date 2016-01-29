@@ -7,22 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-24 10:42+0100\n"
-"PO-Revision-Date: 2016-01-24 12:09+0100\n"
+"POT-Creation-Date: 2016-01-29 18:44+0100\n"
+"PO-Revision-Date: 2016-01-29 18:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.1.1\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Generated-By: Babel 2.2.0\n"
 "Language: de\n"
 "X-Generator: Poedit 1.8.6\n"
 
 #: ../../index.rst:5
-msgid "Hendrik Schawe"
-msgstr ""
+msgid "About Me"
+msgstr "Über Mich"
 
-#: ../../index.rst:12
+#: ../../index.rst:13
 msgid ""
 "My name is Hendrik Schawe and I am a PhD student in the `Computational "
 "Physics <https://www.uni-oldenburg.de/compphys/>`_ group of the University "
@@ -32,7 +32,7 @@ msgstr ""
 "Theoretische Physik <https://www.uni-oldenburg.de/compphys/>`_ Gruppe der "
 "Universität Oldenburg."
 
-#: ../../index.rst:16
+#: ../../index.rst:17
 msgid ""
 "Currently, I am working on large deviation properties of convex hulls of "
 "random walks. Further research Interests are phase transitions, optimization "

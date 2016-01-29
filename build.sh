@@ -1,5 +1,6 @@
 #!/bin/bash
 
+make gettext
 sphinx-intl update -p _build/locale -l de
 sphinx-intl build
 
@@ -7,6 +8,7 @@ rm -r deploy
 mkdir -p deploy
 
 cp index.html.* deploy
+cp sitemap.* deploy
 
 make -e SPHINXOPTS="-D language='de'" html
 mv _build/html deploy/de
