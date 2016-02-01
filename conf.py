@@ -296,3 +296,88 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+
+#Author: Lukas Strassel
+#Extension for asset compression in tinkerer
+#The proposed solution is based on http://swiftbend.com/blog/?page_id=79#.VTJTKOT7vtQ
+from jsmin import jsmin
+from cssmin import cssmin
+from htmlmin import minify as htmlmin
+from subprocess import call
+
+import glob
+import os
+import shutil
+
+
+htmlPath = os.getcwd()+"/_build/html"     #get path to static files(may be wrong for sphinx)
+destPath = os.getcwd()+"/_build/html/_static"     #get path to static files(may be wrong for sphinx)
+imgPath = os.getcwd()+"/_build/html/_images"     #get path to static files(may be wrong for sphinx)
+
+imagesNeeded = ["img/portrait.jpg"]
+
+def copyMissingFiles(app, exception):
+    # Copy images not recognized by sphinx
+    try:
+        for i in imagesNeeded:
+            shutil.copy(i, imgPath)
+    except:
+        pass
+
+def minifyCSSProc(srcText):
+    return cssmin(srcText)
+
+def minifyJSProc(srcText):
+    return jsmin(srcText)
+
+def minifyHTMLProc(srcText):
+    srcText = srcText.replace("<script", "<script async")
+    return htmlmin(srcText)
+
+def processFiles(minifyProc, sourcePaths):
+    for srcFile in sourcePaths:
+        with open(srcFile,'r') as inputFile:           #open file
+            srcText = inputFile.read()              #read file
+            minText = minifyProc(srcText)           #minimize resources
+            inputFile.close()                       #close file
+            os.remove(srcFile)         #remove file
+
+            file = open(srcFile, 'w') #create new file
+            file.write(minText)                     #write minimized content
+            file.close()                            #close file
+
+def jsMinification(files):
+    return processFiles(minifyJSProc, files)
+
+def cssMinification(files):
+    return processFiles(minifyCSSProc, files)
+
+def htmlMinification(files):
+    return processFiles(minifyHTMLProc, files)
+
+def setup(app):
+    app.connect("build-finished", copyMissingFiles)
+    app.connect("build-finished", asset_compression) #inject after build-finished to modify the generated(not original) resources
+
+def asset_compression(app, exception):
+    try:
+        os.chdir(destPath)                              #change working directory
+    except:
+        return
+    jsFiles = glob.glob("*.js")                     #find all js files
+    cssFiles = glob.glob("*.css")                   #find all css files
+    jsMinification(jsFiles)                         #minify js
+    cssMinification(cssFiles)                       #minify css
+
+    os.chdir(htmlPath)
+    htmlFiles = glob.glob("*.html")
+    htmlMinification(htmlFiles)
+
+    os.chdir(imgPath)
+    jpgFiles = glob.glob("*.jpg")                   #find all css files
+    for i in jpgFiles:
+        cmd = ["jpegtran", "-optimize", "-copy", "none", "-outfile", "tmp.jpg", i]
+        print(" ".join(cmd))
+        call(cmd)
+        shutil.move("tmp.jpg", i)
