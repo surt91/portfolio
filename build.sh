@@ -8,7 +8,7 @@ rm -r deploy
 mkdir -p deploy
 
 cp index.html.* deploy
-cp sitemap.* deploy
+cp BingSiteAuth.xml googlee1eadb2ddedaa639.html sitemap.* deploy
 
 make -e SPHINXOPTS="-D language='de'" html
 mv _build/html deploy/de

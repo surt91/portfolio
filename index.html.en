@@ -1,8 +1,11 @@
 <html>
 <head>
-<meta http-equiv="Refresh" content="0; url=/en/" />
+    <link rel="alternate" href="https://hendrik.schawe.me/" hreflang="x-default" />
+    <link rel="alternate" href="https://hendrik.schawe.me/en/" hreflang="en" />
+    <link rel="alternate" href="https://hendrik.schawe.me/de/" hreflang="de" />
+    <meta http-equiv="Refresh" content="0; url=/en/" />
 </head>
 <body>
-<p>You will be redirected to the <a href="/en/">english version</a>.</p>
+    <p>You will be redirected to the <a href="/en/">english version</a>.</p>
 </body>
 </html>

@@ -5,6 +5,10 @@
     <url>
         <loc>https://hendrik.schawe.me/de</loc>
         <image:image>
+            <image:loc>https://hendrik.schawe.me/de/_images/portrait256.jpg</image:loc>
+            <image:caption>Hendrik Schawe</image:caption>
+        </image:image>
+        <image:image>
             <image:loc>https://hendrik.schawe.me/de/_images/portrait.jpg</image:loc>
             <image:caption>Hendrik Schawe</image:caption>
         </image:image>
@@ -18,6 +22,10 @@
 
     <url>
         <loc>https://hendrik.schawe.me/en</loc>
+        <image:image>
+            <image:loc>https://hendrik.schawe.me/en/_images/portrait256.jpg</image:loc>
+            <image:caption>Hendrik Schawe</image:caption>
+        </image:image>
         <image:image>
             <image:loc>https://hendrik.schawe.me/en/_images/portrait.jpg</image:loc>
             <image:caption>Hendrik Schawe</image:caption>
