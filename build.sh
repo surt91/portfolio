@@ -4,7 +4,9 @@ make gettext
 sphinx-intl update -p _build/locale -l de
 sphinx-intl build
 
-convert img/favicon.svg -resize 256x256 -define icon:auto-resize="256,128,96,64,48,32,16" img/favicon.ico
+rm favicon.{png,ico}
+convert  -background none img/favicon.svg -resize 256x256 img/favicon.png
+convert img/favicon.png -define icon:auto-resize="256,128,96,64,48,32,16" img/favicon.ico
 
 rm -r deploy
 mkdir -p deploy

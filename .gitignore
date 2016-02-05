@@ -2,3 +2,6 @@ _build
 *.mo
 
 deploy
+
+favicon.png
+favicon.ico
