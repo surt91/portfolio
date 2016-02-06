@@ -3,6 +3,17 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
+        <loc>https://hendrik.schawe.me</loc>
+        <image:image>
+            <image:loc>https://hendrik.schawe.me/loading.gif</image:loc>
+            <image:caption>Loading Screen</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://hendrik.schawe.me/favicon.ico</image:loc>
+            <image:caption>Favicon</image:caption>
+        </image:image>
+    </url>
+    <url>
         <loc>https://hendrik.schawe.me/de</loc>
         <image:image>
             <image:loc>https://hendrik.schawe.me/de/_images/portrait256.jpg</image:loc>
