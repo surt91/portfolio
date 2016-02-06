@@ -1,11 +1,29 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <link rel="alternate" href="https://hendrik.schawe.me/" hreflang="x-default" />
     <link rel="alternate" href="https://hendrik.schawe.me/en/" hreflang="en" />
     <link rel="alternate" href="https://hendrik.schawe.me/de/" hreflang="de" />
     <meta http-equiv="Refresh" content="0; url=/en/" />
+
+    <style>
+        #loading
+        {
+            position:absolute;
+            width:300px;
+            height:300px;
+            z-index:15;
+            top:50%;
+            left:50%;
+            margin:-150px 0 0 -150px;
+        }
+    </style>
 </head>
-<body>
-    <p>You will be redirected to the <a href="/en/">english version</a>.</p>
+<body id="loading">
+    <h1>Redirection</h1>
+    <img src="loading.gif" width="256" height="256">
+    <p>
+        You will be redirected to the <a href="/en/">english version</a>.
+    </p>
 </body>
 </html>
