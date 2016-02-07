@@ -9,8 +9,8 @@
             <image:caption>Loading Screen</image:caption>
         </image:image>
         <image:image>
-            <image:loc>https://hendrik.schawe.me/favicon.ico</image:loc>
-            <image:caption>Favicon</image:caption>
+            <image:loc>https://hendrik.schawe.me/logo.svg</image:loc>
+            <image:caption>Logo: hendrik.schawe.me</image:caption>
         </image:image>
     </url>
     <url>
