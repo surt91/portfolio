@@ -15,12 +15,16 @@ cp index.html.* img/favicon.ico img/logo.svg img/loading.gif deploy
 cp BingSiteAuth.xml googlee1eadb2ddedaa639.html sitemap.* deploy
 
 make -e SPHINXOPTS="-D language='de'" html
-mv _build/html deploy/de
+mv _build/html/* deploy/
+mkdir deploy/de
+mkdir deploy/en
+mv deploy/*.{html,js} deploy/de
 
 make -e SPHINXOPTS="-D language='en'" html
-mv _build/html deploy/en
+mv _build/html/*.{html,js} deploy/en
 
-cp img/portrait.jpg img/cc.png deploy/de/_images
-cp img/portrait.jpg img/cc.png deploy/en/_images
+sed -i "s|_|../_|g" deploy/{de,en}/*.html
+
+cp img/portrait.jpg img/cc.png deploy/_images
 
 scp -r deploy/* rasp:portfolio
