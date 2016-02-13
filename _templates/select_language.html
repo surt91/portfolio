@@ -1,8 +1,16 @@
 <ul>
     <li>
-        <h4><a href="../en/{{ pathto(pagename) }}">English</a></h4>
+        {% if pathto(pagename) != "#" %}
+            <h4><a href="../en/{{ pathto(pagename) }}">English</a></h4>
+        {% else %}
+            <h4><a href="../en/">English</a></h4>
+        {% endif %}
     </li>
     <li>
-        <h4><a href="../de/{{ pathto(pagename) }}">Deutsch</a></h4>
+        {% if pathto(pagename) != "#" %}
+            <h4><a href="../de/{{ pathto(pagename) }}">Deutsch</a></h4>
+        {% else %}
+            <h4><a href="../de/">Deutsch</a></h4>
+        {% endif %}
     </li>
 </ul>
