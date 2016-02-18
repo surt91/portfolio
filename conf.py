@@ -372,7 +372,7 @@ def asset_compression(app, exception):
 
     os.chdir(htmlPath)
     htmlFiles = glob.glob("*.html")
-    htmlMinification(htmlFiles)
+    #~ htmlMinification(htmlFiles)
 
     os.chdir(imgPath)
     jpgFiles = glob.glob("*.jpg")                   #find all css files
