@@ -26,4 +26,3 @@ optimization problems and networks.
 
 .. include:: cv.rst
 
-.. include:: projects.rst
