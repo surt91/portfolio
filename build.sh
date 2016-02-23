@@ -12,7 +12,7 @@ rm -r deploy
 mkdir -p deploy
 
 cp index.html.* img/favicon.ico img/logo.svg img/loading.gif deploy
-cp BingSiteAuth.xml googlee1eadb2ddedaa639.html sitemap.* deploy
+cp BingSiteAuth.xml googlee1eadb2ddedaa639.html sitemap.* robots.txt deploy
 
 make -e SPHINXOPTS="-D language='de'" html
 mv _build/html/* deploy/
