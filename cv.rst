@@ -3,9 +3,9 @@
 Conferences
 -----------
 
-    .. * 2016 DPG Frühjahrstagung, Regensburg
+    * 2016 DPG-Frühjahrstagung (Spring Meeting), Regensburg
         * `Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`download slides <pdf/2016DPG.pdf>`
-    * 2014 DPG Frühjahrstagung, Dresden
+    * 2014 DPG-Frühjahrstagung (Spring Meeting), Dresden
         * `Ising-Ferromagnet on Proximity Graphs`, :download:`download poster <pdf/2014DPG.pdf>`
 
 .. _education-label:

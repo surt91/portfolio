@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-21 15:21+0100\n"
-"PO-Revision-Date: 2016-02-21 15:22+0100\n"
+"POT-Creation-Date: 2016-03-12 09:13+0100\n"
+"PO-Revision-Date: 2016-03-12 09:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,12 +23,24 @@ msgid "About Me"
 msgstr "Über Mich"
 
 #: ../../index.rst:14
-msgid "My name is Hendrik Schawe and I am a PhD student in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_ group of the University Oldenburg."
-msgstr "Ich bin Hendrik Schawe und  Doktorand in der Arbeitsgruppe `Computerorientierte Theoretische Physik <https://www.uni-oldenburg.de/compphys/>`_ der Universität Oldenburg."
+msgid ""
+"My name is Hendrik Schawe and I am a PhD student in the `Computational "
+"Physics <https://www.uni-oldenburg.de/compphys/>`_ group of the University "
+"Oldenburg."
+msgstr ""
+"Ich bin Hendrik Schawe und  Doktorand in der Arbeitsgruppe "
+"`Computerorientierte Theoretische Physik <https://www.uni-oldenburg.de/"
+"compphys/>`_ der Universität Oldenburg."
 
 #: ../../index.rst:18
-msgid "Currently, I am working on large deviation properties of convex hulls of random walks. Further research Interests are phase transitions, optimization problems and networks."
-msgstr "Momentan erforsche ich `large deviation` Eigenschaften der konvexen Hüllen von `random Walks`. Weitere Interessengebiete sind Phasenübergänge, Optimierungsprobleme und Netzwerke."
+msgid ""
+"Currently, I am working on large deviation properties of convex hulls of "
+"random walks. Further research Interests are phase transitions, optimization "
+"problems and networks."
+msgstr ""
+"Momentan erforsche ich `large deviation` Eigenschaften der konvexen Hüllen "
+"von `random Walks`. Weitere Interessengebiete sind Phasenübergänge, "
+"Optimierungsprobleme und Netzwerke."
 
 #: ../../contact.rst:4
 msgid "Contact"
@@ -59,28 +71,54 @@ msgid "List of Publications"
 msgstr "Veröffentlichungen"
 
 #: ../../publications.rst:9
-msgid "Phase Transitions of Traveling Salesperson Problems solved with Linear Programming and Cutting Planes, 2016"
+msgid ""
+"Phase Transitions of Traveling Salesperson Problems solved with Linear "
+"Programming and Cutting Planes"
 msgstr ""
 
 #: ../../publications.rst:7
-msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
+msgid "Hendrik Schawe, Alexander K. Hartmann, EPL **113**, 30004 (2016)"
 msgstr ""
 
 #: ../../publications.rst:8
-msgid "peer review pending"
-msgstr "eingereicht"
+msgid ""
+"`doi: 10.1209/0295-5075/113/30004 <http://dx.doi."
+"org/10.1209/0295-5075/113/30004>`_"
+msgstr ""
+
+#: ../../publications.rst:9
+msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
+msgstr ""
 
 #: ../../cv.rst:4
 msgid "Conferences"
 msgstr "Konferenzen"
 
-#: ../../cv.rst:9
-msgid "2014 DPG Frühjahrstagung, Dresden"
+#: ../../cv.rst:6
+msgid "2016 DPG-Frühjahrstagung (Spring Meeting), Regensburg"
+msgstr "2016 DPG-Frühjahrstagung, Regensburg"
+
+#: ../../cv.rst:7
+msgid ""
+"`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
+"Linear Programming and Cutting Planes`, :download:`download slides "
+"<pdf/2016DPG.pdf>`"
 msgstr ""
+"`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
+"Linear Programming and Cutting Planes`, :download:`Folien Download "
+"<pdf/2016DPG.pdf>`"
 
 #: ../../cv.rst:9
-msgid "`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster <pdf/2014DPG.pdf>`"
-msgstr "`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download <pdf/2014DPG.pdf>`"
+msgid "2014 DPG-Frühjahrstagung (Spring Meeting), Dresden"
+msgstr "2014 DPG-Frühjahrstagung, Dresden"
+
+#: ../../cv.rst:9
+msgid ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
+"<pdf/2014DPG.pdf>`"
+msgstr ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
+"<pdf/2014DPG.pdf>`"
 
 #: ../../cv.rst:14
 msgid "Education"
@@ -99,15 +137,21 @@ msgid "2015"
 msgstr "2015"
 
 #: ../../cv.rst:19
-msgid "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
-msgstr "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
+msgid ""
+"`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
+"Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
+msgstr ""
+"`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
+"Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
 
 #: ../../cv.rst:20
 msgid "2014"
 msgstr "2014"
 
 #: ../../cv.rst:21
-msgid "`5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry`, Oldenburg"
+msgid ""
+"`5th International Summer School on Modern Compuational Science Compuational "
+"Quantum Chemistry`, Oldenburg"
 msgstr ""
 
 #: ../../cv.rst:23
@@ -117,3 +161,6 @@ msgstr "2013"
 #: ../../cv.rst:23
 msgid "Bachelor of Science in Physics, CvO University Oldenburg"
 msgstr "Bachelor of Science in Physik, CvO Universität Oldenburg"
+
+#~ msgid "peer review pending"
+#~ msgstr "eingereicht"
