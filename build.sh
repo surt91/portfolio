@@ -28,4 +28,5 @@ sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 
 cp img/portrait.jpg img/cc.png deploy/_images
 
-scp -r deploy/* rasp:portfolio
+ssh -f -o ExitOnForwardFailure=yes -L 1234:rasp:22 -p 12322 home.schawe.me sleep 2
+scp -P 1234 -r deploy/* localhost:portfolio
