@@ -23,7 +23,7 @@ mv deploy/*.{html,js} deploy/de
 make -e SPHINXOPTS="-D language='en'" html
 mv _build/html/*.{html,js} deploy/en
 
-sed -i "s|_|../_|g" deploy/{de,en}/*.html
+sed -i 's|href="_|href="../_|g' deploy/{de,en}/*.html
 sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 
 cp img/portrait.jpg img/cc.png deploy/_images
