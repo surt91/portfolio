@@ -3,6 +3,9 @@
 {% block extrahead %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ super() }}
+    
+    <link href="_static/css/style.css" rel="stylesheet">
+    <link href="_static/css/font-awesome.css" rel="stylesheet">
     {% if pathto(pagename) != "#" %}
         <link rel="alternate" hreflang="de" href="https://hendrik.schawe.me/de/{{ pathto(pagename) }}" />
         <link rel="alternate" hreflang="en" href="https://hendrik.schawe.me/en/{{ pathto(pagename) }}" />
