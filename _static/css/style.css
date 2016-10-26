@@ -17,6 +17,9 @@ i.sidebar-social-links:hover {
     background-color: #A2A2A2;
     color: #fff;
 }
+i.fa-twitter:hover, i.fa-creative-commons:hover {
+    background-color: #98c807;
+}
 i.fa-twitter:hover, i.fa-twitter-square:hover {
     background-color: #00ACED;
 }
