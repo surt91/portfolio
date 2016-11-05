@@ -166,7 +166,6 @@ html_sidebars = {
             # 'navigation.html',
             'localtoc.html',
             'social.html',
-            'code.html',
     ],
 }
 
