@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-12 09:13+0100\n"
-"PO-Revision-Date: 2016-03-12 09:13+0100\n"
+"POT-Creation-Date: 2016-11-05 19:15+0100\n"
+"PO-Revision-Date: 2016-11-05 19:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.2.0\n"
+"Generated-By: Babel 2.3.4\n"
 "Language: de\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.9\n"
 
 #: ../../index.rst:5
 msgid "About Me"
@@ -24,9 +24,8 @@ msgstr "Über Mich"
 
 #: ../../index.rst:14
 msgid ""
-"My name is Hendrik Schawe and I am a PhD student in the `Computational "
-"Physics <https://www.uni-oldenburg.de/compphys/>`_ group of the University "
-"Oldenburg."
+"My name is Hendrik Schawe and I am a PhD student in the `Computational Physics "
+"<https://www.uni-oldenburg.de/compphys/>`_ group of the University Oldenburg."
 msgstr ""
 "Ich bin Hendrik Schawe und  Doktorand in der Arbeitsgruppe "
 "`Computerorientierte Theoretische Physik <https://www.uni-oldenburg.de/"
@@ -38,8 +37,8 @@ msgid ""
 "random walks. Further research Interests are phase transitions, optimization "
 "problems and networks."
 msgstr ""
-"Momentan erforsche ich `large deviation` Eigenschaften der konvexen Hüllen "
-"von `random Walks`. Weitere Interessengebiete sind Phasenübergänge, "
+"Momentan erforsche ich `large deviation` Eigenschaften der konvexen Hüllen von "
+"`random Walks`. Weitere Interessengebiete sind Phasenübergänge, "
 "Optimierungsprobleme und Netzwerke."
 
 #: ../../contact.rst:4
@@ -90,15 +89,38 @@ msgstr ""
 msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
 msgstr ""
 
-#: ../../cv.rst:4
-msgid "Conferences"
-msgstr "Konferenzen"
+#: ../../publications.rst:12
+msgid ""
+"Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node "
+"Placement"
+msgstr ""
 
-#: ../../cv.rst:6
-msgid "2016 DPG-Frühjahrstagung (Spring Meeting), Regensburg"
-msgstr "2016 DPG-Frühjahrstagung, Regensburg"
+#: ../../publications.rst:12
+msgid "Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann, (submitted)"
+msgstr ""
+"Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann, (eingereicht)"
+
+#: ../../cv.rst:4
+msgid "Timeline"
+msgstr "Aktivitäten"
+
+#: ../../cv.rst:9
+msgid "2016"
+msgstr "2016"
 
 #: ../../cv.rst:7
+msgid ""
+"Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* "
+"(LPTMS) (Orsay, France)"
+msgstr ""
+"Besuch des *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) "
+"(Orsay, Frankreich)"
+
+#: ../../cv.rst:8
+msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
+msgstr "DPG-Frühjahrstagung, Regensburg"
+
+#: ../../cv.rst:9
 msgid ""
 "`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
 "Linear Programming and Cutting Planes`, :download:`download slides "
@@ -108,35 +130,15 @@ msgstr ""
 "Linear Programming and Cutting Planes`, :download:`Folien Download "
 "<pdf/2016DPG.pdf>`"
 
-#: ../../cv.rst:9
-msgid "2014 DPG-Frühjahrstagung (Spring Meeting), Dresden"
-msgstr "2014 DPG-Frühjahrstagung, Dresden"
-
-#: ../../cv.rst:9
-msgid ""
-"`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
-"<pdf/2014DPG.pdf>`"
-msgstr ""
-"`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
-"<pdf/2014DPG.pdf>`"
-
-#: ../../cv.rst:14
-msgid "Education"
-msgstr "Ausbildung"
-
-#: ../../cv.rst:16
-msgid "2016"
-msgstr "2016"
-
-#: ../../cv.rst:17
+#: ../../cv.rst:10
 msgid "Master of Science in Physics, CvO University Oldenburg"
 msgstr "Master of Science in Physik, CvO Universität Oldenburg"
 
-#: ../../cv.rst:18
+#: ../../cv.rst:11
 msgid "2015"
 msgstr "2015"
 
-#: ../../cv.rst:19
+#: ../../cv.rst:12
 msgid ""
 "`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
 "Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
@@ -144,23 +146,41 @@ msgstr ""
 "`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
 "Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
 
-#: ../../cv.rst:20
+#: ../../cv.rst:15
 msgid "2014"
 msgstr "2014"
 
-#: ../../cv.rst:21
+#: ../../cv.rst:14
 msgid ""
 "`5th International Summer School on Modern Compuational Science Compuational "
 "Quantum Chemistry`, Oldenburg"
 msgstr ""
 
-#: ../../cv.rst:23
+#: ../../cv.rst:15
+msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
+msgstr "DPG-Frühjahrstagung, Dresden"
+
+#: ../../cv.rst:16
+msgid ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
+"<pdf/2014DPG.pdf>`"
+msgstr ""
+"`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
+"<pdf/2014DPG.pdf>`"
+
+#: ../../cv.rst:18
 msgid "2013"
 msgstr "2013"
 
-#: ../../cv.rst:23
+#: ../../cv.rst:18
 msgid "Bachelor of Science in Physics, CvO University Oldenburg"
 msgstr "Bachelor of Science in Physik, CvO Universität Oldenburg"
 
 #~ msgid "peer review pending"
 #~ msgstr "eingereicht"
+
+#~ msgid "Education"
+#~ msgstr "Ausbildung"
+
+#~ msgid "Conferences"
+#~ msgstr "Konferenzen"
