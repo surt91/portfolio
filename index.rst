@@ -1,9 +1,6 @@
 .. Portfolio documentation master file, created by
    sphinx-quickstart on Tue Jan 19 20:34:57 2016.
 
-About Me
-========
-
 .. image:: img/portrait256.jpg
     :width: 256
     :height: 256
