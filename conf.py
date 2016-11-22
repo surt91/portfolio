@@ -169,6 +169,10 @@ html_sidebars = {
     ],
 }
 
+html_context = {
+#    "google_analytics": "",
+}
+
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 #html_additional_pages = {}
