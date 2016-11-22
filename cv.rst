@@ -4,6 +4,8 @@ Timeline
 --------
 
 * 2016
+    * CompPhys16, Leipzig
+        * `Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2016CompPhys.pdf>`
     * Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, France)
     * DPG-Frühjahrstagung (Spring Meeting), Regensburg
         * `Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`download slides <pdf/2016DPG.pdf>`
