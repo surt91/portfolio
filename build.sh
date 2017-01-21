@@ -26,6 +26,7 @@ mv _build/html/*.{html,js} deploy/en
 sed -i 's|href="_|href="../_|g' deploy/{de,en}/*.html
 sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 
+mkdir -p deploy/_images
 cp img/portrait.jpg img/cc.png deploy/_images
 
 ssh -f -o ExitOnForwardFailure=yes -L 1234:rasp:22 -p 12322 home.schawe.me sleep 2
