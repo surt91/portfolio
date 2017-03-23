@@ -3,6 +3,10 @@
 Timeline
 --------
 
+* 2017
+    * DPG-Frühjahrstagung (Spring Meeting), Dresden
+        * `Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <randomWalk/DPG2017>`_
+        * `Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2017DPG.pdf>`
 * 2016
     * CompPhys16, Leipzig
         * `Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2016CompPhys.pdf>`
