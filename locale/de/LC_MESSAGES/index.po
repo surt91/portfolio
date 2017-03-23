@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-22 22:44+0100\n"
-"PO-Revision-Date: 2016-11-22 22:45+0100\n"
+"POT-Creation-Date: 2017-03-23 20:51+0100\n"
+"PO-Revision-Date: 2017-03-23 20:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -74,63 +74,75 @@ msgstr ""
 msgid "Timeline"
 msgstr "Aktivitäten"
 
-#: ../../cv.rst:11
-msgid "2016"
-msgstr "2016"
-
-#: ../../cv.rst:7
-msgid "CompPhys16, Leipzig"
-msgstr ""
-
 #: ../../cv.rst:8
-msgid "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2016CompPhys.pdf>`"
-msgstr "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`Poster Download <pdf/2016CompPhys.pdf>`"
-
-#: ../../cv.rst:9
-msgid "Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, France)"
-msgstr "Besuch des *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, Frankreich)"
-
-#: ../../cv.rst:10
-msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
-msgstr "DPG-Frühjahrstagung, Regensburg"
-
-#: ../../cv.rst:11
-msgid "`Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`download slides <pdf/2016DPG.pdf>`"
-msgstr "`Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`Folien Download <pdf/2016DPG.pdf>`"
-
-#: ../../cv.rst:12
-msgid "Master of Science in Physics, CvO University Oldenburg, :download:`download <pdf/masterThesis.pdf>`"
-msgstr "Master of Science in Physik, CvO Universität Oldenburg, :download:`Download <pdf/masterThesis.pdf>`"
-
-#: ../../cv.rst:13
-msgid "2015"
-msgstr "2015"
-
-#: ../../cv.rst:14
-msgid "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
-msgstr "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
-
-#: ../../cv.rst:17
-msgid "2014"
-msgstr "2014"
-
-#: ../../cv.rst:16
-msgid "`5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry`, Oldenburg"
+msgid "2017"
 msgstr ""
 
-#: ../../cv.rst:17
+#: ../../cv.rst:8 ../../cv.rst:21
 msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
 msgstr "DPG-Frühjahrstagung, Dresden"
 
+#: ../../cv.rst:8
+msgid "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <randomWalk/DPG2017>`_"
+msgstr "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `Folien <randomWalk/DPG2017>`_"
+
+#: ../../cv.rst:9
+msgid "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2017DPG.pdf>`"
+msgstr "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`Poster Download <pdf/2017DPG.pdf>`"
+
+#: ../../cv.rst:15
+msgid "2016"
+msgstr "2016"
+
+#: ../../cv.rst:11
+msgid "CompPhys16, Leipzig"
+msgstr ""
+
+#: ../../cv.rst:12
+msgid "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2016CompPhys.pdf>`"
+msgstr "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`Poster Download <pdf/2016CompPhys.pdf>`"
+
+#: ../../cv.rst:13
+msgid "Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, France)"
+msgstr "Besuch des *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, Frankreich)"
+
+#: ../../cv.rst:14
+msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
+msgstr "DPG-Frühjahrstagung, Regensburg"
+
+#: ../../cv.rst:15
+msgid "`Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`download slides <pdf/2016DPG.pdf>`"
+msgstr "`Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes`, :download:`Folien Download <pdf/2016DPG.pdf>`"
+
+#: ../../cv.rst:16
+msgid "Master of Science in Physics, CvO University Oldenburg, :download:`download <pdf/masterThesis.pdf>`"
+msgstr "Master of Science in Physik, CvO Universität Oldenburg, :download:`Download <pdf/masterThesis.pdf>`"
+
+#: ../../cv.rst:17
+msgid "2015"
+msgstr "2015"
+
 #: ../../cv.rst:18
+msgid "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
+msgstr "`Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
+
+#: ../../cv.rst:21
+msgid "2014"
+msgstr "2014"
+
+#: ../../cv.rst:20
+msgid "`5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry`, Oldenburg"
+msgstr ""
+
+#: ../../cv.rst:22
 msgid "`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster <pdf/2014DPG.pdf>`"
 msgstr "`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download <pdf/2014DPG.pdf>`"
 
-#: ../../cv.rst:20
+#: ../../cv.rst:24
 msgid "2013"
 msgstr "2013"
 
-#: ../../cv.rst:20
+#: ../../cv.rst:24
 msgid "Bachelor of Science in Physics, CvO University Oldenburg, :download:`download <pdf/bachelorThesis.pdf>`"
 msgstr "Bachelor of Science in Physik, CvO Universität Oldenburg, :download:`Download <pdf/bachelorThesis.pdf>`"
 
