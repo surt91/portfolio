@@ -3,6 +3,7 @@ This is the source of my personal landing page https://hendrik.schawe.me.
 Needs
     * Python Modules (from pypi)
         * sphinx
+        * sphinx-intl
         * jsmin
         * cssmin
         * htmlmin
