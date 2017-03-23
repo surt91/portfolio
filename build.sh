@@ -29,5 +29,6 @@ sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 mkdir -p deploy/_images
 cp img/portrait.jpg img/cc.png deploy/_images
 
-ssh -f -o ExitOnForwardFailure=yes -L 1234:rasp:22 -p 12322 home.schawe.me sleep 2
-scp -P 1234 -r deploy/* localhost:portfolio
+PORT=1034
+ssh -f -o ExitOnForwardFailure=yes -L $PORT:rasp:22 -p 12322 home.schawe.me sleep 2
+rsync -az -e "ssh -p $PORT -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --info=stats2 deploy/* localhost:portfolio
