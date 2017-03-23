@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-23 20:51+0100\n"
-"PO-Revision-Date: 2017-03-23 20:54+0100\n"
+"POT-Creation-Date: 2017-03-23 21:16+0100\n"
+"PO-Revision-Date: 2017-03-23 21:17+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -83,8 +83,8 @@ msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
 msgstr "DPG-Frühjahrstagung, Dresden"
 
 #: ../../cv.rst:8
-msgid "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <randomWalk/DPG2017>`_"
-msgstr "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `Folien <randomWalk/DPG2017>`_"
+msgid "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <https://hendrik.schawe.me/randomWalk/DPG2017>`_"
+msgstr "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `Folien <https://hendrik.schawe.me/randomWalk/DPG2017>`_"
 
 #: ../../cv.rst:9
 msgid "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2017DPG.pdf>`"
