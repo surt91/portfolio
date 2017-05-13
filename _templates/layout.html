@@ -27,11 +27,31 @@
         <meta property="og:locale" content="en_US">
     {% endif %}
 {% endblock %}
+
+{% block schemaorg %}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Hendrik",
+        "familyName": "Schawe",
+        "image": "https://hendrik.schawe.me/_images/portrait.jpg",
+        "url": "https://hendrik.schawe.me",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Carl-von-Ossietzky Universität Oldenburg"
+        }
+    }
+    </script>
+{% endblock %}
+
 {% block extrahead %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ super() }}
 
     {{ self.opengraph() }}
+    {{ self.schemaorg() }}
+
     <link href="_static/css/style.css" rel="stylesheet">
     <link href="_static/css/font-awesome.min.css" rel="stylesheet">
     {% if pathto(pagename) != "#" %}
