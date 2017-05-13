@@ -4,10 +4,34 @@
     <title>{{ docstitle|e }}</title>
 {% endblock %}
 
+{% block opengraph %}
+    <meta property="og:title" content="Hendrik Schawe" />
+    <meta property="og:type" content="profile" />
+    <meta property="profile:first_name" content="Hendrik">
+    <meta property="profile:last_name" content="Schawe">
+    <meta property="profile:gender" content="male">
+    <meta property="profile:username" content="surt91">
+    <meta property="og:url" content="https://hendrik.schawe.me" />
+    <meta property="og:image" content="https://hendrik.schawe.me/_images/portrait.jpg" />
+    <meta property="og:description" content="Hendrik Schawe" />
+
+    <meta property="twitter:description" content="Hendrik Schawe" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:site" content="@surt91" />
+
+    {% if language == "de" %}
+        <meta property="twitter:text:description" content="Dinge, die ich mache." />
+        <meta property="og:locale" content="de_DE">
+    {% else %}
+        <meta property="twitter:text:description" content="Things that I do." />
+        <meta property="og:locale" content="en_US">
+    {% endif %}
+{% endblock %}
 {% block extrahead %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ super() }}
-    
+
+    {{ self.opengraph() }}
     <link href="_static/css/style.css" rel="stylesheet">
     <link href="_static/css/font-awesome.min.css" rel="stylesheet">
     {% if pathto(pagename) != "#" %}
