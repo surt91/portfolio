@@ -17,9 +17,8 @@ of convex hulls of random walks.
 Further research Interests are phase transitions,
 optimization problems and networks.
 
-.. include:: contact.rst
+.. include:: contact.inc
 
-.. include:: publications.rst
+.. include:: publications.inc
 
-.. include:: cv.rst
-
+.. include:: cv.inc
