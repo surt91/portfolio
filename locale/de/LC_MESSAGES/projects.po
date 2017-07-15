@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Hendrik Schawe
+# This file is distributed under the same license as the Portfolio package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# FULL NAME <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-14 18:33+0200\n"
+"PO-Revision-Date: 2017-07-15 19:59+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: ../../projects.rst:4
+msgid "Spare-Time Projects"
+msgstr "Freizeit Projekte"
+
+#: ../../projects.rst:12
+msgid "`@AFractalADay <https://github.com/surt91/AFractalADay>`_  *Rust*"
+msgstr ""
+
+#: ../../projects.rst:7
+msgid "A Twitter bot tweeting one random fractal per day."
+msgstr "Ein Twitterbot, der täglich ein zufälliges Fraktal tweetet."
+
+#: ../../projects.rst:21
+msgid "`@randomGraphs <https://github.com/surt91/AGraphADay>`_  *Python*"
+msgstr ""
+
+#: ../../projects.rst:15
+msgid ""
+"A Twitter bot tweeting one visualization of a random graph per day. See also "
+"`blog.schawe.me <https://blog.schawe.me/randomGraphs.html>`_."
+msgstr ""
+"Ein Twitterbot, der täglich eine Visualisierung eines Zufallsgraphen "
+"tweetet. Siehe auch `blog.schawe.me <https://blog.schawe.me/randomGraphs."
+"html>`_."
+
+#: ../../projects.rst:24
+msgid ""
+"`snake <https://github.com/surt91/snake>`_  *C* and `PySnake <https://github."
+"com/surt91/PySnake>`_  *Python*"
+msgstr ""
+"`snake <https://github.com/surt91/snake>`_  *C* und `PySnake <https://github."
+"com/surt91/PySnake>`_  *Python*"
+
+#: ../../projects.rst:24
+msgid "Clones of the classic game `snake`."
+msgstr "Klone des klassischen Spiels `snake`."
+
+#: ../../projects.rst:28
+msgid "`TSPview <https://github.com/surt91/TSPview>`_  *C++*"
+msgstr ""
+
+#: ../../projects.rst:27
+msgid ""
+"A GUI to visualize different solution strategies of the travelling "
+"salesperson problem."
+msgstr ""
+"Ein GUI, das verschiedene Strategien zur Optimierung des Problems des "
+"Handlungsreisenden darstellt."
