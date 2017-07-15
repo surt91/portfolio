@@ -4,6 +4,10 @@
     <title>{{ docstitle|e }}</title>
 {% endblock %}
 
+{# This will supress the loading of tons of javascript that is never used #}
+{% block scripts %}
+{% endblock %}
+
 {% block opengraph %}
     <meta property="og:title" content="Hendrik Schawe" />
     <meta property="og:type" content="profile" />
