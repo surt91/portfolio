@@ -4,11 +4,11 @@ make gettext
 sphinx-intl update -p _build/locale -l de
 sphinx-intl build
 
-rm favicon.{png,ico}
+rm -f favicon.{png,ico}
 convert -background none img/logo.svg -resize 256x256 img/favicon.png
 convert img/favicon.png -define icon:auto-resize="256,128,96,64,48,32,16" img/favicon.ico
 
-rm -r deploy
+rm -rf deploy
 mkdir -p deploy
 
 cp index.html.* img/favicon.ico img/logo.svg img/loading.gif deploy
@@ -28,6 +28,7 @@ sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 
 mkdir -p deploy/_images
 cp img/portrait.jpg img/cc.png deploy/_images
+cp index.html deploy
 
 # fix for gh pages
 touch deploy/.nojekyll

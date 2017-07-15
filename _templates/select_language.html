@@ -1,5 +1,5 @@
 {% if language == "de" %}
-    <h4>Switch to <a href="../en/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">English</a></h4>
+    <h4>Switch to <a onclick="switch_language_en()" href="../en/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">English</a></h4>
 {% else %}
-    <h4>Wechsle zu <a href="../de/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">Deutsch</a></h4>
+    <h4>Wechsle zu <a onclick="switch_language_de()" href="../de/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">Deutsch</a></h4>
 {% endif %}

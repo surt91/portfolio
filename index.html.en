@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<title>Hendrik Schawe</title>
-    <meta http-equiv="Refresh" content="0; url=/en/" />
+    <meta http-equiv="Refresh" content="0; url=en/" />
 
     <style>
         #loading
@@ -21,7 +21,7 @@
     <h1>Redirection</h1>
     <img alt="loading" src="loading.gif" width="256" height="256">
     <p>
-        You will be redirected to the <a href="/en/">english version</a>.
+        You will be redirected to the <a href="en/">english version</a>.
     </p>
 </body>
 </html>
