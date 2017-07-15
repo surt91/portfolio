@@ -13,4 +13,4 @@ Needs
 
     * not mandatory
         * Apache Webserver
-        * scp (for deployment)
+        * rsync (for deployment)
