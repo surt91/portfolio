@@ -1,16 +1,5 @@
-<ul>
-    <li>
-        {% if pathto(pagename) != "#" %}
-            <h4><a href="../en/{{ pathto(pagename) }}">English</a></h4>
-        {% else %}
-            <h4><a href="../en/">English</a></h4>
-        {% endif %}
-    </li>
-    <li>
-        {% if pathto(pagename) != "#" %}
-            <h4><a href="../de/{{ pathto(pagename) }}">Deutsch</a></h4>
-        {% else %}
-            <h4><a href="../de/">Deutsch</a></h4>
-        {% endif %}
-    </li>
-</ul>
+{% if language == "de" %}
+    <h4>Switch to <a href="../en/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">English</a></h4>
+{% else %}
+    <h4>Wechsle zu <a href="../de/{% if pathto(pagename) != "#" %}{{ pathto(pagename) }}{% endif %}">Deutsch</a></h4>
+{% endif %}
