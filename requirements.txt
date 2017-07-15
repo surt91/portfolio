@@ -1,0 +1,6 @@
+cssmin==0.2.0
+htmlmin==0.1.10
+jsmin==2.2.1
+Sphinx==1.6.3
+sphinx-intl==0.9.9
+alabaster==0.7.10

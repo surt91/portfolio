@@ -5,7 +5,7 @@ sphinx-intl update -p _build/locale -l de
 sphinx-intl build
 
 rm favicon.{png,ico}
-convert  -background none img/logo.svg -resize 256x256 img/favicon.png
+convert -background none img/logo.svg -resize 256x256 img/favicon.png
 convert img/favicon.png -define icon:auto-resize="256,128,96,64,48,32,16" img/favicon.ico
 
 rm -r deploy
@@ -29,6 +29,5 @@ sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 mkdir -p deploy/_images
 cp img/portrait.jpg img/cc.png deploy/_images
 
-PORT=1034
-ssh -f -o ExitOnForwardFailure=yes -L $PORT:rasp:22 -p 12322 home.schawe.me sleep 2
-rsync -az -e "ssh -p $PORT -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --info=stats2 deploy/* localhost:portfolio
+# fix for gh pages
+touch deploy/.nojekyll
