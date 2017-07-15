@@ -24,6 +24,7 @@ make -e SPHINXOPTS="-D language='en'" html
 mv _build/html/*.{html,js} deploy/en
 
 sed -i 's|href="_|href="../_|g' deploy/{de,en}/*.html
+sed -i 's|src="_|src="../_|g' deploy/{de,en}/*.html
 sed -i "s|<script |<script async |g" deploy/{de,en}/*.html
 
 mkdir -p deploy/_images
