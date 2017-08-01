@@ -30,5 +30,7 @@ mkdir -p deploy/_images
 cp img/portrait.jpg img/cc.png deploy/_images
 cp index.html deploy
 
+echo "hendrik.schawe.me" > deploy/CNAME
+
 # fix for gh pages
 touch deploy/.nojekyll
