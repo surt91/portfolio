@@ -22,3 +22,5 @@ deploy:
   local_dir: deploy
   on:
     branch: master
+  after_success:
+    - bash invalidateCloudflareCache.sh
