@@ -8,8 +8,6 @@ Index
 =====
 
 .. image:: img/portrait256.jpg
-    :width: 256
-    :height: 256
     :alt: portrait
     :align: right
     :target: _images/portrait.jpg

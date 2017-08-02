@@ -8,6 +8,13 @@ div.sphinxsidebar a.sidebar-social-links {
     border-bottom: none;
 }
 
+/* fix for wrong aspect ratio of images */
+img {
+  display: block;
+  width: auto;
+  height: auto;
+}
+
 i.sidebar-social-links {
     border-radius: 20%;
     border: solid transparent 1px;

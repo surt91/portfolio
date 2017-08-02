@@ -7,8 +7,6 @@ Spare-Time Projects
     A `Twitter bot <https://twitter.com/AFractalADay>`_ tweeting one random fractal per day.
 
     .. image:: img/fractal600.png
-        :width: 600
-        :height: 300
         :alt: Newton fractal
         :align: center
         :target: _images/fractal.png
@@ -19,8 +17,6 @@ Spare-Time Projects
     See also `blog.schawe.me <https://blog.schawe.me/randomGraphs.html>`_.
 
     .. image:: img/graph600.png
-        :width: 600
-        :height: 300
         :alt: random graph
         :align: center
         :target: _images/graph.png
@@ -34,8 +30,6 @@ Spare-Time Projects
     salesperson problem.
 
     .. image:: img/tsp.gif
-        :width: 600
-        :height: 300
         :alt: TSP optimization
         :align: center
         :target: _images/tsp.gif
