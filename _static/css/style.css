@@ -28,6 +28,9 @@ i.fa-twitter:hover, i.fa-creative-commons:hover {
 i.fa-twitter:hover, i.fa-twitter-square:hover {
     background-color: #00ACED;
 }
+i.fa-graduation-cap:hover {
+    background-color: #4285f4;
+}
 i.fa-facebook:hover, i.fa-facebook-square:hover {
     background-color: #3B5998;
 }
