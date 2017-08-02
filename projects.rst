@@ -33,6 +33,14 @@ Spare-Time Projects
     A GUI to visualize different solution strategies of the travelling
     salesperson problem.
 
+    .. image:: img/tsp.gif
+        :width: 600
+        :height: 300
+        :alt: TSP optimization
+        :align: center
+        :target: _images/tsp.gif
+
+
 .. These projects are from university and in private repos
 ..
 .. * `Ising Ferromagnet <https://github.com/surt91/IsingFerromagnet>`_
