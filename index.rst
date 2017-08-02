@@ -1,6 +1,12 @@
 .. Portfolio documentation master file, created by
    sphinx-quickstart on Tue Jan 19 20:34:57 2016.
 
+.. _index-label:
+
+=====
+Index
+=====
+
 .. image:: img/portrait256.jpg
     :width: 256
     :height: 256
@@ -22,3 +28,10 @@ optimization problems and networks.
 .. include:: publications.inc
 
 .. include:: cv.inc
+
+.. toctree::
+    :hidden:
+    :maxdepth: 0
+
+    index
+    projects

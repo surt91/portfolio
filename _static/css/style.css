@@ -1,3 +1,9 @@
+/* hack to hide the headline */
+h1 {
+    visibility: hidden;
+    height: 0px;
+}
+
 div.sphinxsidebar a.sidebar-social-links {
     border-bottom: none;
 }

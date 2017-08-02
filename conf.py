@@ -164,7 +164,8 @@ html_sidebars = {
             'select_language.html',
             # 'globaltoc.html',
             # 'navigation.html',
-            'localtoc.html',
+            # 'localtoc.html',
+            'manualtoc.html',
             'social.html',
     ],
 }
