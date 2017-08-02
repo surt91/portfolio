@@ -10,6 +10,7 @@ Needs
 
     * Unix tools
         * jpegtran
+        * optipng
 
     * not mandatory
         * Apache Webserver

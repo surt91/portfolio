@@ -378,10 +378,20 @@ def asset_compression(app, exception):
     htmlFiles = glob.glob("*.html")
     #~ htmlMinification(htmlFiles)
 
+    return
+
+    # do not do the expensive optimization every time
+
     os.chdir(imgPath)
-    jpgFiles = glob.glob("*.jpg")                   #find all css files
+    jpgFiles = glob.glob("*.jpg")                   #find all jpg files
     for i in jpgFiles:
         cmd = ["jpegtran", "-optimize", "-copy", "none", "-outfile", "tmp.jpg", i]
         print(" ".join(cmd))
         call(cmd)
         shutil.move("tmp.jpg", i)
+
+    pngFiles = glob.glob("*.png")                   #find all png files
+    for i in pngFiles:
+        cmd = ["optipng", "-o7", i]
+        print(" ".join(cmd))
+        call(cmd)

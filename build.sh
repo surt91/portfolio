@@ -27,7 +27,7 @@ sed -i 's|href="_|href="../_|g' deploy/{de,en}/*.html
 sed -i 's|src="_|src="../_|g' deploy/{de,en}/*.html
 
 mkdir -p deploy/_images
-cp img/portrait.jpg img/cc.png deploy/_images
+cp img/{portrait.jpg,cc.png,fractal.png,graph.png} deploy/_images
 cp index.html deploy
 
 echo "hendrik.schawe.me" > deploy/CNAME
