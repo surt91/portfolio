@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../projects.rst:4
 msgid "Spare-Time Projects"
-msgstr "Freizeit Projekte"
+msgstr "Freizeitprojekte"
 
 #: ../../projects.rst:15
 msgid "`@AFractalADay <https://github.com/surt91/AFractalADay>`_  *Rust*"
