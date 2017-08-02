@@ -59,8 +59,8 @@
     {{ self.opengraph() }}
     {{ self.schemaorg() }}
 
-    <link href="_static/css/style.css" rel="stylesheet">
-    <link href="_static/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="_static/css/style.css" type="text/css">
+    <link rel="stylesheet" href="_static/css/font-awesome.min.css" type="text/css">
     {% if pathto(pagename) != "#" %}
         <link rel="alternate" hreflang="de" href="https://hendrik.schawe.me/de/{{ pathto(pagename) }}" />
         <link rel="alternate" hreflang="en" href="https://hendrik.schawe.me/en/{{ pathto(pagename) }}" />
