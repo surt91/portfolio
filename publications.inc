@@ -9,7 +9,8 @@ List of Publications
     * `arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_
 
 2. Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node Placement
-    * Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann, (accepted)
+    * Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann -- Scientific Reports **7**, 8040 (2017)
+    * `doi:10.1038/s41598-017-08531-8 <http://dx.doi.org/10.1038/s41598-017-08531-8>`_
 
 .. 2. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
 ..     * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann, (submitted)
