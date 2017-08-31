@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-14 11:59+0200\n"
+"POT-Creation-Date: 2017-08-31 21:48+0200\n"
 "PO-Revision-Date: 2017-08-02 12:32+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.5.0\n"
 
 #: ../../index.rst:8
 msgid "Index"
@@ -133,12 +133,13 @@ msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
 msgstr "DPG-Frühjahrstagung, Dresden"
 
 #: ../../cv.inc:9
+#, fuzzy
 msgid ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation "
-"Study`, `show slides <https://hendrik.schawe.me/randomWalk/DPG2017>`_"
+"Study`, `show slides <https://dpg2017.schawe.me/>`_"
 msgstr ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation "
-"Study`, `Folien <https://hendrik.schawe.me/randomWalk/DPG2017>`_"
+"Study`, `Folien <https://dpg2017.schawe.me/>`_"
 
 #: ../../cv.inc:10
 msgid ""
