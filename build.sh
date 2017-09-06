@@ -31,6 +31,7 @@ cp img/{portrait.jpg,cc.png,fractal.png,graph.png} deploy/_images
 cp index.html deploy
 
 echo "hendrik.schawe.me" > deploy/CNAME
+cp _headers deploy/
 
 # fix for gh pages
 touch deploy/.nojekyll
