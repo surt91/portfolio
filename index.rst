@@ -32,4 +32,3 @@ optimization problems and networks.
     :maxdepth: 0
 
     index
-    projects
