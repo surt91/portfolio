@@ -4,6 +4,8 @@ Timeline
 --------
 
 * 2017
+    * CompPhys17, Leipzig
+        * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2017CompPhys.pdf>`
     * `Fundamental Problems in Statistical Physics XIV` (FPSP XIV), Bruneck
     * DPG-Frühjahrstagung (Spring Meeting), Dresden
         * `Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <https://dpg2017.schawe.me/>`_
