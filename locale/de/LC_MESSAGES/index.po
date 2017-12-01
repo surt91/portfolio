@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-31 21:48+0200\n"
+"POT-Creation-Date: 2017-12-01 14:16+0100\n"
 "PO-Revision-Date: 2017-08-02 12:32+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.0\n"
+"Generated-By: Babel 2.5.1\n"
 
 #: ../../index.rst:8
 msgid "Index"
@@ -87,14 +87,14 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc:9
-msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
+msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_"
 msgstr ""
 
 #: ../../publications.inc:10
 msgid ":download:`download pdf <pdf/2016_TSP_EPL.pdf>`"
 msgstr ":download:`PDF Download <pdf/2016_TSP_EPL.pdf>`"
 
-#: ../../publications.inc:17
+#: ../../publications.inc:18
 msgid ""
 "Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node "
 "Placement"
@@ -116,23 +116,64 @@ msgstr ""
 msgid ":download:`download pdf <pdf/2017_IFM_SciRep.pdf>`"
 msgstr ":download:`PDF Download <pdf/2017_IFM_SciRep.pdf>`"
 
+#: ../../publications.inc:30
+#, fuzzy
+msgid "Convex hulls of random walks in higher dimensions: A large deviation study"
+msgstr ""
+"`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation "
+"Study`, `Folien <https://dpg2017.schawe.me/>`_"
+
+#: ../../publications.inc:26
+msgid ""
+"Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar -- Physical "
+"Review E **?**, ??? (2017)"
+msgstr ""
+
+#: ../../publications.inc:27
+msgid "`doi: <http://dx.doi.org/>`_"
+msgstr ""
+
+#: ../../publications.inc:28
+msgid ""
+"`arXiv:1709.02638 [cond-mat.stat-mech] "
+"<https://arxiv.org/abs/1709.02638>`_"
+msgstr ""
+
+#: ../../publications.inc:29
+#, fuzzy
+msgid ":download:`download pdf <pdf/2017_convex_highdim.pdf>`"
+msgstr ":download:`PDF Download <pdf/2017_IFM_SciRep.pdf>`"
+
 #: ../../cv.inc:4
 msgid "Timeline"
 msgstr "Aktivitäten"
 
-#: ../../cv.inc:9
+#: ../../cv.inc:11
 msgid "2017"
 msgstr ""
 
 #: ../../cv.inc:7
+msgid "CompPhys17, Leipzig"
+msgstr ""
+
+#: ../../cv.inc:8
+msgid ""
+"`Linear Programming and Cutting Planes for Ground States and Excited "
+"States of the Traveling Salesperson Problem`, :download:`download slides "
+"<pdf/2017CompPhys.pdf>`"
+msgstr "`Linear Programming and Cutting Planes for Ground States and Excited "
+"States of the Traveling Salesperson Problem`, :download:`Folien Download"
+"<pdf/2017CompPhys.pdf>`"
+
+#: ../../cv.inc:9
 msgid "`Fundamental Problems in Statistical Physics XIV` (FPSP XIV), Bruneck"
 msgstr ""
 
-#: ../../cv.inc:9 ../../cv.inc:22
+#: ../../cv.inc:11 ../../cv.inc:24
 msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
 msgstr "DPG-Frühjahrstagung, Dresden"
 
-#: ../../cv.inc:9
+#: ../../cv.inc:11
 #, fuzzy
 msgid ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation "
@@ -141,7 +182,7 @@ msgstr ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation "
 "Study`, `Folien <https://dpg2017.schawe.me/>`_"
 
-#: ../../cv.inc:10
+#: ../../cv.inc:12
 msgid ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, "
 ":download:`download poster <pdf/2017DPG.pdf>`"
@@ -149,15 +190,15 @@ msgstr ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, "
 ":download:`Poster Download <pdf/2017DPG.pdf>`"
 
-#: ../../cv.inc:16
+#: ../../cv.inc:18
 msgid "2016"
 msgstr "2016"
 
-#: ../../cv.inc:12
+#: ../../cv.inc:14
 msgid "CompPhys16, Leipzig"
 msgstr ""
 
-#: ../../cv.inc:13
+#: ../../cv.inc:15
 msgid ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, "
 ":download:`download poster <pdf/2016CompPhys.pdf>`"
@@ -165,7 +206,7 @@ msgstr ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, "
 ":download:`Poster Download <pdf/2016CompPhys.pdf>`"
 
-#: ../../cv.inc:14
+#: ../../cv.inc:16
 msgid ""
 "Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* "
 "(LPTMS) (Orsay, France)"
@@ -173,11 +214,11 @@ msgstr ""
 "Besuch des *Laboratoire de Physique Théorique et Modèles Statistiques* "
 "(LPTMS) (Orsay, Frankreich)"
 
-#: ../../cv.inc:15
+#: ../../cv.inc:17
 msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
 msgstr "DPG-Frühjahrstagung, Regensburg"
 
-#: ../../cv.inc:16
+#: ../../cv.inc:18
 msgid ""
 "`Phase Transitions of Disordered Travelling Salesperson Problems solved "
 "with Linear Programming and Cutting Planes`, :download:`download slides "
@@ -187,7 +228,7 @@ msgstr ""
 "with Linear Programming and Cutting Planes`, :download:`Folien Download "
 "<pdf/2016DPG.pdf>`"
 
-#: ../../cv.inc:17
+#: ../../cv.inc:19
 msgid ""
 "Master of Science in Physics, CvO University Oldenburg, "
 ":download:`download <pdf/masterThesis.pdf>`"
@@ -195,11 +236,11 @@ msgstr ""
 "Master of Science in Physik, CvO Universität Oldenburg, "
 ":download:`Download <pdf/masterThesis.pdf>`"
 
-#: ../../cv.inc:18
+#: ../../cv.inc:20
 msgid "2015"
 msgstr "2015"
 
-#: ../../cv.inc:19
+#: ../../cv.inc:21
 msgid ""
 "`Bad Honnef Physics School: Computational Physics of Complex and "
 "Disordered Systems`, Bad Honnef, :download:`download poster "
@@ -209,17 +250,17 @@ msgstr ""
 "Disordered Systems`, Bad Honnef, :download:`Poster Download "
 "<pdf/2015MCS.pdf>`"
 
-#: ../../cv.inc:22
+#: ../../cv.inc:24
 msgid "2014"
 msgstr "2014"
 
-#: ../../cv.inc:21
+#: ../../cv.inc:23
 msgid ""
 "`5th International Summer School on Modern Compuational Science "
 "Compuational Quantum Chemistry`, Oldenburg"
 msgstr ""
 
-#: ../../cv.inc:23
+#: ../../cv.inc:25
 msgid ""
 "`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
 "<pdf/2014DPG.pdf>`"
@@ -227,11 +268,11 @@ msgstr ""
 "`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
 "<pdf/2014DPG.pdf>`"
 
-#: ../../cv.inc:25
+#: ../../cv.inc:27
 msgid "2013"
 msgstr "2013"
 
-#: ../../cv.inc:25
+#: ../../cv.inc:27
 msgid ""
 "Bachelor of Science in Physics, CvO University Oldenburg, "
 ":download:`download <pdf/bachelorThesis.pdf>`"
@@ -268,4 +309,7 @@ msgstr ""
 #~ msgid ""
 #~ "`doi: 10.1209/0295-5075/113/30004 "
 #~ "<http://dx.doi.org/10.1209/0295-5075/113/30004>`_"
+#~ msgstr ""
+
+#~ msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <http://arxiv.org/abs/1512.08554>`_"
 #~ msgstr ""
