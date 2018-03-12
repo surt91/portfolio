@@ -3,6 +3,8 @@
 Timeline
 --------
 
+* 2018
+    * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2018DPG.pdf>`
 * 2017
     * CompPhys17, Leipzig
         * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2017CompPhys.pdf>`
