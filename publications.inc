@@ -23,3 +23,10 @@ List of Publications
     * `arXiv:1709.02638 [cond-mat.stat-mech] <https://arxiv.org/abs/1709.02638>`_
     * :download:`download pdf <pdf/2017_convex_highdim_PRE.pdf>`
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
+
+4. Large deviations of convex hulls of self-avoiding random walks
+    * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar -- Physical Review E **97**, 062159 (2018)
+    * `doi:10.1103/PhysRevE.97.062159 <http://dx.doi.org/10.1103/PhysRevE.97.062159>`_
+    * `arXiv:1804.02371 [cond-mat.stat-mech] <https://arxiv.org/abs/1804.02371>`_
+    * :download:`download pdf <pdf/2018_convex_avoiding_PRE.pdf>`
+    .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
