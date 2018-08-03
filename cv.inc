@@ -4,6 +4,8 @@ Timeline
 --------
 
 * 2018
+    * XXX IUPAP Conference on Computational Physics, Davis, CA
+        * `Large Deviations of Convex Hulls of Self-Avoiding Random Walks`, :download:`download slides <pdf/2018CCP.pdf>`
     * DPG-Frühjahrstagung (Spring Meeting), Berlin
         * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2018DPG.pdf>`
 * 2017
