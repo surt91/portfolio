@@ -1,7 +1,7 @@
 .. _pub-label:
 
-List of Publications
---------------------
+Publications
+------------
 
 1. Phase Transitions of Traveling Salesperson Problems solved with Linear Programming and Cutting Planes
     * Hendrik Schawe, Alexander K. Hartmann -- Europhysics Letters **113**, 30004 (2016)
@@ -48,22 +48,22 @@ Preprints
     * `arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_
     * :download:`download preprint <pdf/pp_bi.pdf>`
 
-7. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
+#. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
     * Hendrik Schawe, Alexander K. Hartmann
     * `arXiv:1808.10698 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.10698>`_
     * :download:`download preprint <pdf/pp_true.pdf>`
 
-8. Vertebrate pollinators: phase transition in a time-dependent generalized traveling-salesperson problem
+#. Vertebrate pollinators: phase transition in a time-dependent generalized traveling-salesperson problem
     * M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
     * `arXiv:1803.08015 [cond-mat.dis-nn] <https://arxiv.org/abs/1803.08015>`_
     * :download:`download preprint <pdf/pp_bat.pdf>`
 
-9. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
+#. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
     * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann
     * `arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_
     * :download:`download preprint <pdf/pp_sat.pdf>`
 
-10. Replica Symmetry and Replica Symmetry Breaking for the Traveling Salesperson Problem
+#. Replica Symmetry and Replica Symmetry Breaking for the Traveling Salesperson Problem
     * Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann
     * `arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_
     * :download:`download preprint <pdf/pp_tsprsb.pdf>`
