@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-10 14:00+0200\n"
-"PO-Revision-Date: 2018-07-10 14:01+0200\n"
+"POT-Creation-Date: 2018-12-11 18:15+0100\n"
+"PO-Revision-Date: 2018-12-11 18:19+0100\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: \n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.2\n"
 
 #: ../../index.rst:8
 msgid "Index"
@@ -42,141 +42,268 @@ msgstr ""
 "`random Walks`. Weitere Interessengebiete sind Phasenübergänge, "
 "Optimierungsprobleme und Netzwerke."
 
-#: ../../contact.inc:4
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:4 <included from
 msgid "Contact"
 msgstr "Kontakt"
 
-#: ../../contact.inc:6
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:6 <included from
 msgid "Institut für Physik"
 msgstr ""
 
-#: ../../contact.inc:7
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:7 <included from
 msgid "Carl von Ossietzky Universität Oldenburg"
 msgstr ""
 
-#: ../../contact.inc:8
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:8 <included from
 msgid "26111 Oldenburg"
 msgstr ""
 
-#: ../../contact.inc:9
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:9 <included from
 msgid "Office: W2 3-351"
 msgstr "Büro: W2 3-351"
 
-#: ../../contact.inc:10
+#: ../../contact.inc /home/surt91/code/Portfolio/index.rst>:10 <included from
 msgid "hendrik.schawe@uni-oldenburg.de"
 msgstr ""
 
-#: ../../publications.inc:4
-msgid "List of Publications"
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:4 <included from
+msgid "Publications"
 msgstr "Veröffentlichungen"
 
-#: ../../publications.inc:12
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:13 <included from
 msgid ""
 "Phase Transitions of Traveling Salesperson Problems solved with Linear "
 "Programming and Cutting Planes"
 msgstr ""
 
-#: ../../publications.inc:7
-msgid "Hendrik Schawe, Alexander K. Hartmann -- EPL **113**, 30004 (2016)"
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:7 <included from
+msgid ""
+"Hendrik Schawe, Alexander K. Hartmann -- Europhysics Letters **113**, 30004 "
+"(2016)"
 msgstr ""
 
-#: ../../publications.inc:8
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:8 <included from
 msgid ""
 "`doi:10.1209/0295-5075/113/30004 <http://dx.doi."
 "org/10.1209/0295-5075/113/30004>`_"
 msgstr ""
 
-#: ../../publications.inc:9
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:9 <included from
 msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_"
 msgstr ""
 
-#: ../../publications.inc:10
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:10 <included from
 msgid ":download:`download pdf <pdf/2016_TSP_EPL.pdf>`"
 msgstr ":download:`PDF Download <pdf/2016_TSP_EPL.pdf>`"
 
-#: ../../publications.inc:18
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:20 <included from
 msgid ""
 "Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node "
 "Placement"
 msgstr ""
 
-#: ../../publications.inc:15
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:16 <included from
 msgid ""
 "Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann -- Scientific "
 "Reports **7**, 8040 (2017)"
 msgstr ""
 
-#: ../../publications.inc:16
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:17 <included from
 msgid ""
 "`doi:10.1038/s41598-017-08531-8 <http://dx.doi.org/10.1038/s41598-017-08531-8>`_"
 msgstr ""
 
-#: ../../publications.inc:17
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:18 <included from
 msgid ":download:`download pdf <pdf/2017_IFM_SciRep.pdf>`"
 msgstr ":download:`PDF Download <pdf/2017_IFM_SciRep.pdf>`"
 
-#: ../../publications.inc:25
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:28 <included from
 msgid "Convex hulls of random walks in higher dimensions: A large deviation study"
 msgstr ""
 
-#: ../../publications.inc:21
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:23 <included from
 msgid ""
 "Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar -- Physical Review E "
 "**96**, 062101 (2017)"
 msgstr ""
 
-#: ../../publications.inc:22
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:24 <included from
 msgid ""
-"`doi:10.1103/PhysRevE.96.062101 <https://link.aps.org/doi/10.1103/"
-"PhysRevE.96.062101>`_"
+"`doi:10.1103/PhysRevE.96.062101 <http://dx.doi.org/10.1103/PhysRevE.96.062101>`_"
 msgstr ""
 
-#: ../../publications.inc:23
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:25 <included from
 msgid ""
 "`arXiv:1709.02638 [cond-mat.stat-mech] <https://arxiv.org/abs/1709.02638>`_"
 msgstr ""
 
-#: ../../publications.inc:24
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:26 <included from
 msgid ":download:`download pdf <pdf/2017_convex_highdim_PRE.pdf>`"
 msgstr ":download:`PDF Download <pdf/2017_convex_highdim_PRE.pdf>`"
 
-#: ../../publications.inc:32
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:36 <included from
 msgid "Large deviations of convex hulls of self-avoiding random walks"
 msgstr ""
 
-#: ../../publications.inc:28
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:31 <included from
 msgid ""
 "Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar -- Physical Review E "
 "**97**, 062159 (2018)"
 msgstr ""
 
-#: ../../publications.inc:29
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:32 <included from
 msgid ""
 "`doi:10.1103/PhysRevE.97.062159 <http://dx.doi.org/10.1103/PhysRevE.97.062159>`_"
 msgstr ""
 
-#: ../../publications.inc:30
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:33 <included from
 msgid ""
 "`arXiv:1804.02371 [cond-mat.stat-mech] <https://arxiv.org/abs/1804.02371>`_"
 msgstr ""
 
-#: ../../publications.inc:31
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:34 <included from
 msgid ":download:`download pdf <pdf/2018_convex_avoiding_PRE.pdf>`"
 msgstr ":download:`PDF Download <pdf/2018_convex_avoiding_PRE.pdf>`"
 
-#: ../../cv.inc:4
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:46 <included from
+msgid ""
+"Ground-state energy of noninteracting fermions with a random energy spectrum"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:39 <included from
+msgid ""
+"Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar, Grégory Schehr -- "
+"Europhysics Letters **124**, 40005 (2018)"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:40 <included from
+msgid ""
+"`doi:10.1209/0295-5075/124/40005 <http://dx.doi."
+"org/10.1209/0295-5075/124/40005>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:41 <included from
+msgid "`arXiv:1808.09246 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.09246>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:42 <included from
+msgid ":download:`download pdf <pdf/2018_srn_EPL.pdf>`"
+msgstr ":download:`PDF Download <pdf/2018_srn_EPL.pdf>`"
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:49 <included from
+msgid "Preprints"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:54 <included from
+msgid ""
+"Large-deviation properties of the largest biconnected component for random "
+"graphs"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:52
+#: /home/surt91/code/Portfolio/index.rst>:57 <included from
+msgid "Hendrik Schawe, Alexander K. Hartmann"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:53 <included from
+msgid "`arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:54 <included from
+msgid ":download:`download preprint <pdf/pp_bi.pdf>`"
+msgstr ":download:`PDF Download <pdf/pp_bi.pdf>`"
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:59 <included from
+msgid "Large Deviations of Convex Hulls of the \"True\" Self-Avoiding Random Walk"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:58 <included from
+msgid "`arXiv:1808.10698 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.10698>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:59 <included from
+msgid ":download:`download preprint <pdf/pp_true.pdf>`"
+msgstr ":download:`PDF Download <pdf/pp_true.pdf>`"
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:64 <included from
+msgid ""
+"Vertebrate pollinators: phase transition in a time-dependent generalized "
+"traveling-salesperson problem"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:62 <included from
+msgid "Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:63 <included from
+msgid "`arXiv:1803.08015 [cond-mat.dis-nn] <https://arxiv.org/abs/1803.08015>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:64 <included from
+msgid ":download:`download preprint <pdf/pp_bat.pdf>`"
+msgstr ":download:`PDF Download <pdf/pp_bat.pdf>`"
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:69 <included from
+msgid ""
+"Phase Transitions of the Typical Algorithmic Complexity of the Random "
+"Satisfiability Problem Studied with Linear Programming"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:67 <included from
+msgid "Hendrik Schawe, Roman Bleim, Alexander K. Hartmann"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:68 <included from
+msgid "`arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:69 <included from
+msgid ":download:`download preprint <pdf/pp_sat.pdf>`"
+msgstr ":download:`PDF Download <pdf/pp_sat.pdf>`"
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:74 <included from
+msgid ""
+"Replica Symmetry and Replica Symmetry Breaking for the Traveling Salesperson "
+"Problem"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:72 <included from
+msgid "Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:73 <included from
+msgid "`arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_"
+msgstr ""
+
+#: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:74 <included from
+msgid ":download:`download preprint <pdf/pp_tsprsb.pdf>`"
+msgstr ":download:`PDF Download <pdf/pp_tsprsb.pdf>`"
+
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:4 <included from
 msgid "Timeline"
 msgstr "Aktivitäten"
 
-#: ../../cv.inc:7
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:9 <included from
 msgid "2018"
 msgstr ""
 
-#: ../../cv.inc:7
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:7 <included from
+msgid "XXX IUPAP Conference on Computational Physics, Davis, CA"
+msgstr ""
+
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:8 <included from
+msgid ""
+"`Large Deviations of Convex Hulls of Self-Avoiding Random Walks`, :download:"
+"`download slides <pdf/2018CCP.pdf>`"
+msgstr ""
+"`Large Deviations of Convex Hulls of Self-Avoiding Random Walks`, :download:"
+"`Folien Download<pdf/2018CCP.pdf>`"
+
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:9 <included from
 msgid "DPG-Frühjahrstagung (Spring Meeting), Berlin"
 msgstr "DPG-Frühjahrstagung, Berlin"
 
-#: ../../cv.inc:8
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:10 <included from
 msgid ""
 "`Linear Programming and Cutting Planes for Ground States and Excited States of "
 "the Traveling Salesperson Problem`, :download:`download slides <pdf/2018DPG."
@@ -186,15 +313,15 @@ msgstr ""
 "the Traveling Salesperson Problem`, :download:`Folien Download <pdf/2018DPG."
 "pdf>`"
 
-#: ../../cv.inc:14
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:16 <included from
 msgid "2017"
 msgstr ""
 
-#: ../../cv.inc:10
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:12 <included from
 msgid "CompPhys17, Leipzig"
 msgstr ""
 
-#: ../../cv.inc:11
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:13 <included from
 msgid ""
 "`Linear Programming and Cutting Planes for Ground States and Excited States of "
 "the Traveling Salesperson Problem`, :download:`download slides "
@@ -204,15 +331,16 @@ msgstr ""
 "the Traveling Salesperson Problem`, :download:`Folien Download<pdf/2017CompPhys."
 "pdf>`"
 
-#: ../../cv.inc:12
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:14 <included from
 msgid "`Fundamental Problems in Statistical Physics XIV` (FPSP XIV), Bruneck"
 msgstr ""
 
-#: ../../cv.inc:14 ../../cv.inc:27
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:16
+#: /home/surt91/code/Portfolio/index.rst>:29 <included from
 msgid "DPG-Frühjahrstagung (Spring Meeting), Dresden"
 msgstr "DPG-Frühjahrstagung, Dresden"
 
-#: ../../cv.inc:14
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:16 <included from
 msgid ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, "
 "`show slides <https://dpg2017.schawe.me/>`_"
@@ -220,7 +348,7 @@ msgstr ""
 "`Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, "
 "`Folien <https://dpg2017.schawe.me/>`_"
 
-#: ../../cv.inc:15
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:17 <included from
 msgid ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :"
 "download:`download poster <pdf/2017DPG.pdf>`"
@@ -228,15 +356,15 @@ msgstr ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :"
 "download:`Poster Download <pdf/2017DPG.pdf>`"
 
-#: ../../cv.inc:21
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:23 <included from
 msgid "2016"
 msgstr "2016"
 
-#: ../../cv.inc:17
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:19 <included from
 msgid "CompPhys16, Leipzig"
 msgstr ""
 
-#: ../../cv.inc:18
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:20 <included from
 msgid ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :"
 "download:`download poster <pdf/2016CompPhys.pdf>`"
@@ -244,7 +372,7 @@ msgstr ""
 "`Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :"
 "download:`Poster Download <pdf/2016CompPhys.pdf>`"
 
-#: ../../cv.inc:19
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:21 <included from
 msgid ""
 "Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* "
 "(LPTMS) (Orsay, France)"
@@ -252,11 +380,11 @@ msgstr ""
 "Besuch des *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) "
 "(Orsay, Frankreich)"
 
-#: ../../cv.inc:20
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:22 <included from
 msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
 msgstr "DPG-Frühjahrstagung, Regensburg"
 
-#: ../../cv.inc:21
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:23 <included from
 msgid ""
 "`Phase Transitions of Disordered Travelling Salesperson Problems solved with "
 "Linear Programming and Cutting Planes`, :download:`download slides <pdf/2016DPG."
@@ -266,7 +394,7 @@ msgstr ""
 "Linear Programming and Cutting Planes`, :download:`Folien Download <pdf/2016DPG."
 "pdf>`"
 
-#: ../../cv.inc:22
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:24 <included from
 msgid ""
 "Master of Science in Physics, CvO University Oldenburg, :download:`download "
 "<pdf/masterThesis.pdf>`"
@@ -274,11 +402,11 @@ msgstr ""
 "Master of Science in Physik, CvO Universität Oldenburg, :download:`Download "
 "<pdf/masterThesis.pdf>`"
 
-#: ../../cv.inc:23
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:25 <included from
 msgid "2015"
 msgstr "2015"
 
-#: ../../cv.inc:24
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:26 <included from
 msgid ""
 "`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
 "Systems`, Bad Honnef, :download:`download poster <pdf/2015MCS.pdf>`"
@@ -286,17 +414,17 @@ msgstr ""
 "`Bad Honnef Physics School: Computational Physics of Complex and Disordered "
 "Systems`, Bad Honnef, :download:`Poster Download <pdf/2015MCS.pdf>`"
 
-#: ../../cv.inc:27
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:29 <included from
 msgid "2014"
 msgstr "2014"
 
-#: ../../cv.inc:26
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:28 <included from
 msgid ""
 "`5th International Summer School on Modern Compuational Science Compuational "
 "Quantum Chemistry`, Oldenburg"
 msgstr ""
 
-#: ../../cv.inc:28
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:30 <included from
 msgid ""
 "`Ising-Ferromagnet on Proximity Graphs`, :download:`download poster "
 "<pdf/2014DPG.pdf>`"
@@ -304,11 +432,11 @@ msgstr ""
 "`Ising-Ferromagnet on Proximity Graphs`, :download:`Poster Download "
 "<pdf/2014DPG.pdf>`"
 
-#: ../../cv.inc:30
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:32 <included from
 msgid "2013"
 msgstr "2013"
 
-#: ../../cv.inc:30
+#: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:32 <included from
 msgid ""
 "Bachelor of Science in Physics, CvO University Oldenburg, :download:`download "
 "<pdf/bachelorThesis.pdf>`"
