@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 18:15+0100\n"
-"PO-Revision-Date: 2018-12-11 18:19+0100\n"
+"POT-Creation-Date: 2018-12-11 18:27+0100\n"
+"PO-Revision-Date: 2018-12-11 18:29+0100\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: \n"
@@ -93,8 +93,8 @@ msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_"
 msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:10 <included from
-msgid ":download:`download pdf <pdf/2016_TSP_EPL.pdf>`"
-msgstr ":download:`PDF Download <pdf/2016_TSP_EPL.pdf>`"
+msgid ":download:`download article <pdf/2016_TSP_EPL.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2018_srn_EPL.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:20 <included from
 msgid ""
@@ -114,8 +114,8 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:18 <included from
-msgid ":download:`download pdf <pdf/2017_IFM_SciRep.pdf>`"
-msgstr ":download:`PDF Download <pdf/2017_IFM_SciRep.pdf>`"
+msgid ":download:`download article <pdf/2017_IFM_SciRep.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2017_IFM_SciRep.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:28 <included from
 msgid "Convex hulls of random walks in higher dimensions: A large deviation study"
@@ -138,8 +138,8 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:26 <included from
-msgid ":download:`download pdf <pdf/2017_convex_highdim_PRE.pdf>`"
-msgstr ":download:`PDF Download <pdf/2017_convex_highdim_PRE.pdf>`"
+msgid ":download:`download article <pdf/2017_convex_highdim_PRE.pdf>`"
+msgstr ":download:`Artikel-Download<pdf/2017_convex_highdim_PRE.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:36 <included from
 msgid "Large deviations of convex hulls of self-avoiding random walks"
@@ -162,8 +162,8 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:34 <included from
-msgid ":download:`download pdf <pdf/2018_convex_avoiding_PRE.pdf>`"
-msgstr ":download:`PDF Download <pdf/2018_convex_avoiding_PRE.pdf>`"
+msgid ":download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2018_convex_avoiding_PRE.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:46 <included from
 msgid ""
@@ -187,8 +187,8 @@ msgid "`arXiv:1808.09246 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.09246>`_"
 msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:42 <included from
-msgid ":download:`download pdf <pdf/2018_srn_EPL.pdf>`"
-msgstr ":download:`PDF Download <pdf/2018_srn_EPL.pdf>`"
+msgid ":download:`download article <pdf/2018_srn_EPL.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2018_srn_EPL.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:49 <included from
 msgid "Preprints"
@@ -211,7 +211,7 @@ msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:54 <included from
 msgid ":download:`download preprint <pdf/pp_bi.pdf>`"
-msgstr ":download:`PDF Download <pdf/pp_bi.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_bi.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:59 <included from
 msgid "Large Deviations of Convex Hulls of the \"True\" Self-Avoiding Random Walk"
@@ -223,7 +223,7 @@ msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:59 <included from
 msgid ":download:`download preprint <pdf/pp_true.pdf>`"
-msgstr ":download:`PDF Download <pdf/pp_true.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_true.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:64 <included from
 msgid ""
@@ -241,7 +241,7 @@ msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:64 <included from
 msgid ":download:`download preprint <pdf/pp_bat.pdf>`"
-msgstr ":download:`PDF Download <pdf/pp_bat.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_bat.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:69 <included from
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:69 <included from
 msgid ":download:`download preprint <pdf/pp_sat.pdf>`"
-msgstr ":download:`PDF Download <pdf/pp_sat.pdf>`"
+msgstr ":download:`Manuskript-Download<pdf/pp_sat.pdf>`"
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:74 <included from
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 
 #: ../../publications.inc /home/surt91/code/Portfolio/index.rst>:74 <included from
 msgid ":download:`download preprint <pdf/pp_tsprsb.pdf>`"
-msgstr ":download:`PDF Download <pdf/pp_tsprsb.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_tsprsb.pdf>`"
 
 #: ../../cv.inc /home/surt91/code/Portfolio/index.rst>:4 <included from
 msgid "Timeline"
@@ -443,3 +443,6 @@ msgid ""
 msgstr ""
 "Bachelor of Science in Physik, CvO Universität Oldenburg, :download:`Download "
 "<pdf/bachelorThesis.pdf>`"
+
+#~ msgid ":download:`download pdf <pdf/2016_TSP_EPL.pdf>`"
+#~ msgstr ":download:`PDF Download <pdf/2016_TSP_EPL.pdf>`"
