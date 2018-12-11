@@ -4,7 +4,7 @@ List of Publications
 --------------------
 
 1. Phase Transitions of Traveling Salesperson Problems solved with Linear Programming and Cutting Planes
-    * Hendrik Schawe, Alexander K. Hartmann -- EPL **113**, 30004 (2016)
+    * Hendrik Schawe, Alexander K. Hartmann -- Europhysics Letters **113**, 30004 (2016)
     * `doi:10.1209/0295-5075/113/30004 <http://dx.doi.org/10.1209/0295-5075/113/30004>`_
     * `arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_
     * :download:`download pdf <pdf/2016_TSP_EPL.pdf>`
@@ -30,3 +30,11 @@ List of Publications
     * `arXiv:1804.02371 [cond-mat.stat-mech] <https://arxiv.org/abs/1804.02371>`_
     * :download:`download pdf <pdf/2018_convex_avoiding_PRE.pdf>`
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
+
+5. Ground-state energy of noninteracting fermions with a random energy spectrum
+    * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar, Grégory Schehr -- Europhysics Letters **124**, 40005 (2018)
+    * `doi:10.1209/0295-5075/124/40005 <http://dx.doi.org/10.1209/0295-5075/124/40005>`_
+    * `arXiv:1808.09246 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.09246>`_
+    * :download:`download pdf <pdf/2018_srn_EPL.pdf>`
+    .. direct link is fine: point (2) in https://authors.epletters.net/documents/copyright.pdf
+    .. "all or part [..] including the authors' personal home page"
