@@ -55,12 +55,12 @@ Preprints
 
 #. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
     * Hendrik Schawe, Alexander K. Hartmann
-    * `arXiv:1808.10698 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.10698>`_
+    * `arXiv:1808.10698 [cond-mat.stat-mech] <https://arxiv.org/abs/1808.10698>`_
     * :download:`download preprint <pdf/pp_true.pdf>`
 
 #. Vertebrate pollinators: phase transition in a time-dependent generalized traveling-salesperson problem
     * M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
-    * `arXiv:1803.08015 [cond-mat.dis-nn] <https://arxiv.org/abs/1803.08015>`_
+    * `arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_
     * :download:`download preprint <pdf/pp_bat.pdf>`
 
 #. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
