@@ -9,14 +9,16 @@ Timeline
     * DPG-Frühjahrstagung (Spring Meeting), Berlin
         * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2018DPG.pdf>`
 * 2017
-    * CompPhys17, Leipzig
+    * CompPhys17, 18th International NTZ-Workshop on New Developments
+in Computational Physics, Leipzig
         * `Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem`, :download:`download slides <pdf/2017CompPhys.pdf>`
     * `Fundamental Problems in Statistical Physics XIV` (FPSP XIV), Bruneck
     * DPG-Frühjahrstagung (Spring Meeting), Dresden
         * `Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study`, `show slides <https://dpg2017.schawe.me/>`_
         * `Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2017DPG.pdf>`
 * 2016
-    * CompPhys16, Leipzig
+    * CompPhys16, 17th International NTZ-Workshop on New Developments
+in Computational Physics, Leipzig
         * `Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study`, :download:`download poster <pdf/2016CompPhys.pdf>`
     * Visit to the *Laboratoire de Physique Théorique et Modèles Statistiques* (LPTMS) (Orsay, France)
     * DPG-Frühjahrstagung (Spring Meeting), Regensburg
