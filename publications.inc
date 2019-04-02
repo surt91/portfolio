@@ -29,6 +29,8 @@ Publications
     * :download:`download article <pdf/2017_convex_highdim_PRE.pdf>`
 
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
+    .. "The right to use all or part of the Article, including the APS-prepared version
+    .. without revision or modification, on the author(s)’ web home page [..]"
 
 4. Large deviations of convex hulls of self-avoiding random walks
     * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar
@@ -38,6 +40,8 @@ Publications
     * :download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`
 
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
+    .. "The right to use all or part of the Article, including the APS-prepared version
+    .. without revision or modification, on the author(s)’ web home page [..]"
 
 5. Ground-state energy of noninteracting fermions with a random energy spectrum
     * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar, Grégory Schehr
@@ -49,9 +53,18 @@ Publications
     .. direct link is fine: point (2) in https://authors.epletters.net/documents/copyright.pdf
     .. "all or part [..] including the authors' personal home page"
 
+6. Large deviations of the length of the longest increasing subsequence of random permutations and random walks
+    * Jörn Börjes, Hendrik Schawe, Alexander K. Hartmann
+    * Physical Review E *99*, 042104 (2019)
+    * `doi:10.1103/PhysRevE.99.042104 <https://doi.org/10.1103/PhysRevE.99.042104>`_
+    * `arXiv:1901.05235 [cond-mat.dis-nn] <https://arxiv.org/abs/1901.05235>`_
+    * :download:`download article <pdf/2019_lis_PRE.pdf>`
 
 Preprints
 ---------
+    .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
+    .. "The right to use all or part of the Article, including the APS-prepared version
+    .. without revision or modification, on the author(s)’ web home page [..]"
 
 6. Large-deviation properties of the largest biconnected component for random graphs
     * Hendrik Schawe, Alexander K. Hartmann
