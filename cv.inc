@@ -3,6 +3,9 @@
 Timeline
 --------
 
+* 2019
+    * DPG-Frühjahrstagung (Spring Meeting), Regensburg
+        * `Ground-state energy distribution of noninteracting fermions with a random energy spectrum`, :download:`download slides <pdf/2019DPG.pdf>` 
 * 2018
     * XXX IUPAP Conference on Computational Physics, Davis, CA
         * `Large Deviations of Convex Hulls of Self-Avoiding Random Walks`, :download:`download slides <pdf/2018CCP.pdf>`
