@@ -60,16 +60,27 @@ Publications
     * `arXiv:1901.05235 [cond-mat.dis-nn] <https://arxiv.org/abs/1901.05235>`_
     * :download:`download article <pdf/2019_lis_PRE.pdf>`
 
-Preprints
----------
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
     .. "The right to use all or part of the Article, including the APS-prepared version
     .. without revision or modification, on the author(s)’ web home page [..]"
 
-6. Large-deviation properties of the largest biconnected component for random graphs
+7. Large-deviation properties of the largest biconnected component for random graphs
     * Hendrik Schawe, Alexander K. Hartmann
+    * The European Physical Journal B **92**, 73 (2019)
+    * `doi:10.1140/epjb/e2019-90667-y <https://dx.doi.org/10.1140/epjb/e2019-90667-y>`_
     * `arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_
-    * :download:`download preprint <pdf/pp_bi.pdf>`
+    * :download:`download accepted manuscript <pdf/2019_bi_EPJB_accepted.pdf>` (`view <https://rdcu.be/bumov>`_)
+
+    .. direct link is forbidden: is explicitly not allowed
+    .. "He/she may not use the publisher’s version (the final article), which is posted on
+    .. SpringerLink and other Springer websites, for the purpose of self-archiving or deposit."
+    .. instead I use the explicitly allowed accepted version
+    .. "Authors may self-archive the Author’s accepted manuscript of their articles on their own websites."
+
+    .. but we can share the view link
+
+Preprints
+---------
 
 #. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
     * Hendrik Schawe, Alexander K. Hartmann
