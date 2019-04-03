@@ -55,7 +55,7 @@ Publications
 
 6. Large deviations of the length of the longest increasing subsequence of random permutations and random walks
     * Jörn Börjes, Hendrik Schawe, Alexander K. Hartmann
-    * Physical Review E *99*, 042104 (2019)
+    * Physical Review E **99**, 042104 (2019)
     * `doi:10.1103/PhysRevE.99.042104 <https://doi.org/10.1103/PhysRevE.99.042104>`_
     * `arXiv:1901.05235 [cond-mat.dis-nn] <https://arxiv.org/abs/1901.05235>`_
     * :download:`download article <pdf/2019_lis_PRE.pdf>`
