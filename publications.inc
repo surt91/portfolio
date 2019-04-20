@@ -6,27 +6,27 @@ Publications
 1. Phase Transitions of Traveling Salesperson Problems solved with Linear Programming and Cutting Planes
     * Hendrik Schawe, Alexander K. Hartmann
     * Europhysics Letters **113**, 30004 (2016)
+    * :download:`download article <pdf/2016_TSP_EPL.pdf>`
     * `doi:10.1209/0295-5075/113/30004 <http://dx.doi.org/10.1209/0295-5075/113/30004>`_
     * `arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_
-    * :download:`download article <pdf/2016_TSP_EPL.pdf>`
 
     .. direct link is fine: point (2) in https://authors.epletters.net/documents/copyright.pdf
     .. "all or part [..] including the authors' personal home page"
 
 2. Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node Placement
     * Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann
+    * :download:`download article <pdf/2017_IFM_SciRep.pdf>`
     * Scientific Reports **7**, 8040 (2017)
     * `doi:10.1038/s41598-017-08531-8 <http://dx.doi.org/10.1038/s41598-017-08531-8>`_
-    * :download:`download article <pdf/2017_IFM_SciRep.pdf>`
 
     .. direct link is fine: Open Access (creative commons license)
 
 3. Convex hulls of random walks in higher dimensions: A large deviation study
     * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar
     * Physical Review E **96**, 062101 (2017)
+    * :download:`download article <pdf/2017_convex_highdim_PRE.pdf>`
     * `doi:10.1103/PhysRevE.96.062101 <http://dx.doi.org/10.1103/PhysRevE.96.062101>`_
     * `arXiv:1709.02638 [cond-mat.stat-mech] <https://arxiv.org/abs/1709.02638>`_
-    * :download:`download article <pdf/2017_convex_highdim_PRE.pdf>`
 
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
     .. "The right to use all or part of the Article, including the APS-prepared version
@@ -35,9 +35,9 @@ Publications
 4. Large deviations of convex hulls of self-avoiding random walks
     * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar
     * Physical Review E **97**, 062159 (2018)
+    * :download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`
     * `doi:10.1103/PhysRevE.97.062159 <http://dx.doi.org/10.1103/PhysRevE.97.062159>`_
     * `arXiv:1804.02371 [cond-mat.stat-mech] <https://arxiv.org/abs/1804.02371>`_
-    * :download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`
 
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
     .. "The right to use all or part of the Article, including the APS-prepared version
@@ -46,9 +46,9 @@ Publications
 5. Ground-state energy of noninteracting fermions with a random energy spectrum
     * Hendrik Schawe, Alexander K. Hartmann, Satya N. Majumdar, Grégory Schehr
     * Europhysics Letters **124**, 40005 (2018)
+    * :download:`download article <pdf/2018_srn_EPL.pdf>`
     * `doi:10.1209/0295-5075/124/40005 <http://dx.doi.org/10.1209/0295-5075/124/40005>`_
     * `arXiv:1808.09246 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.09246>`_
-    * :download:`download article <pdf/2018_srn_EPL.pdf>`
 
     .. direct link is fine: point (2) in https://authors.epletters.net/documents/copyright.pdf
     .. "all or part [..] including the authors' personal home page"
@@ -56,9 +56,9 @@ Publications
 6. Large deviations of the length of the longest increasing subsequence of random permutations and random walks
     * Jörn Börjes, Hendrik Schawe, Alexander K. Hartmann
     * Physical Review E **99**, 042104 (2019)
+    * :download:`download article <pdf/2019_lis_PRE.pdf>`
     * `doi:10.1103/PhysRevE.99.042104 <https://doi.org/10.1103/PhysRevE.99.042104>`_
     * `arXiv:1901.05235 [cond-mat.dis-nn] <https://arxiv.org/abs/1901.05235>`_
-    * :download:`download article <pdf/2019_lis_PRE.pdf>`
 
     .. direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement
     .. "The right to use all or part of the Article, including the APS-prepared version
@@ -67,9 +67,9 @@ Publications
 7. Large-deviation properties of the largest biconnected component for random graphs
     * Hendrik Schawe, Alexander K. Hartmann
     * The European Physical Journal B **92**, 73 (2019)
+    * :download:`download accepted manuscript <pdf/2019_bi_EPJB_accepted.pdf>` (`view <https://rdcu.be/bumov>`_)
     * `doi:10.1140/epjb/e2019-90667-y <https://dx.doi.org/10.1140/epjb/e2019-90667-y>`_
     * `arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_
-    * :download:`download accepted manuscript <pdf/2019_bi_EPJB_accepted.pdf>` (`view <https://rdcu.be/bumov>`_)
 
     .. direct link is forbidden: is explicitly not allowed
     .. "He/she may not use the publisher’s version (the final article), which is posted on
@@ -82,26 +82,26 @@ Publications
 8. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
     * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann
     * PLOS ONE **14**, 4 (2019)
+    * :download:`download article <pdf/2019_sat_PLOSONE.pdf>`
     * `doi: <https://dx.doi.org/10.1371/journal.pone.0215309>`_
     * `arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_
-    * :download:`download article <pdf/2019_sat_PLOSONE.pdf>`
 
     .. direct link is fine: Open Access (creative commons license)
 
 Preprints
 ---------
 
-#. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
+9. Large Deviations of Convex Hulls of the "True" Self-Avoiding Random Walk
     * Hendrik Schawe, Alexander K. Hartmann
-    * `arXiv:1808.10698 [cond-mat.stat-mech] <https://arxiv.org/abs/1808.10698>`_
     * :download:`download preprint <pdf/pp_true.pdf>`
+    * `arXiv:1808.10698 [cond-mat.stat-mech] <https://arxiv.org/abs/1808.10698>`_
 
 #. Vertebrate pollinators: phase transition in a time-dependent generalized traveling-salesperson problem
     * M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
-    * `arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_
     * :download:`download preprint <pdf/pp_bat.pdf>`
+    * `arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_
 
 #. Replica Symmetry and Replica Symmetry Breaking for the Traveling Salesperson Problem
     * Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann
-    * `arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_
     * :download:`download preprint <pdf/pp_tsprsb.pdf>`
+    * `arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_
