@@ -79,6 +79,15 @@ Publications
 
     .. but we can share the view link
 
+8. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
+    * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann
+    * PLOS ONE **14**, 4 (2019)
+    * `doi: <https://dx.doi.org/10.1371/journal.pone.0215309>`_
+    * `arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_
+    * :download:`download article <pdf/2019_sat_PLOSONE.pdf>`
+
+    .. direct link is fine: Open Access (creative commons license)
+
 Preprints
 ---------
 
@@ -91,11 +100,6 @@ Preprints
     * M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
     * `arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_
     * :download:`download preprint <pdf/pp_bat.pdf>`
-
-#. Phase Transitions of the Typical Algorithmic Complexity of the Random Satisfiability Problem Studied with Linear Programming
-    * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann
-    * `arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_
-    * :download:`download preprint <pdf/pp_sat.pdf>`
 
 #. Replica Symmetry and Replica Symmetry Breaking for the Traveling Salesperson Problem
     * Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann
