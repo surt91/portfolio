@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-03 19:56+0200\n"
-"PO-Revision-Date: 2019-04-03 20:01+0200\n"
+"POT-Creation-Date: 2019-04-20 09:39+0200\n"
+"PO-Revision-Date: 2019-04-20 09:41+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: \n"
@@ -85,18 +85,18 @@ msgid "Europhysics Letters **113**, 30004 (2016)"
 msgstr ""
 
 #: ../../publications.inc:9
+msgid ":download:`download article <pdf/2016_TSP_EPL.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2016_TSP_EPL.pdf>`"
+
+#: ../../publications.inc:10
 msgid ""
 "`doi:10.1209/0295-5075/113/30004 <http://dx.doi."
 "org/10.1209/0295-5075/113/30004>`_"
 msgstr ""
 
-#: ../../publications.inc:10
+#: ../../publications.inc:11
 msgid "`arXiv:1512.08554 [cond-mat.dis-nn] <https://arxiv.org/abs/1512.08554>`_"
 msgstr ""
-
-#: ../../publications.inc:11
-msgid ":download:`download article <pdf/2016_TSP_EPL.pdf>`"
-msgstr ":download:`Artikel-Download <pdf/2018_srn_EPL.pdf>`"
 
 #: ../../publications.inc:22
 msgid ""
@@ -109,17 +109,17 @@ msgid "Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:18
+msgid ":download:`download article <pdf/2017_IFM_SciRep.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2017_IFM_SciRep.pdf>`"
+
+#: ../../publications.inc:19
 msgid "Scientific Reports **7**, 8040 (2017)"
 msgstr ""
 
-#: ../../publications.inc:19
+#: ../../publications.inc:20
 msgid ""
 "`doi:10.1038/s41598-017-08531-8 <http://dx.doi.org/10.1038/s41598-017-08531-8>`_"
 msgstr ""
-
-#: ../../publications.inc:20
-msgid ":download:`download article <pdf/2017_IFM_SciRep.pdf>`"
-msgstr ":download:`Artikel-Download <pdf/2017_IFM_SciRep.pdf>`"
 
 #: ../../publications.inc:33
 msgid "Convex hulls of random walks in higher dimensions: A large deviation study"
@@ -134,18 +134,18 @@ msgid "Physical Review E **96**, 062101 (2017)"
 msgstr ""
 
 #: ../../publications.inc:27
+msgid ":download:`download article <pdf/2017_convex_highdim_PRE.pdf>`"
+msgstr ":download:`Artikel-Download<pdf/2017_convex_highdim_PRE.pdf>`"
+
+#: ../../publications.inc:28
 msgid ""
 "`doi:10.1103/PhysRevE.96.062101 <http://dx.doi.org/10.1103/PhysRevE.96.062101>`_"
 msgstr ""
 
-#: ../../publications.inc:28
+#: ../../publications.inc:29
 msgid ""
 "`arXiv:1709.02638 [cond-mat.stat-mech] <https://arxiv.org/abs/1709.02638>`_"
 msgstr ""
-
-#: ../../publications.inc:29
-msgid ":download:`download article <pdf/2017_convex_highdim_PRE.pdf>`"
-msgstr ":download:`Artikel-Download<pdf/2017_convex_highdim_PRE.pdf>`"
 
 #: ../../publications.inc:44
 msgid "Large deviations of convex hulls of self-avoiding random walks"
@@ -156,18 +156,18 @@ msgid "Physical Review E **97**, 062159 (2018)"
 msgstr ""
 
 #: ../../publications.inc:38
+msgid ":download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2018_convex_avoiding_PRE.pdf>`"
+
+#: ../../publications.inc:39
 msgid ""
 "`doi:10.1103/PhysRevE.97.062159 <http://dx.doi.org/10.1103/PhysRevE.97.062159>`_"
 msgstr ""
 
-#: ../../publications.inc:39
+#: ../../publications.inc:40
 msgid ""
 "`arXiv:1804.02371 [cond-mat.stat-mech] <https://arxiv.org/abs/1804.02371>`_"
 msgstr ""
-
-#: ../../publications.inc:40
-msgid ":download:`download article <pdf/2018_convex_avoiding_PRE.pdf>`"
-msgstr ":download:`Artikel-Download <pdf/2018_convex_avoiding_PRE.pdf>`"
 
 #: ../../publications.inc:54
 msgid ""
@@ -183,18 +183,18 @@ msgid "Europhysics Letters **124**, 40005 (2018)"
 msgstr ""
 
 #: ../../publications.inc:49
+msgid ":download:`download article <pdf/2018_srn_EPL.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2018_srn_EPL.pdf>`"
+
+#: ../../publications.inc:50
 msgid ""
 "`doi:10.1209/0295-5075/124/40005 <http://dx.doi."
 "org/10.1209/0295-5075/124/40005>`_"
 msgstr ""
 
-#: ../../publications.inc:50
+#: ../../publications.inc:51
 msgid "`arXiv:1808.09246 [cond-mat.dis-nn] <https://arxiv.org/abs/1808.09246>`_"
 msgstr ""
-
-#: ../../publications.inc:51
-msgid ":download:`download article <pdf/2018_srn_EPL.pdf>`"
-msgstr ":download:`Artikel-Download <pdf/2018_srn_EPL.pdf>`"
 
 #: ../../publications.inc:65
 msgid ""
@@ -207,21 +207,21 @@ msgid "Jörn Börjes, Hendrik Schawe, Alexander K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:58
-msgid "Physical Review E *99*, 042104 (2019)"
+msgid "Physical Review E **99**, 042104 (2019)"
 msgstr ""
 
 #: ../../publications.inc:59
+msgid ":download:`download article <pdf/2019_lis_PRE.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2019_lis_PRE.pdf>`"
+
+#: ../../publications.inc:60
 msgid ""
 "`doi:10.1103/PhysRevE.99.042104 <https://doi.org/10.1103/PhysRevE.99.042104>`_"
 msgstr ""
 
-#: ../../publications.inc:60
+#: ../../publications.inc:61
 msgid "`arXiv:1901.05235 [cond-mat.dis-nn] <https://arxiv.org/abs/1901.05235>`_"
 msgstr ""
-
-#: ../../publications.inc:61
-msgid ":download:`download article <pdf/2019_lis_PRE.pdf>`"
-msgstr ":download:`Artikel-Download <pdf/2019_lis_PRE.pdf>`"
 
 #: ../../publications.inc:80
 msgid ""
@@ -235,21 +235,21 @@ msgstr ""
 
 #: ../../publications.inc:70
 msgid ""
-"`doi:10.1140/epjb/e2019-90667-y <https://dx.doi.org/10.1140/epjb/e2019-90667-"
-"y>`_"
-msgstr ""
-
-#: ../../publications.inc:71
-msgid "`arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_"
-msgstr ""
-
-#: ../../publications.inc:72
-msgid ""
 ":download:`download accepted manuscript <pdf/2019_bi_EPJB_accepted.pdf>` (`view "
 "<https://rdcu.be/bumov>`_)"
 msgstr ""
 ":download:`Akzeptiertes-Manuskript-Download <pdf/2019_bi_EPJB_accepted.pdf>` "
 "(`betrachten <https://rdcu.be/bumov>`_)"
+
+#: ../../publications.inc:71
+msgid ""
+"`doi:10.1140/epjb/e2019-90667-y <https://dx.doi.org/10.1140/epjb/e2019-90667-"
+"y>`_"
+msgstr ""
+
+#: ../../publications.inc:72
+msgid "`arXiv:1811.04816 [cond-mat.dis-nn] <https://arxiv.org/abs/1811.04816>`_"
+msgstr ""
 
 #: ../../publications.inc:89
 msgid ""
@@ -262,21 +262,20 @@ msgid "Hendrik Schawe, Roman Bleim, Alexander K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:84
-msgid "PLOS ONE **??**, ?? (2019)"
+msgid "PLOS ONE **14**, 4 (2019)"
 msgstr ""
 
 #: ../../publications.inc:85
-msgid "`doi: <https://dx.doi.org/>`_"
-msgstr ""
+msgid ":download:`download article <pdf/2019_sat_PLOSONE.pdf>`"
+msgstr ":download:`Artikel-Download <pdf/2019_sat_PLOSONE.pdf>`"
 
 #: ../../publications.inc:86
-msgid "`arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_"
+msgid "`doi: <https://dx.doi.org/10.1371/journal.pone.0215309>`_"
 msgstr ""
 
 #: ../../publications.inc:87
-#, fuzzy
-msgid ":download:`download preprint <pdf/2019_sat_PLOSONE.pdf>`"
-msgstr ":download:`Manuskript-Download<pdf/pp_sat.pdf>`"
+msgid "`arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_"
+msgstr ""
 
 #: ../../publications.inc:92
 msgid "Preprints"
@@ -287,13 +286,13 @@ msgid "Large Deviations of Convex Hulls of the \"True\" Self-Avoiding Random Wal
 msgstr ""
 
 #: ../../publications.inc:96
+msgid ":download:`download preprint <pdf/pp_true.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_true.pdf>`"
+
+#: ../../publications.inc:97
 msgid ""
 "`arXiv:1808.10698 [cond-mat.stat-mech] <https://arxiv.org/abs/1808.10698>`_"
 msgstr ""
-
-#: ../../publications.inc:97
-msgid ":download:`download preprint <pdf/pp_true.pdf>`"
-msgstr ":download:`Manuskript-Download <pdf/pp_true.pdf>`"
 
 #: ../../publications.inc:102
 msgid ""
@@ -306,12 +305,12 @@ msgid "Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:101
-msgid "`arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_"
-msgstr ""
-
-#: ../../publications.inc:102
 msgid ":download:`download preprint <pdf/pp_bat.pdf>`"
 msgstr ":download:`Manuskript-Download <pdf/pp_bat.pdf>`"
+
+#: ../../publications.inc:102
+msgid "`arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_"
+msgstr ""
 
 #: ../../publications.inc:107
 msgid ""
@@ -324,12 +323,12 @@ msgid "Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:106
-msgid "`arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_"
-msgstr ""
-
-#: ../../publications.inc:107
 msgid ":download:`download preprint <pdf/pp_tsprsb.pdf>`"
 msgstr ":download:`Manuskript-Download <pdf/pp_tsprsb.pdf>`"
+
+#: ../../publications.inc:107
+msgid "`arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_"
+msgstr ""
 
 #: ../../cv.inc:4
 msgid "Timeline"
@@ -342,10 +341,11 @@ msgstr "2019"
 #: ../../cv.inc:7
 msgid ""
 "Dr. rer. nat., Carl von Ossietzky University Oldenburg, :download:`dissertation "
-"<pdf/dissertation.pdf>`"
+"<pdf/dissertation.pdf>`, :download:`disputation slides <pdf/disputation.pdf>`"
 msgstr ""
 "Dr. rer. nat., Carl von Ossietzky Universität Oldenburg, :download:"
-"`dissertation <pdf/dissertation.pdf>`"
+"`Dissertation <pdf/dissertation.pdf>`, :download:`Disputationsfolien <pdf/"
+"disputation.pdf>`"
 
 #: ../../cv.inc:8 ../../cv.inc:26
 msgid "DPG-Frühjahrstagung (Spring Meeting), Regensburg"
@@ -524,3 +524,6 @@ msgstr ""
 
 #~ msgid ":download:`download preprint <pdf/pp_bi.pdf>`"
 #~ msgstr ":download:`Manuskript-Download <pdf/pp_bi.pdf>`"
+
+#~ msgid ":download:`download preprint <pdf/2019_sat_PLOSONE.pdf>`"
+#~ msgstr ":download:`Manuskript-Download<pdf/pp_sat.pdf>`"
