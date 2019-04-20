@@ -83,7 +83,7 @@ Publications
     * Hendrik Schawe, Roman Bleim, Alexander K. Hartmann
     * PLOS ONE **14**, 4 (2019)
     * :download:`download article <pdf/2019_sat_PLOSONE.pdf>`
-    * `doi: <https://dx.doi.org/10.1371/journal.pone.0215309>`_
+    * `doi:10.1371/journal.pone.0215309 <https://dx.doi.org/10.1371/journal.pone.0215309>`_
     * `arXiv:1702.02821 [cond-mat.dis-nn] <https://arxiv.org/abs/1702.02821>`_
 
     .. direct link is fine: Open Access (creative commons license)
