@@ -15,8 +15,8 @@ Publications
 
 2. Ising Ferromagnets on Proximity Graphs with Varying Disorder of the Node Placement
     * Hendrik Schawe, Christoph Norrenbrock, Alexander K. Hartmann
-    * :download:`download article <pdf/2017_IFM_SciRep.pdf>`
     * Scientific Reports **7**, 8040 (2017)
+    * :download:`download article <pdf/2017_IFM_SciRep.pdf>`
     * `doi:10.1038/s41598-017-08531-8 <http://dx.doi.org/10.1038/s41598-017-08531-8>`_
 
     .. direct link is fine: Open Access (creative commons license)
