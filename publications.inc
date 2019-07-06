@@ -105,3 +105,8 @@ Preprints
     * Hendrik Schawe, Jitesh Kumar Jha, Alexander K. Hartmann
     * :download:`download preprint <pdf/pp_tsprsb.pdf>`
     * `arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_
+
+#. On the asymptotic behavior of the length of the longest increasing subsequences of random walks
+    * J. Ricardo G. Mendonça, Hendrik Schawe, Alexander K. Hartmann
+    * :download:`download preprint <pdf/pp_lis.pdf>`
+    * `arXiv:1907.00486 [cond-mat.stat-mech] <https://arxiv.org/abs/1907.00486>`_
