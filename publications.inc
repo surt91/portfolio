@@ -97,7 +97,7 @@ Preprints
     * `arXiv:1808.10698 [cond-mat.stat-mech] <https://arxiv.org/abs/1808.10698>`_
 
 #. Vertebrate pollinators: phase transition in a time-dependent generalized traveling-salesperson problem
-    * M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
+    * \M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann
     * :download:`download preprint <pdf/pp_bat.pdf>`
     * `arXiv:1803.08015 [physics.bio-ph] <https://arxiv.org/abs/1803.08015>`_
 
@@ -107,6 +107,6 @@ Preprints
     * `arXiv:1806.08681 [cond-mat.dis-nn] <https://arxiv.org/abs/1806.08681>`_
 
 #. On the asymptotic behavior of the length of the longest increasing subsequences of random walks
-    * J. Ricardo G. Mendonça, Hendrik Schawe, Alexander K. Hartmann
+    * \J. Ricardo G. Mendonça, Hendrik Schawe, Alexander K. Hartmann
     * :download:`download preprint <pdf/pp_lis.pdf>`
     * `arXiv:1907.00486 [cond-mat.stat-mech] <https://arxiv.org/abs/1907.00486>`_
