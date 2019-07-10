@@ -398,47 +398,6 @@ def asset_compression(app, exception):
         call(cmd)
 
 
-# :copyright: Copyright 2017 by Stephen Finucane <stephen@that.guru>
-# :license: BSD, see LICENSE for details.
-import os
-
-from sphinx.builders import html as builders
-
-TEMPLATE = """<html>
-  <head><meta http-equiv="refresh" content="0; url=%s"/></head>
-</html>
-"""
-
-
-def generate_redirects(app):
-
-    path = os.path.join(app.srcdir, "redirects")
-    if not os.path.exists(path):
-        print("Could not find redirects file at '%s'" % path)
-        return
-
-    with open(path) as redirects:
-        for line in redirects.readlines():
-            from_path, to_path = line.rstrip().split(' ')
-
-            to_path_prefix = '..%s' % os.path.sep * (
-                len(from_path.split(os.path.sep)) - 1)
-            to_path = to_path_prefix + to_path
-
-            print(from_path, "->", to_path)
-
-            redirected_filename = os.path.join(app.builder.outdir, from_path)
-            redirected_directory = os.path.dirname(redirected_filename)
-            if not os.path.exists(redirected_directory):
-                os.makedirs(redirected_directory)
-
-            with open(redirected_filename, 'w') as f:
-                f.write(TEMPLATE % to_path)
-
-
 def setup(app):
     app.connect("build-finished", copyMissingFiles)
     app.connect("build-finished", asset_compression) #inject after build-finished to modify the generated(not original) resources)
-
-    # app.add_config_value('redirects_file', 'redirects', 'env')
-    app.connect('builder-inited', generate_redirects)
