@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portfolio 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-06 21:57+0200\n"
-"PO-Revision-Date: 2019-07-06 21:58+0200\n"
+"POT-Creation-Date: 2019-07-10 16:40+0200\n"
+"PO-Revision-Date: 2019-07-10 17:00+0200\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: \n"
@@ -303,7 +303,7 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc:100
-msgid "Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann"
+msgid "\\M. Jungsbluth, J. Thiele, Y. Winter, H. Schawe, A. K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:101
@@ -339,12 +339,12 @@ msgid ""
 msgstr ""
 
 #: ../../publications.inc:110
-msgid "Ricardo G. Mendonça, Hendrik Schawe, Alexander K. Hartmann"
+msgid "\\J. Ricardo G. Mendonça, Hendrik Schawe, Alexander K. Hartmann"
 msgstr ""
 
 #: ../../publications.inc:111
-msgid ":download:`download preprint <pdf/pp_lis.pdf>`"
-msgstr ":download:`Manuskript-Download <pdf/pp_lis.pdf>`"
+msgid ":download:`download preprint <pdf/pp_lis2.pdf>`"
+msgstr ":download:`Manuskript-Download <pdf/pp_lis2.pdf>`"
 
 #: ../../publications.inc:112
 msgid ""
