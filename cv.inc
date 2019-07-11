@@ -4,7 +4,7 @@ Timeline
 --------
 
 * 2019
-    * Dr. rer. nat., Carl von Ossietzky University Oldenburg, :download:`dissertation <pdf/dissertation.pdf>`, :download:`disputation slides <pdf/disputation.pdf>`
+    .. * Dr. rer. nat., Carl von Ossietzky University Oldenburg, :download:`dissertation <pdf/dissertation.pdf>`, :download:`disputation slides <pdf/disputation.pdf>`
     * DPG-Frühjahrstagung (Spring Meeting), Regensburg
         * `Ground-state energy distribution of noninteracting fermions with a random energy spectrum`, :download:`download slides <pdf/2019DPG.pdf>`
 * 2018
