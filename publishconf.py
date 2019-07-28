@@ -17,7 +17,8 @@ RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = True
+# we still need to copy some css files manually as a bugfix and may not delete
+# DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
