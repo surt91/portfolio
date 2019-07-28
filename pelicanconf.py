@@ -107,12 +107,8 @@ JINJA_ENVIRONMENT = {"extensions": ['jinja2.ext.i18n']}
 READERS = {"html": None}
 STATIC_PATHS = [
     'extra/manifest.json',
-    'extra/service-worker-registration.js',
-    'extra/service-worker-registration.min.js',
-    'extra/custom.css',
     'extra/favicon.ico',
     'extra/icons',
-    'theme/images',
     'extra/googlee1eadb2ddedaa639.html',
     'extra/BingSiteAuth.xml',
     'img',
@@ -121,7 +117,6 @@ STATIC_PATHS = [
 
 EXTRA_PATH_METADATA = {
     'extra/manifest.json': {'path': 'manifest.json'},
-    'extra/custom.css': {'path': 'custom.css'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/googlee1eadb2ddedaa639.html': {'path': 'googlee1eadb2ddedaa639.html'},
     'extra/BingSiteAuth.xml': {'path': 'BingSiteAuth.xml'},
