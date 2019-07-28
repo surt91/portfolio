@@ -14,7 +14,17 @@ My name is Hendrik Schawe and I am a PhD student
 in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_
 group of the University Oldenburg.
 
-Currently, I am working on large deviation properties
-of convex hulls of random walks.
-Further research Interests are phase transitions,
-optimization problems and networks.
+I am fascinated by simple models exhibiting an unexpected depth.
+For example the easily defined *traveling salesperson problem* turning out
+to be very hard to solve, the complex behavior of simple models, be
+it *networks* or *self-avoiding random walks*, *phase transitions*
+arising from simple interaction rules like the *Ising model* or the
+the length of the *longest increasing subsequence*, whose fluctuations
+show surprising connections to random matrix theory and KPZ growth processes.
+
+Since simulations are my main tool, I am interested in algorithms
+which enable to study problems, which are on the first glance
+infeasible, like directly sampling the *large deviation*
+regime of an observable with *Markov chain Monte Carlo* methods or finding
+exact solutions of moderately sized traveling salesperson instances
+using *linear programming*.
