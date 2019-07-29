@@ -4,14 +4,14 @@ About me
 
 :Date: 2019-07-28 11:41
 :Author: surt91
-:FeaturedImage: img/portrait.jpg
+:FeaturedImage: /img/portrait.jpg
 :Status: published
 :Lang: en
 
-.. image:: img/portrait256.jpg
+.. image:: /img/portrait256.jpg
     :alt: portrait
     :align: right
-    :target: img/portrait.jpg
+    :target: /img/portrait.jpg
 
 My name is Hendrik Schawe and I am a PhD student
 in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_
