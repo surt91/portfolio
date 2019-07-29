@@ -54,6 +54,7 @@ STATIC_PATHS = [
     'extra/BingSiteAuth.xml',
     'extra/cname',
     'extra/sitemap.xml',
+    'extra/robots.txt',
     'img',
     'pdf',
 ]
@@ -65,6 +66,7 @@ EXTRA_PATH_METADATA = {
     'extra/BingSiteAuth.xml': {'path': 'BingSiteAuth.xml'},
     'extra/cname': {'path': 'CNAME'},
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
