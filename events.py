@@ -5,6 +5,7 @@ EVENTS = [
         "date": date(2013, 9, 5),
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Bachelor of Science",
+        "type": "graduation",
         "presentations": [{
             "title": "Ising-Ferromagnet auf Ad-HocNetzwerken",
             "pdf": "bachelorThesis.pdf",
@@ -17,6 +18,7 @@ EVENTS = [
         "place": "Oldenburg",
         "name": "5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry",
         "link": "https://www.mcs.uni-oldenburg.de/64155.html",
+        "type": "summerschool",
     },
     {
         "date": date(2014, 3, 30),
@@ -24,6 +26,7 @@ EVENTS = [
         "place": "Dresden",
         "name": "DPG-Frühjahrstagung",
         "link": "http://dresden14.dpg-tagungen.de/",
+        "type": "conference",
         "presentations": [{
             "title": "Ising-Ferromagnet on Proximity Graphs",
             "pdf": "2014DPG.pdf",
@@ -36,6 +39,7 @@ EVENTS = [
         "place": "Bad Honnef",
         "name": "Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems",
         "link": "https://www.dpg-physik.de/veranstaltungen/2015/bad-honnef-physics-school-computational-physics-of-complex-and-disordered-systems",
+        "type": "summerschool",
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming",
             "pdf": "2015MCS.pdf",
@@ -46,6 +50,7 @@ EVENTS = [
         "date": date(2015, 11, 6),
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Master of Science",
+        "type": "graduation",
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
             "pdf": "masterThesis.pdf",
@@ -58,6 +63,7 @@ EVENTS = [
         "place": "Regensburg",
         "name": "DPG-Frühjahrstagung",
         "link": "http://regensburg16.dpg-tagungen.de/",
+        "type": "conference",
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
             "pdf": "2016DPG",
@@ -65,11 +71,19 @@ EVENTS = [
         }],
     },
     {
+        "date": date(2016, 9, 1),
+        "date_end": date(2016, 9, 30),
+        "place": "Orsay, France",
+        "name": "Laboratoire de Physique Théorique et Modèles Statistiques",
+        "type": "visit",
+    },
+    {
         "date": date(2016, 11, 24),
         "date_end": date(2016, 11, 26),
         "place": "Leipzig",
         "name": "CompPhys16, 17th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys16/",
+        "type": "conference",
         "presentations": [{
             "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
             "pdf": "2016CompPhys",
@@ -82,6 +96,7 @@ EVENTS = [
         "place": "Dresden",
         "name": "DPG-Frühjahrstagung",
         "link": "http://dresden17.dpg-tagungen.de/",
+        "type": "conference",
         "presentations": [
             {
                 "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
@@ -101,6 +116,7 @@ EVENTS = [
         "place": "Bruneck, Italia",
         "name": "Fundamental Problems in Statistical Physics XIV",
         "link": "https://fpspxiv.sciencesconf.org/",
+        "type": "summerschool",
     },
     {
         "date": date(2017, 11, 30),
@@ -108,6 +124,7 @@ EVENTS = [
         "place": "Leipzig",
         "name": "CompPhys17, 18th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys17/",
+        "type": "conference",
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
             "pdf": "2017CompPhys",
@@ -120,6 +137,7 @@ EVENTS = [
         "place": "Berlin",
         "name": "DPG-Frühjahrstagung",
         "link": "http://berlin18.dpg-tagungen.de/",
+        "type": "conference",
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
             "pdf": "2018DPG",
@@ -132,6 +150,7 @@ EVENTS = [
         "place": "Davis, USA",
         "name": "XXX IUPAP Conference on Computational Physics",
         "link": "http://ccp2018.physics.ucdavis.edu/",
+        "type": "conference",
         "presentations": [{
             "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
             "pdf": "2018CCP",
@@ -144,6 +163,7 @@ EVENTS = [
         "place": "Regensburg",
         "name": "DPG-Frühjahrstagung",
         "link": "http://regensburg19.dpg-tagungen.de/",
+        "type": "conference",
         "presentations": [{
             "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
             "pdf": "2019DPG",
