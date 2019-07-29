@@ -53,6 +53,7 @@ STATIC_PATHS = [
     'extra/icons',
     'extra/googlee1eadb2ddedaa639.html',
     'extra/BingSiteAuth.xml',
+    'extra/cname',
     'img',
     'pdf',
 ]
@@ -62,6 +63,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/googlee1eadb2ddedaa639.html': {'path': 'googlee1eadb2ddedaa639.html'},
     'extra/BingSiteAuth.xml': {'path': 'BingSiteAuth.xml'},
+    'extra/cname': {'path': 'CNAME'},
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
