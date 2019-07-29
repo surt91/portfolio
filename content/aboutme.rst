@@ -1,6 +1,6 @@
 ########
 About me
-######## 
+########
 :Date: 2019-07-28 11:41
 :Author: surt91
 :FeaturedImage: img/portrait.jpg
@@ -28,7 +28,7 @@ aufweisen.
 
 Weil meine Arbeit auf Simulationen gründet, bin ich interessiert an Algorithmen,
 die es ermöglichen Probleme zu untersuchen, die auf den ersten Blick
-unüberwindbar scheinen, we das direkte Sampling des *Large-Deviation-Regimes*
+unüberwindbar scheinen, wie das direkte Sampling des *Large-Deviation-Regimes*
 einer Messgröße mittels *Markov-Chain-Monte-Carlo*-Methoden, oder das Finden
 von exakten Lösungen von moderat großen Problemen des Handlungsreisenden
 mittels *Linearer Optimierung*.
