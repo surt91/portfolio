@@ -101,10 +101,10 @@ AUTHOR_FEED_RSS = None
 # (linktext, link, [font awesome symbol])
 SOCIAL = (
     ('GitHub', 'https://github.com/surt91'),
-    ('Email', 'mailto:hendrik.schawe+web@gmail.com', 'envelope'),
+    ('Email', 'mailto:hendrik.schawe+web@gmail.com', 'fas fa-envelope'),
     ('Twitter', 'https://twitter.com/surt91'),
-    ('Google Scholar', 'https://scholar.google.de/citations?user=-BTuwLgAAAAJ', 'graduation-cap'),
-    ('Blog', 'https://blog.schawe.me', 'hand-spock-o'),
+    ('Google Scholar', 'https://scholar.google.de/citations?user=-BTuwLgAAAAJ', 'fas fa-graduation-cap'),
+    ('Blog', 'https://blog.schawe.me', 'far fa-hand-spock'),
     ('4', None, 'ő'),
     ('857·2²⁴⁶³⁴¹¹+1', None, "'"),
 )
