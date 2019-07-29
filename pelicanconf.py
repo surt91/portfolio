@@ -28,7 +28,6 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     "assets",
     "render_math",
-    "sitemap",
     "preload_thumbnail",
     "i18n_subsites",
     "doi_details",
@@ -54,6 +53,7 @@ STATIC_PATHS = [
     'extra/googlee1eadb2ddedaa639.html',
     'extra/BingSiteAuth.xml',
     'extra/cname',
+    'extra/sitemap.xml',
     'img',
     'pdf',
 ]
@@ -64,6 +64,7 @@ EXTRA_PATH_METADATA = {
     'extra/googlee1eadb2ddedaa639.html': {'path': 'googlee1eadb2ddedaa639.html'},
     'extra/BingSiteAuth.xml': {'path': 'BingSiteAuth.xml'},
     'extra/cname': {'path': 'CNAME'},
+    'extra/sitemap.xml': {'path': 'sitemap.xml'},
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
