@@ -72,20 +72,6 @@ EXTRA_PATH_METADATA = {
 SITE_DESCRIPTION = 'Hendrik Schawe'
 FEATURED_IMAGE = 'https://blog.schawe.me/img/logo.png'
 
-SITEMAP = {
-    'format': 'xml',
-    'priorities': {
-        'articles': 0.5,
-        'indexes': 0.5,
-        'pages': 0.5
-    },
-    'changefreqs': {
-        'articles': 'monthly',
-        'indexes': 'daily',
-        'pages': 'monthly'
-    }
-}
-
 PATH = 'content'
 
 TIMEZONE = 'Europe/Berlin'
