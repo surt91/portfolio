@@ -27,8 +27,6 @@ from themes.purepelican.settings import *
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     "assets",
-    "render_math",
-    "preload_thumbnail",
     "i18n_subsites",
     "doi_details",
 ]
