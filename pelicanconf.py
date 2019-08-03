@@ -31,14 +31,14 @@ PLUGINS = [
     "doi_details",
 ]
 
-DEFAULT_LANG = "de"
+DEFAULT_LANG = "en"
 I18N_SUBSITES = {
-    # 'de': {
-    #     'SITE_DESCRIPTION': 'Hendrik Schawe',
-    # }
-    'en': {
+    'de': {
         'SITE_DESCRIPTION': 'Hendrik Schawe',
-    }
+    },
+    # 'en': {
+    #     'SITE_DESCRIPTION': 'Hendrik Schawe',
+    # },
 }
 
 JINJA_ENVIRONMENT = {"extensions": ['jinja2.ext.i18n']}
@@ -66,7 +66,7 @@ EXTRA_PATH_METADATA = {
     'extra/cname': {'path': 'CNAME'},
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/legacy_redirect.html': {'path': 'de/index.html'},
+    'extra/legacy_redirect.html': {'path': 'en/index.html'},
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
