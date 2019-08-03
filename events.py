@@ -2,6 +2,14 @@ from datetime import date
 
 EVENTS = [
     {
+        "date": date(2010, 11, 1),
+        "date_end": date(2013, 3, 31),
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Institut für Chemie und Biologie des Meeres (ICBM)",
+        "title": "studentische Hilfskraft",
+        "type": "work",
+    },
+    {
         "date": date(2013, 9, 5),
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Bachelor of Science",
@@ -58,6 +66,14 @@ EVENTS = [
         }],
     },
     {
+        "date": date(2016, 3, 1),
+        "date_end": date(2019, 8, 31),
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Institut für Physik, AG Compphys",
+        "title": "wissenschaftlicher Mitarbeiter",
+        "type": "work",
+    },
+    {
         "date": date(2016, 3, 6),
         "date_end": date(2016, 3, 11),
         "place": "Regensburg",
@@ -74,7 +90,8 @@ EVENTS = [
         "date": date(2016, 9, 1),
         "date_end": date(2016, 9, 30),
         "place": "Orsay, France",
-        "name": "Laboratoire de Physique Théorique et Modèles Statistiques",
+        "name": "Laboratoire de Physique Théorique et Modèles Statistiques (LPTMS)",
+        "title": "research visitor",
         "type": "visit",
     },
     {
