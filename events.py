@@ -2,14 +2,6 @@ from datetime import date
 
 EVENTS = [
     {
-        "date": date(2010, 11, 1),
-        "date_end": date(2013, 3, 31),
-        "place": "Carl von Ossietzky Universität Oldenburg",
-        "name": "Institut für Chemie und Biologie des Meeres (ICBM)",
-        "title": "studentische Hilfskraft",
-        "type": "work",
-    },
-    {
         "date": date(2013, 9, 5),
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Bachelor of Science",
