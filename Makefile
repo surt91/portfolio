@@ -44,7 +44,6 @@ assets:
 	# the following line avoids an issue of the assest and i18n_subsites plugins
 	mkdir -p output/theme/
 	cp -r themes/purepelican/static/* output/theme/
-	(cd output/theme/; python -c "import sass; sass.compile(dirname=('sass', 'css'), output_style='compressed')")
 	# remove as soon as fixed
 
 html: assets
