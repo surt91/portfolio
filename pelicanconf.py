@@ -90,7 +90,7 @@ SOCIAL = (
     ('Email', 'mailto:hendrik.schawe+web@gmail.com', 'fas fa-envelope'),
     ('Twitter', 'https://twitter.com/surt91'),
     ('Google Scholar', 'https://scholar.google.de/citations?user=-BTuwLgAAAAJ', 'ai ai-google-scholar'),
-    ('Blog', 'https://blog.schawe.me', 'far fa-hand-spock'),
+    ('Blog', 'https://blog.schawe.me', 'fas fa-hand-spock'),
     ('4', None, 'ő'),
     ('857·2²⁴⁶³⁴¹¹+1', None, "'"),
 )
