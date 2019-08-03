@@ -16,7 +16,7 @@ EVENTS = [
         "date": date(2014, 8, 25),
         "date_end": date(2014, 9, 5),
         "place": "Oldenburg",
-        "name": "5th International Summer School on Modern Compuational Science Compuational Quantum Chemistry",
+        "name": "5th International Summer School on Modern Compuational Science: Compuational Quantum Chemistry",
         "link": "https://www.mcs.uni-oldenburg.de/64155.html",
         "type": "summerschool",
     },
