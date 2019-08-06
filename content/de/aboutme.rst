@@ -12,7 +12,7 @@ About me
     :align: right
     :target: /img/portrait.jpg
 
-Ich bin Hendrik Schawe und Doktorand in der Arbeitsgruppe
+Ich bin Hendrik Schawe und ich arbeite in der Arbeitsgruppe
 `Computerorientierte Theoretische Physik <https://www.uni-oldenburg.de/compphys/>`_
 der Universität Oldenburg.
 

@@ -13,7 +13,7 @@ About me
     :align: right
     :target: /img/portrait.jpg
 
-My name is Hendrik Schawe and I am a PhD student
+My name is Hendrik Schawe and I am working
 in the `Computational Physics <https://www.uni-oldenburg.de/compphys/>`_
 group of the University Oldenburg.
 
