@@ -179,4 +179,22 @@ EVENTS = [
             "type": "talk",
         }],
     },
+    {
+        "date": date(2019, 3, 19),
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Doktor der Naturwissenschaften (Dr. rer. nat.)",
+        "type": "graduation",
+        "presentations": [
+            {
+                "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
+                "pdf": "dissertation.pdf",
+                "type": "thesis",
+            },
+            {
+                "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
+                "pdf": "disputation.pdf",
+                "type": "talk",
+            }
+        ],
+    },
 ]
