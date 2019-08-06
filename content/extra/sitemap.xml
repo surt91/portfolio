@@ -84,6 +84,14 @@
         <loc>https://hendrik.schawe.me/pdf/masterThesis.pdf</loc>
         <changefreq>never</changefreq>
     </url>
+    <url>
+        <loc>https://hendrik.schawe.me/pdf/dissertation.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://hendrik.schawe.me/pdf/disputation.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
 
     <url>
         <loc>https://hendrik.schawe.me/pdf/2016_TSP_EPL.pdf</loc>
