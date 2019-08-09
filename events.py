@@ -167,8 +167,8 @@ EVENTS = [
         }],
     },
     {
-        "date": date(2018, 3, 31),
-        "date_end": date(2018, 4, 5),
+        "date": date(2019, 3, 31),
+        "date_end": date(2019, 4, 5),
         "place": "Regensburg",
         "name": "DPG-Frühjahrstagung",
         "link": "http://regensburg19.dpg-tagungen.de/",
