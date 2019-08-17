@@ -74,7 +74,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
-            "pdf": "2016DPG",
+            "pdf": "2016DPG.pdf",
             "type": "talk",
         }],
     },
@@ -95,7 +95,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
-            "pdf": "2016CompPhys",
+            "pdf": "2016CompPhys.pdf",
             "type": "poster",
         }],
     },
@@ -136,7 +136,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
-            "pdf": "2017CompPhys",
+            "pdf": "2017CompPhys.pdf",
             "type": "talk",
         }],
     },
@@ -149,7 +149,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
-            "pdf": "2018DPG",
+            "pdf": "2018DPG.pdf",
             "type": "talk",
         }],
     },
@@ -162,7 +162,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
-            "pdf": "2018CCP",
+            "pdf": "2018CCP.pdf",
             "type": "talk",
         }],
     },
@@ -175,7 +175,7 @@ EVENTS = [
         "type": "conference",
         "presentations": [{
             "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
-            "pdf": "2019DPG",
+            "pdf": "2019DPG.pdf",
             "type": "talk",
         }],
     },

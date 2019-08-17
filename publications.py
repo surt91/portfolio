@@ -52,18 +52,18 @@ PUBLICATIONS = [
 PREPRINTS = [
     {
         "arxiv": "1808.10698",
-        "pdf": "pp_true",
+        "pdf": "pp_true.pdf",
     },
     {
         "arxiv": "1806.08681",
-        "pdf": "pp_tsprsb",
+        "pdf": "pp_tsprsb.pdf",
     },
     {
         "arxiv": "1803.08015",
-        "pdf": "pp_bat",
+        "pdf": "pp_bat.pdf",
     },
     {
         "arxiv": "1907.00486",
-        "pdf": "pp_pp_lis2",
+        "pdf": "pp_lis2.pdf",
     },
 ]
