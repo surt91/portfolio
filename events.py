@@ -25,7 +25,7 @@ EVENTS = [
         "date_end": date(2014, 4, 4),
         "place": "Dresden",
         "name": "DPG-Frühjahrstagung",
-        "link": "http://dresden14.dpg-tagungen.de/",
+        "link": "https://dresden14.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [{
             "title": "Ising-Ferromagnet on Proximity Graphs",
@@ -70,7 +70,7 @@ EVENTS = [
         "date_end": date(2016, 3, 11),
         "place": "Regensburg",
         "name": "DPG-Frühjahrstagung",
-        "link": "http://regensburg16.dpg-tagungen.de/",
+        "link": "https://regensburg16.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
@@ -104,7 +104,7 @@ EVENTS = [
         "date_end": date(2017, 3, 24),
         "place": "Dresden",
         "name": "DPG-Frühjahrstagung",
-        "link": "http://dresden17.dpg-tagungen.de/",
+        "link": "https://dresden17.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [
             {
@@ -145,7 +145,7 @@ EVENTS = [
         "date_end": date(2018, 3, 16),
         "place": "Berlin",
         "name": "DPG-Frühjahrstagung",
-        "link": "http://berlin18.dpg-tagungen.de/",
+        "link": "https://berlin18.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
@@ -158,7 +158,7 @@ EVENTS = [
         "date_end": date(2018, 8, 2),
         "place": "Davis, USA",
         "name": "XXX IUPAP Conference on Computational Physics",
-        "link": "http://ccp2018.physics.ucdavis.edu/",
+        "link": "http://ccp2018.physics.ucdavis.edu",
         "type": "conference",
         "presentations": [{
             "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
@@ -171,7 +171,7 @@ EVENTS = [
         "date_end": date(2019, 4, 5),
         "place": "Regensburg",
         "name": "DPG-Frühjahrstagung",
-        "link": "http://regensburg19.dpg-tagungen.de/",
+        "link": "https://regensburg19.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [{
             "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
