@@ -189,6 +189,7 @@ EVENTS = [
                 "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
                 "pdf": "dissertation.pdf",
                 "type": "thesis",
+                "doi": "10.5281/zenodo.3377931",
             },
             {
                 "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
