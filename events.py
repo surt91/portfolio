@@ -61,7 +61,7 @@ EVENTS = [
         "date": date(2016, 3, 1),
         "date_end": date(2019, 8, 31),
         "place": "Carl von Ossietzky Universität Oldenburg",
-        "name": "Institut für Physik, AG Compphys",
+        "name": "Institut für Physik (IfP), AG Compphys",
         "title": "wissenschaftlicher Mitarbeiter",
         "type": "work",
     },
@@ -81,7 +81,7 @@ EVENTS = [
     {
         "date": date(2016, 9, 1),
         "date_end": date(2016, 9, 30),
-        "place": "Orsay, France",
+        "place": "Université Paris-Sud, Orsay",
         "name": "Laboratoire de Physique Théorique et Modèles Statistiques (LPTMS)",
         "title": "research visitor",
         "type": "visit",
@@ -201,8 +201,8 @@ EVENTS = [
     {
         "date": date(2019, 9, 1),
         "date_end": date(2020, 8, 31),
-        "place": "Université de Cergy-Pontoise",
-        "name": "Laboratoire de Physique Théorique et Modélisation",
+        "place": "Université de Cergy-Pontoise, France",
+        "name": "Laboratoire de Physique Théorique et Modélisation (LPTM)",
         "title": "Postdoc",
         "type": "work",
     },
