@@ -198,4 +198,12 @@ EVENTS = [
             }
         ],
     },
+    {
+        "date": date(2019, 9, 1),
+        "date_end": date(2020, 8, 31),
+        "place": "Université de Cergy-Pontoise",
+        "name": "Laboratoire de Physique Théorique et Modélisation",
+        "title": "Postdoc",
+        "type": "work",
+    },
 ]

@@ -12,9 +12,8 @@ About me
     :align: right
     :target: /img/portrait.jpg
 
-Ich bin Hendrik Schawe und ich arbeite in der Arbeitsgruppe
-`Computerorientierte Theoretische Physik <https://www.uni-oldenburg.de/compphys/>`_
-der Universität Oldenburg.
+Ich bin Hendrik Schawe und ich arbeite als Postdoc am LTPM,
+Université de Cergy-Pontoise.
 
 Mich faszinieren einfache Modelle, die eine unerwartete Tiefe zeigen.
 Beispielsweise das einfach zu formulierende *Problem des Handlungsreisenden*,
@@ -25,6 +24,10 @@ vielen Teilchen entstehen wie im *Ising Modell* oder die Länge der
 *längsten aufsteigenden Teilfolge*, deren Fluktuationen überraschende
 Verbindungen zur Theorie der Zufallsmatrizen und KPZ-Wachstumsprozessen
 aufweisen.
+
+Aktuell beschäftige ich mit der *Dynamik von Meinungen*, um besser zu
+verstehen wie sich Meinungen mit der Zeit ändern und welche Mechnaismen
+zu bestimmten Mustern führen, die in unserer Gesellschaft auftreten.
 
 Weil meine Arbeit auf Simulationen gründet, bin ich interessiert an Algorithmen,
 die es ermöglichen Probleme zu untersuchen, die auf den ersten Blick
