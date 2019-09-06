@@ -26,7 +26,7 @@ Verbindungen zur Theorie der Zufallsmatrizen und KPZ-Wachstumsprozessen
 aufweisen.
 
 Aktuell beschäftige ich mit der *Dynamik von Meinungen*, um besser zu
-verstehen wie sich Meinungen mit der Zeit ändern und welche Mechnaismen
+verstehen wie sich Meinungen mit der Zeit ändern und welche Mechanismen
 zu bestimmten Mustern führen, die in unserer Gesellschaft auftreten.
 
 Weil meine Arbeit auf Simulationen gründet, bin ich interessiert an Algorithmen,
