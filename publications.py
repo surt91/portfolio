@@ -1,4 +1,3 @@
-
 PUBLICATIONS = [
     {
         "doi": "10.1209/0295-5075/113/30004",
@@ -47,16 +46,18 @@ PUBLICATIONS = [
         "pdf": "2019_sat_PLOSONE.pdf",
         "comment": "direct link is fine: Open Access (creative commons license)",
     },
+    {
+        "doi": "10.1103/PhysRevE.100.032135",
+        "arxiv": "1806.08681",
+        "pdf": "2019_tsprsb_PRE.pdf",
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1808.10698",
         "pdf": "pp_true.pdf",
-    },
-    {
-        "arxiv": "1806.08681",
-        "pdf": "pp_tsprsb.pdf",
     },
     {
         "arxiv": "1803.08015",
