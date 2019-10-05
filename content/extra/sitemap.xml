@@ -9,17 +9,17 @@
         <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="https://hendrik.schawe.me/en/"
-        />
-        <xhtml:link
-            rel="alternate"
-            hreflang="de"
             href="https://hendrik.schawe.me/"
         />
         <xhtml:link
             rel="alternate"
+            hreflang="de"
+            href="https://hendrik.schawe.me/de/"
+        />
+        <xhtml:link
+            rel="alternate"
             hreflang="x-default"
-            href="https://hendrik.schawe.me/en/"
+            href="https://hendrik.schawe.me/"
         />
         <image:image>
             <image:loc>https://hendrik.schawe.me/img/loading.gif</image:loc>
@@ -125,6 +125,10 @@
         <loc>https://hendrik.schawe.me/pdf/2019_sat_PLOSONE.pdf</loc>
         <changefreq>never</changefreq>
     </url>
+    <url>
+        <loc>https://hendrik.schawe.me/pdf/2019_tsprsb_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
 
     <url>
         <loc>https://hendrik.schawe.me/pdf/pp_bat.pdf</loc>
@@ -137,28 +141,5 @@
     <url>
         <loc>https://hendrik.schawe.me/pdf/pp_true.pdf</loc>
         <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://hendrik.schawe.me/pdf/pp_tsprsb.pdf</loc>
-        <changefreq>monthly</changefreq>
-    </url>
-
-    <url>
-        <loc>https://hendrik.schawe.me/en/</loc>
-        <xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="https://hendrik.schawe.me/en/"
-        />
-        <xhtml:link
-            rel="alternate"
-            hreflang="de"
-            href="https://hendrik.schawe.me/"
-        />
-        <xhtml:link
-            rel="alternate"
-            hreflang="x-default"
-            href="https://hendrik.schawe.me/en/"
-        />
     </url>
 </urlset>
