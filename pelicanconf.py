@@ -92,7 +92,7 @@ SOCIAL = (
     ('Google Scholar', 'https://scholar.google.de/citations?user=-BTuwLgAAAAJ', 'ai ai-google-scholar'),
     ('Blog', 'https://blog.schawe.me', 'fas fa-hand-spock'),
     ('4', None, 'ő'),
-    ('857·2²⁴⁶³⁴¹¹+1', None, "'"),
+    ('63823568¹³¹⁰⁷²+1', None, "'"),
 )
 
 DEFAULT_PAGINATION = 3
