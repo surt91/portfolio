@@ -129,6 +129,10 @@
         <loc>https://hendrik.schawe.me/pdf/2019_tsprsb_PRE.pdf</loc>
         <changefreq>never</changefreq>
     </url>
+    <url>
+        <loc>https://hendrik.schawe.me/pdf/2019_convex_true_JOPCS.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
 
     <url>
         <loc>https://hendrik.schawe.me/pdf/pp_bat.pdf</loc>
@@ -136,10 +140,6 @@
     </url>
     <url>
         <loc>https://hendrik.schawe.me/pdf/pp_lis2.pdf</loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://hendrik.schawe.me/pdf/pp_true.pdf</loc>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
