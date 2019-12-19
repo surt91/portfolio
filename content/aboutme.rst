@@ -14,7 +14,7 @@ About me
     :target: /img/portrait.jpg
 
 My name is Hendrik Schawe and I am working
-as a Postdoc at the LPTM, Université de Cergy-Pontoise.
+as a postdoc at the LPTM, Université de Cergy-Pontoise.
 
 I am fascinated by simple models exhibiting an unexpected depth.
 For example the easily defined *traveling salesperson problem* turning out
