@@ -218,7 +218,7 @@ EVENTS = [
         "date": date(2019, 9, 1),
         "date_end": date(2020, 8, 31),
         "country": "FR",
-        "place": "Université de Cergy-Pontoise",
+        "place": "CY Cergy Paris Université",
         "name": "Laboratoire de Physique Théorique et Modélisation (LPTM)",
         "title": "Postdoc",
         "type": "work",
