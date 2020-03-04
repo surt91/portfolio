@@ -223,6 +223,26 @@ EVENTS = [
         "title": "Postdoc",
         "type": "work",
     },
+    {
+        "date": date(2020, 3, 15),
+        "date_end": date(2020, 3, 20),
+        "country": "DE",
+        "place": "Dresden",
+        "name": "DPG-Frühjahrstagung (cancelled)",
+        "link": "https://dresden20.dpg-tagungen.de/",
+        "type": "conference",
+        "presentations": [{
+            "title": "Surprising Effects of Inhomogeneity on Opinion Dynamics",
+            "pdf": "2020DPG_hk.pdf",
+            "type": "talk",
+        },
+        {
+            "title": "The entropy of the longest increasing subsequences: typical and extreme sequences",
+            "pdf": "2020DPG_lis.pdf",
+            "type": "talk",
+        }
+        ],
+    },
 ]
 
 import pycountry
