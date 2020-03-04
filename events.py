@@ -33,6 +33,7 @@ EVENTS = [
         "presentations": [{
             "title": "Ising-Ferromagnet on Proximity Graphs",
             "pdf": "2014DPG.pdf",
+            "id": "DY 41.46",
             "type": "poster",
         }],
     },
@@ -82,6 +83,7 @@ EVENTS = [
         "presentations": [{
             "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
             "pdf": "2016DPG.pdf",
+            "id": "DY 44.7",
             "type": "talk",
         }],
     },
@@ -120,11 +122,13 @@ EVENTS = [
             {
                 "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
                 "pdf": "2017DPG.pdf",
+                "id": "DY 60.1",
                 "type": "poster",
             },
             {
                 "title": "Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study",
                 "link": "https://dpg2017.schawe.me/",
+                "id": "DY 18.1",
                 "type": "talk"
             }
         ]
@@ -163,6 +167,7 @@ EVENTS = [
         "presentations": [{
             "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
             "pdf": "2018DPG.pdf",
+            "id": "DY 10.6",
             "type": "talk",
         }],
     },
@@ -177,6 +182,7 @@ EVENTS = [
         "presentations": [{
             "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
             "pdf": "2018CCP.pdf",
+            "id": "115",
             "type": "talk",
         }],
     },
@@ -191,6 +197,7 @@ EVENTS = [
         "presentations": [{
             "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
             "pdf": "2019DPG.pdf",
+            "id": "DY 21.1",
             "type": "talk",
         }],
     },
@@ -234,11 +241,13 @@ EVENTS = [
         "presentations": [{
             "title": "Surprising Effects of Inhomogeneity on Opinion Dynamics",
             "pdf": "2020DPG_hk.pdf",
+            "id": "SOE 13.7",
             "type": "talk",
         },
         {
             "title": "The entropy of the longest increasing subsequences: typical and extreme sequences",
             "pdf": "2020DPG_lis.pdf",
+            "id": "DY 40.4",
             "type": "talk",
         }
         ],
