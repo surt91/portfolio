@@ -3,12 +3,14 @@ from datetime import date
 DOCUMENTS = {
     "2013gradBSC": {
         "title": "Ising-Ferromagnet auf Ad-HocNetzwerken",
+        "short": "BSc",
         "pdf": "bachelorThesis.pdf",
         "type": "thesis",
         "date": date(2013, 9, 5),
     },
     "2014confDPG": {
         "title": "Ising-Ferromagnet on Proximity Graphs",
+        "short": "DPG14",
         "pdf": "2014DPG.pdf",
         "contribution": "DY 41.46",
         "type": "poster",
@@ -16,18 +18,21 @@ DOCUMENTS = {
     },
     "2015sschoolMCS": {
         "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming",
+        "short": "MCS",
         "pdf": "2015MCS.pdf",
         "type": "poster",
         "date": date(2015, 9, 21),
     },
     "2015gradMSC": {
         "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
+        "short": "MSc",
         "pdf": "masterThesis.pdf",
         "type": "thesis",
         "date": date(2015, 11, 6),
     },
     "2016confDPG": {
         "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
+        "short": "DPG16",
         "pdf": "2016DPG.pdf",
         "contribution": "DY 44.7",
         "type": "talk",
@@ -35,12 +40,14 @@ DOCUMENTS = {
     },
     "2016CompPhys": {
         "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
+        "short": "CompPhys14",
         "pdf": "2016CompPhys.pdf",
         "type": "poster",
         "date": date(2016, 11, 25),
     },
     "2017confDPG_saw": {
         "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
+        "short": "DPG17",
         "pdf": "2017DPG.pdf",
         "contribution": "DY 60.1",
         "type": "poster",
@@ -48,6 +55,7 @@ DOCUMENTS = {
     },
     "2017confDPG_high": {
         "title": "Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study",
+        "short": "DPG17",
         "link": "https://dpg2017.schawe.me/",
         "contribution": "DY 18.1",
         "type": "talk",
@@ -55,12 +63,14 @@ DOCUMENTS = {
     },
     "2017confCompPhys": {
         "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
+        "short": "CompPhys17",
         "pdf": "2017CompPhys.pdf",
         "type": "talk",
         "date": date(2017, 11, 30),
     },
     "2018confDPG": {
         "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
+        "short": "DPG18",
         "pdf": "2018DPG.pdf",
         "contribution": "DY 10.6",
         "type": "talk",
@@ -68,6 +78,7 @@ DOCUMENTS = {
     },
     "2018confCCP": {
         "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
+        "short": "CCP18",
         "pdf": "2018CCP.pdf",
         "contribution": "115",
         "type": "talk",
@@ -75,6 +86,7 @@ DOCUMENTS = {
     },
     "2019confDPG": {
         "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
+        "short": "DPG19",
         "pdf": "2019DPG.pdf",
         "contribution": "DY 21.1",
         "type": "talk",
@@ -82,6 +94,7 @@ DOCUMENTS = {
     },
     "2019gradPHD_thesis": {
         "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
+        "short": "PhD",
         "pdf": "dissertation.pdf",
         "type": "thesis",
         "doi": "10.5281/zenodo.3377931",
@@ -89,6 +102,7 @@ DOCUMENTS = {
     },
     "2019gradPHD_defense": {
         "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
+        "short": "PhD",
         "pdf": "disputation.pdf",
         "type": "talk",
         "date": date(2019, 3, 19),
@@ -96,12 +110,14 @@ DOCUMENTS = {
     "2020confR4": {
         # https://diggingintodata.org/awards/news/round-4-conference-2020
         "title": "Understanding opinion and language dynamics using massive data",
+        "short": "R4",
         "link": "2020R4.pdf",
         "type": "poster",
         "date": date(2020, 1, 31),
     },
     "2020confDPG_hk": {
         "title": "Surprising Effects of Inhomogeneity on Opinion Dynamics",
+        "short": "DPG20",
         "pdf": "2020DPG_hk.pdf",
         "contribution": "SOE 13.7",
         "type": "talk",
@@ -109,8 +125,10 @@ DOCUMENTS = {
     },
     "2020confDPG_lis": {
         "title": "The entropy of the longest increasing subsequences: typical and extreme sequences",
+        "short": "DPG20",
         "pdf": "2020DPG_lis.pdf",
         "contribution": "DY 40.4",
         "type": "talk",
         "date": date(2019, 3, 18),
     },
+}
