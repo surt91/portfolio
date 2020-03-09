@@ -9,6 +9,7 @@ SITEURL = 'https://hendrik.schawe.me'
 
 from events import EVENTS
 from publications import PUBLICATIONS, PREPRINTS
+from documents import DOCUMENTS
 
 TYPOGRIFY = True
 

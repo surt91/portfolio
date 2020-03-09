@@ -7,11 +7,7 @@ EVENTS = [
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Bachelor of Science",
         "type": "graduation",
-        "presentations": [{
-            "title": "Ising-Ferromagnet auf Ad-HocNetzwerken",
-            "pdf": "bachelorThesis.pdf",
-            "type": "thesis",
-        }],
+        "presentations": ["2013gradBSC"],
     },
     {
         "date": date(2014, 8, 25),
@@ -30,12 +26,7 @@ EVENTS = [
         "name": "DPG-Frühjahrstagung",
         "link": "https://dresden14.dpg-tagungen.de/",
         "type": "conference",
-        "presentations": [{
-            "title": "Ising-Ferromagnet on Proximity Graphs",
-            "pdf": "2014DPG.pdf",
-            "id": "DY 41.46",
-            "type": "poster",
-        }],
+        "presentations": ["2014confDPG"],
     },
     {
         "date": date(2015, 9, 20),
@@ -45,11 +36,7 @@ EVENTS = [
         "name": "Bad Honnef Physics School: Computational Physics of Complex and Disordered Systems",
         "link": "https://www.dpg-physik.de/veranstaltungen/2015/bad-honnef-physics-school-computational-physics-of-complex-and-disordered-systems",
         "type": "summerschool",
-        "presentations": [{
-            "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming",
-            "pdf": "2015MCS.pdf",
-            "type": "poster",
-        }],
+        "presentations": ["2015sschoolMCS"],
     },
     {
         "date": date(2015, 11, 6),
@@ -57,11 +44,7 @@ EVENTS = [
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Master of Science",
         "type": "graduation",
-        "presentations": [{
-            "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
-            "pdf": "masterThesis.pdf",
-            "type": "thesis",
-        }],
+        "presentations": ["2015gradMSC"],
     },
     {
         "date": date(2016, 3, 1),
@@ -80,12 +63,7 @@ EVENTS = [
         "name": "DPG-Frühjahrstagung",
         "link": "https://regensburg16.dpg-tagungen.de/",
         "type": "conference",
-        "presentations": [{
-            "title": "Phase Transitions of Disordered Travelling Salesperson Problems solved with Linear Programming and Cutting Planes",
-            "pdf": "2016DPG.pdf",
-            "id": "DY 44.7",
-            "type": "talk",
-        }],
+        "presentations": ["2016confDPG"],
     },
     {
         "date": date(2016, 9, 1),
@@ -104,11 +82,7 @@ EVENTS = [
         "name": "CompPhys16, 17th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys16/",
         "type": "conference",
-        "presentations": [{
-            "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
-            "pdf": "2016CompPhys.pdf",
-            "type": "poster",
-        }],
+        "presentations": ["2016CompPhys"],
     },
     {
         "date": date(2017, 3, 19),
@@ -119,18 +93,8 @@ EVENTS = [
         "link": "https://dresden17.dpg-tagungen.de/",
         "type": "conference",
         "presentations": [
-            {
-                "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
-                "pdf": "2017DPG.pdf",
-                "id": "DY 60.1",
-                "type": "poster",
-            },
-            {
-                "title": "Convex Hulls of Random Walks in High Dimensions: A Large-Deviation Study",
-                "link": "https://dpg2017.schawe.me/",
-                "id": "DY 18.1",
-                "type": "talk"
-            }
+            "2017confDPG_saw",
+            "2017confDPG_high"
         ]
     },
     {
@@ -150,11 +114,7 @@ EVENTS = [
         "name": "CompPhys17, 18th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys17/",
         "type": "conference",
-        "presentations": [{
-            "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
-            "pdf": "2017CompPhys.pdf",
-            "type": "talk",
-        }],
+        "presentations": ["2017confCompPhys"],
     },
     {
         "date": date(2018, 3, 11),
@@ -164,12 +124,7 @@ EVENTS = [
         "name": "DPG-Frühjahrstagung",
         "link": "https://berlin18.dpg-tagungen.de/",
         "type": "conference",
-        "presentations": [{
-            "title": "Linear Programming and Cutting Planes for Ground States and Excited States of the Traveling Salesperson Problem",
-            "pdf": "2018DPG.pdf",
-            "id": "DY 10.6",
-            "type": "talk",
-        }],
+        "presentations": ["2018confDPG"],
     },
     {
         "date": date(2018, 7, 29),
@@ -179,12 +134,7 @@ EVENTS = [
         "name": "XXX IUPAP Conference on Computational Physics",
         "link": "http://ccp2018.physics.ucdavis.edu",
         "type": "conference",
-        "presentations": [{
-            "title": "Large Deviations of Convex Hulls of Self-Avoiding Random Walks",
-            "pdf": "2018CCP.pdf",
-            "id": "115",
-            "type": "talk",
-        }],
+        "presentations": ["2018confCCP"],
     },
     {
         "date": date(2019, 3, 31),
@@ -194,12 +144,7 @@ EVENTS = [
         "name": "DPG-Frühjahrstagung",
         "link": "https://regensburg19.dpg-tagungen.de/",
         "type": "conference",
-        "presentations": [{
-            "title": "Ground-state energy distribution of noninteracting fermions with a random energy spectrum",
-            "pdf": "2019DPG.pdf",
-            "id": "DY 21.1",
-            "type": "talk",
-        }],
+        "presentations": ["2019confDPG"],
     },
     {
         "date": date(2019, 3, 19),
@@ -208,17 +153,8 @@ EVENTS = [
         "name": "Doktor der Naturwissenschaften (Dr. rer. nat.)",
         "type": "graduation",
         "presentations": [
-            {
-                "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
-                "pdf": "dissertation.pdf",
-                "type": "thesis",
-                "doi": "10.5281/zenodo.3377931",
-            },
-            {
-                "title": "Large Deviations of Convex Hulls of Random Walks and Other Stochastic Models",
-                "pdf": "disputation.pdf",
-                "type": "talk",
-            }
+            "2019gradPHD_thesis",
+            "2019gradPHD_defense"
         ],
     },
     {
@@ -238,18 +174,9 @@ EVENTS = [
         "name": "DPG-Frühjahrstagung (cancelled)",
         "link": "https://dresden20.dpg-tagungen.de/",
         "type": "conference",
-        "presentations": [{
-            "title": "Surprising Effects of Inhomogeneity on Opinion Dynamics",
-            "pdf": "2020DPG_hk.pdf",
-            "id": "SOE 13.7",
-            "type": "talk",
-        },
-        {
-            "title": "The entropy of the longest increasing subsequences: typical and extreme sequences",
-            "pdf": "2020DPG_lis.pdf",
-            "id": "DY 40.4",
-            "type": "talk",
-        }
+        "presentations": [
+            "2020confDPG_hk",
+            "2020confDPG_lis"
         ],
     },
 ]
