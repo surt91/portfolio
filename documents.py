@@ -111,7 +111,7 @@ DOCUMENTS = {
         # https://diggingintodata.org/awards/news/round-4-conference-2020
         "title": "Understanding opinion and language dynamics using massive data",
         "short": "R4",
-        "link": "2020R4.pdf",
+        "pdf": "2020R4.pdf",
         "type": "poster",
         "date": date(2020, 1, 31),
     },
