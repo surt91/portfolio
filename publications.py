@@ -87,4 +87,8 @@ PREPRINTS = [
         "pdf": "pp_hk.pdf",
         "related": ["2020confDPG_hk", "2020confR4"],
     },
+    {
+        "arxiv": "2003.03415",
+        "pdf": "pp_sbm.pdf",
+    },
 ]
