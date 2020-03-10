@@ -31,7 +31,7 @@ PUBLICATIONS = [
         "arxiv": "1808.09246",
         "pdf": "2018_srn_EPL.pdf",
         "comment": "direct link is fine: point (2) in https://authors.epletters.net/documents/copyright.pdf 'all or part [..] including the authors' personal home page'",
-        "realted": ["2019confDPG"],
+        "related": ["2019confDPG"],
     },
     {
         "doi": "10.1103/PhysRevE.99.042104",
