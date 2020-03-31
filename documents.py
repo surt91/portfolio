@@ -129,6 +129,6 @@ DOCUMENTS = {
         "pdf": "2020DPG_lis.pdf",
         "contribution": "DY 40.4",
         "type": "talk",
-        "date": date(2019, 3, 18),
+        "date": date(2020, 3, 18),
     },
 }

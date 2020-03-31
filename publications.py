@@ -94,5 +94,6 @@ PREPRINTS = [
     {
         "arxiv": "2003.12847",
         "pdf": "pp_liscount.pdf",
+        "related": ["2020confDPG_lis"],
     },
 ]
