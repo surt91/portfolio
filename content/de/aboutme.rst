@@ -13,7 +13,7 @@ About me
     :target: /img/portrait.jpg
 
 Ich bin Hendrik Schawe und ich arbeite als Postdoc am LTPM,
-Université de Cergy-Pontoise.
+CY Cergy Paris Université.
 
 Mich faszinieren einfache Modelle, die eine unerwartete Tiefe zeigen.
 Beispielsweise das einfach zu formulierende *Problem des Handlungsreisenden*,
