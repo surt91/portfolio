@@ -131,4 +131,18 @@ DOCUMENTS = {
         "type": "talk",
         "date": date(2020, 3, 18),
     },
+    "2020supp1SciRep_hk": {
+        "title": "SI 1",
+        "short": "hk_si1",
+        "link": "https://github.com/surt91/hk_tree",
+        "type": "code",
+        "date": date(2020, 5, 19),
+    },
+    "2020supp2SciRep_hk": {
+        "title": "SI 2",
+        "short": "hk_si2",
+        "pdf": "2020supp2SciRep_hk.pdf",
+        "type": "text",
+        "date": date(2020, 5, 19),
+    },
 }
