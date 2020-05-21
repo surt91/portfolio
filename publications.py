@@ -79,16 +79,18 @@ PUBLICATIONS = [
         "related": ["2020confDPG_hk", "2020confR4"],
         "supplementary": ["2020supp1SciRep_hk", "2020supp2SciRep_hk"],
     },
+    {
+        "doi": "10.1088/1742-5468/ab7c5f",
+        "arxiv": "1912.08778",
+        "pdf": "2020_rtp_JSTAT_accepted.pdf",
+        "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "1912.08778",
-        "pdf": "pp_rtp.pdf",
     },
     {
         "arxiv": "2003.03415",
