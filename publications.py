@@ -85,6 +85,13 @@ PUBLICATIONS = [
         "pdf": "2020_rtp_JSTAT_accepted.pdf",
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
+    {
+        "doi": "10.1103/PhysRevE.101.062109",
+        "arxiv": "2003.12847",
+        "pdf": "2020_liscount_PRE.pdf",
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+        "related": ["2020confDPG_lis"],
+    },
 ]
 
 PREPRINTS = [
@@ -95,10 +102,5 @@ PREPRINTS = [
     {
         "arxiv": "2003.03415",
         "pdf": "pp_sbm.pdf",
-    },
-    {
-        "arxiv": "2003.12847",
-        "pdf": "pp_liscount.pdf",
-        "related": ["2020confDPG_lis"],
     },
 ]
