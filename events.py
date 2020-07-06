@@ -179,6 +179,19 @@ EVENTS = [
             "2020confDPG_lis"
         ],
     },
+    {
+        "date": date(2020, 7, 17),
+        "date_end": date(2020, 7, 20),
+        "country": "US",
+        "place": "Cambridge, MA",
+        "name": "International Conference on Computational Social Science (remote)",
+        "link": "http://2020.ic2s2.org/",
+        "type": "conference",
+        "presentations": [
+            "2020confIC2S2_video",
+            "2020confIC2S2_poster",
+        ],
+    },
 ]
 
 import pycountry

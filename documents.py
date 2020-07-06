@@ -145,4 +145,18 @@ DOCUMENTS = {
         "type": "text",
         "date": date(2020, 5, 19),
     },
+    "2020confIC2S2_video": {
+        "title": "When open mindedness hinders consensus",
+        "short": "IC2S2",
+        "link": "https://youtu.be/_oSSz4olovE",
+        "type": "video",
+        "date": date(2020, 7, 19),
+    },
+    "2020confIC2S2_poster": {
+        "title": "When open mindedness hinders consensus",
+        "short": "IC2S2",
+        "pdf": "2020IC2S2_hk.pdf",
+        "type": "poster",
+        "date": date(2020, 7, 19),
+    },
 }

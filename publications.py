@@ -76,7 +76,7 @@ PUBLICATIONS = [
         "arxiv": "2001.06877",
         "pdf": "2020_hk_SciRep.pdf",
         "comment": "direct link is fine: Open Access (creative commons license)",
-        "related": ["2020confDPG_hk", "2020confR4"],
+        "related": ["2020confDPG_hk", "2020confR4", "2020confIC2S2_poster", "2020confIC2S2_video"],
         "supplementary": ["2020supp1SciRep_hk", "2020supp2SciRep_hk"],
     },
     {
