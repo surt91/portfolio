@@ -81,7 +81,7 @@ EVENTS = [
         "place": "Leipzig",
         "name": "CompPhys16, 17th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys16/",
-        "type": "conference",
+        "type": "workshop",
         "presentations": ["2016CompPhys"],
     },
     {
@@ -113,7 +113,7 @@ EVENTS = [
         "place": "Leipzig",
         "name": "CompPhys17, 18th International NTZ-Workshop on New Developments in Computational Physics",
         "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys17/",
-        "type": "conference",
+        "type": "workshop",
         "presentations": ["2017confCompPhys"],
     },
     {
@@ -177,6 +177,19 @@ EVENTS = [
         "presentations": [
             "2020confDPG_hk",
             "2020confDPG_lis"
+        ],
+    },
+    {
+        "date": date(2020, 7, 9),
+        "date_end": date(2020, 7, 10),
+        "country": "FR",
+        "place": "Cergy",
+        "name": "Theoretical and Mathematical Physics in Cergy Paris, Singapore, and Warwick (remote)",
+        "link": "https://iea.u-cergy.fr/en/scientific-events/conferences-and-workshops/theoretical-and-mathematical-physics.html",
+        "type": "workshop",
+        "presentations": [
+            "2020confIC2S2_video",
+            "2020confIC2S2_poster",
         ],
     },
     {
