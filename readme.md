@@ -4,8 +4,8 @@ Visit it at [hendrik.schawe.me](https://hendrik.schawe.me).
 
 ## Setup
 
-Ensure that `python3` is installed and `pip` is available. Advanced users might prefer to perform the
-steps below in a python [virtual environment](https://docs.python.org/3/tutorial/venv.html).
+Ensure that `python3` is installed and `pip` is available. Advanced users might prefer to perform
+step 4. in a python [virtual environment](https://docs.python.org/3/tutorial/venv.html).
 
 1. `git clone https://github.com/surt91/portfolio.git`
 2. `cd portfolio`
