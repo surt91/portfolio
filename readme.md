@@ -2,20 +2,17 @@
 
 Visit it at [hendrik.schawe.me](https://hendrik.schawe.me).
 
-## dependencies
-1. python3
+## Setup
 
-### from PyPI (pip3 install ...)
-1. pelican 4.1.0
-1. markdown
-1. typogrify
-1. beautifulsoup4
-1. bs4
-1. html5lib
-1. requests
+Ensure that `python3` is installed and `pip` is available. Advanced users might prefer to perform the
+steps below in a python [virtual environment](https://docs.python.org/3/tutorial/venv.html).
 
-## build
-1. clone the repo
-2. `git submodule init; git submodule update`
-3. `make publish`
-4. upload the static files `output` to some webserver
+1. `git clone https://github.com/surt91/portfolio.git`
+2. `cd portfolio`
+3. `git submodule update --init --recursive`
+4. `pip3 install --user -r requirements.txt`
+5. `make publish`
+6. upload the static files in the `output` directory to some web server
+    * [GitHub pages](https://pages.github.com/) using [TravisCI](https://travis-ci.org/) and [`.travis.yml`](.travis.yml)
+    * [Netlify](https://www.netlify.com/) using [`build.sh`](build.sh)
+    * An Apache server using the [`apache-vhost.conf`](apache-vhost.conf) example
