@@ -159,4 +159,11 @@ DOCUMENTS = {
         "type": "poster",
         "date": date(2020, 7, 19),
     },
+    "2020confCSW_video": {
+        "title": "Collective effects of the cost of opinion change",
+        "short": "CSW",
+        "link": "https://www.youtube.com/watch?v=O6J9gkqqdAg&t=2760s",
+        "type": "video",
+        "date": date(2020, 7, 9),
+    },
 }

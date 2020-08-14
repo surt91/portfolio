@@ -92,6 +92,13 @@ PUBLICATIONS = [
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
         "related": ["2020confDPG_lis"],
     },
+    {
+        "doi": "10.1038/s41598-020-70809-1",
+        "arxiv": "2007.00432",
+        "pdf": "2020_hkcost_SciRep.pdf",
+        "comment": "direct link is fine: Open Access (creative commons license)",
+        "related": ["2020confCSW_video"],
+    },
 ]
 
 PREPRINTS = [
@@ -102,9 +109,5 @@ PREPRINTS = [
     {
         "arxiv": "2003.03415",
         "pdf": "pp_sbm.pdf",
-    },
-    {
-        "arxiv": "2007.00432",
-        "pdf": "pp_hkcost.pdf",
     },
 ]
