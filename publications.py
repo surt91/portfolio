@@ -110,4 +110,8 @@ PREPRINTS = [
         "arxiv": "2003.03415",
         "pdf": "pp_sbm.pdf",
     },
+    {
+        "arxiv": "2009.01487",
+        "pdf": "pp_tele.pdf",
+    },
 ]
