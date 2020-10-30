@@ -2,6 +2,13 @@ from datetime import date
 
 EVENTS = [
     {
+        "date": date(2011, 11, 18),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Deutschland Stipendium",
+        "type": "prize",
+    },
+    {
         "date": date(2013, 9, 5),
         "country": "DE",
         "place": "Carl von Ossietzky Universität Oldenburg",
@@ -39,6 +46,15 @@ EVENTS = [
         "presentations": ["2015sschoolMCS"],
     },
     {
+        "date": date(2015, 10, 19),
+        "date_end": date(2016, 1, 11),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Theoretische Physik III: Thermodynamik und Statistik",
+        "teaching": "tutorial",
+        "type": "teaching",
+    },
+    {
         "date": date(2015, 11, 6),
         "country": "DE",
         "place": "Carl von Ossietzky Universität Oldenburg",
@@ -66,6 +82,15 @@ EVENTS = [
         "presentations": ["2016confDPG"],
     },
     {
+        "date": date(2016, 4, 8),
+        "date_end": date(2016, 7, 15),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Simulation von Phasenübergängen bei Optimierungsproblemen",
+        "teaching": "labcourse",
+        "type": "teaching",
+    },
+    {
         "date": date(2016, 9, 1),
         "date_end": date(2016, 9, 30),
         "country": "FR",
@@ -73,6 +98,24 @@ EVENTS = [
         "name": "Laboratoire de Physique Théorique et Modèles Statistiques (LPTMS)",
         "title": "research visitor",
         "type": "visit",
+    },
+    {
+        "date": date(2016, 10, 24),
+        "date_end": date(2017, 1, 24),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Theoretische Physik II: Elektrodynamik",
+        "teaching": "tutorial",
+        "type": "teaching",
+    },
+    {
+        "date": date(2016, 11, 11),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Linear Programming by Example: The Travelling Salesperson Problem",
+        "teaching": "guestlecture",
+        "type": "teaching",
+        "presentations": ["GL2016TSP"],
     },
     {
         "date": date(2016, 11, 24),
@@ -96,6 +139,15 @@ EVENTS = [
             "2017confDPG_saw",
             "2017confDPG_high"
         ]
+    },
+    {
+        "date": date(2017, 4, 11),
+        "date_end": date(2017, 7, 6),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Einführung in die Theoretische Physik",
+        "teaching": "tutorial",
+        "type": "teaching",
     },
     {
         "date": date(2017, 7, 16),
@@ -127,6 +179,15 @@ EVENTS = [
         "presentations": ["2018confDPG"],
     },
     {
+        "date": date(2018, 4, 6),
+        "date_end": date(2018, 7, 13),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Simulation von Phasenübergängen bei Optimierungsproblemen",
+        "teaching": "labcourse",
+        "type": "teaching",
+    },
+    {
         "date": date(2018, 7, 29),
         "date_end": date(2018, 8, 2),
         "country": "US",
@@ -135,6 +196,15 @@ EVENTS = [
         "link": "http://ccp2018.physics.ucdavis.edu",
         "type": "conference",
         "presentations": ["2018confCCP"],
+    },
+    {
+        "date": date(2018, 11, 1),
+        "date_end": date(2019, 1, 17),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Theoretische Physik I: Mechanik und Chaos",
+        "teaching": "tutorial",
+        "type": "teaching",
     },
     {
         "date": date(2019, 3, 31),
@@ -158,6 +228,15 @@ EVENTS = [
         ],
     },
     {
+        "date": date(2019, 4, 5),
+        "date_end": date(2019, 7, 19),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Simulation von Phasenübergängen bei Optimierungsproblemen",
+        "teaching": "labcourse",
+        "type": "teaching",
+    },
+    {
         "date": date(2019, 9, 1),
         "date_end": date(2020, 8, 31),
         "country": "FR",
@@ -165,6 +244,15 @@ EVENTS = [
         "name": "Laboratoire de Physique Théorique et Modélisation (LPTM)",
         "title": "Postdoc",
         "type": "work",
+    },
+    {
+        "date": date(2020, 2, 21),
+        "date_end": date(2020, 2, 21),
+        "country": "DE",
+        "place": "Oldenburg",
+        "name": "Preis der Fakultät für Mathematik und Naturwissenschaften",
+        "link": "https://www.presse.uni-oldenburg.de/mit/2020/052.html",
+        "type": "prize",
     },
     {
         "date": date(2020, 3, 15),

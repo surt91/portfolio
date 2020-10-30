@@ -38,6 +38,13 @@ DOCUMENTS = {
         "type": "talk",
         "date": date(2016, 3, 9),
     },
+    "GL2016TSP": {
+        "title": "Linear Programming by Example: The Travelling Salesperson Problem",
+        "short": "GL2016TSP",
+        "pdf": "Lecture2016_TSPbyExample.pdf",
+        "type": "talk",
+        "date": date(2016, 11, 11),
+    },
     "2016CompPhys": {
         "title": "Convex Hulls of Self-Avoiding Random Walks: A Large-Deviation Study",
         "short": "CompPhys14",
