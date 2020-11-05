@@ -83,6 +83,7 @@ PUBLICATIONS = [
         "doi": "10.1088/1742-5468/ab7c5f",
         "arxiv": "1912.08778",
         "pdf": "2020_rtp_JSTAT_accepted.pdf",
+        "alphabetical": True,
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
     {
