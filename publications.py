@@ -100,16 +100,18 @@ PUBLICATIONS = [
         "comment": "direct link is fine: Open Access (creative commons license)",
         "related": ["2020confCSW_video"],
     },
+    {
+        "doi": "10.1103/PhysRevE.102.052108",
+        "arxiv": "2003.03415",
+        "pdf": "2020_sbm_PRE.pdf",
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2003.03415",
-        "pdf": "pp_sbm.pdf",
     },
     {
         "arxiv": "2009.01487",
