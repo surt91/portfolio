@@ -6,6 +6,7 @@ EVENTS = [
         "country": "DE",
         "place": "Carl von Ossietzky Universität Oldenburg",
         "name": "Deutschland Stipendium",
+        "link": "https://uol.de/deutschlandstipendium/fotos/stipendienfeier-2011",
         "type": "prize",
     },
     {
