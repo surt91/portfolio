@@ -173,4 +173,11 @@ DOCUMENTS = {
         "type": "video",
         "date": date(2020, 7, 9),
     },
+    "2020confCompPhys": {
+        "title": "Collective effects of the cost of opinion change",
+        "short": "CompPhys17",
+        "pdf": "2020CompPhys.pdf",
+        "type": "talk",
+        "date": date(2020, 12, 3),
+    },
 }

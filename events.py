@@ -294,6 +294,16 @@ EVENTS = [
             "2020confIC2S2_poster",
         ],
     },
+    {
+        "date": date(2020, 12, 3),
+        "date_end": date(2020, 12, 5),
+        "country": "DE",
+        "place": "Leipzig (remote)",
+        "name": "CompPhys20, 21th International NTZ-Workshop on New Developments in Computational Physics",
+        "link": "https://www.physik.uni-leipzig.de/~janke/CompPhys20/",
+        "type": "workshop",
+        "presentations": ["2020confCompPhys"],
+    },
 ]
 
 import pycountry
