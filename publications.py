@@ -106,6 +106,12 @@ PUBLICATIONS = [
         "pdf": "2020_sbm_PRE.pdf",
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
     },
+    {
+        "doi": "10.1103/PhysRevE.102.062141",
+        "arxiv": "2010.00325",
+        "pdf": "2020_scent_PRE.pdf",
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+    },
 ]
 
 PREPRINTS = [
@@ -116,10 +122,6 @@ PREPRINTS = [
     {
         "arxiv": "2009.01487",
         "pdf": "pp_tele.pdf",
-    },
-    {
-        "arxiv": "2010.00325",
-        "pdf": "pp_scent.pdf",
     },
     {
         "arxiv": "2011.06668",
