@@ -248,7 +248,7 @@ EVENTS = [
         "type": "teaching",
     },
     {
-        "date": date(2020, 4, 8),
+        "date": date(2019, 4, 8),
         "date_end": date(2019, 12, 19),
         "country": "DE",
         "place": "Carl von Ossietzky Universität Oldenburg",
@@ -259,7 +259,7 @@ EVENTS = [
     },
     {
         "date": date(2019, 9, 1),
-        "date_end": date(2020, 8, 31),
+        "date_end": date(2021, 8, 31),
         "country": "FR",
         "place": "CY Cergy Paris Université",
         "name": "Laboratoire de Physique Théorique et Modélisation (LPTM)",
@@ -268,7 +268,6 @@ EVENTS = [
     },
     {
         "date": date(2020, 2, 21),
-        "date_end": date(2020, 2, 21),
         "country": "DE",
         "place": "Oldenburg",
         "name": "Preis der Fakultät für Mathematik und Naturwissenschaften",
