@@ -199,6 +199,16 @@ EVENTS = [
         "presentations": ["2018confCCP"],
     },
     {
+        "date": date(2017, 11, 6),
+        "date_end": date(2018, 10, 5),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Co-Supervision of a Bachelor Thesis: Large deviations of the length of the longest increasing subsequence of random permutations and random walks",
+        "teaching": "supervision_bachelor",
+        "type": "teaching",
+        # "paper": ["10.1103/PhysRevE.99.042104"],
+    },
+    {
         "date": date(2018, 11, 1),
         "date_end": date(2019, 1, 17),
         "country": "DE",
@@ -236,6 +246,16 @@ EVENTS = [
         "name": "Simulation von Phasenübergängen bei Optimierungsproblemen",
         "teaching": "labcourse",
         "type": "teaching",
+    },
+    {
+        "date": date(2020, 4, 8),
+        "date_end": date(2019, 12, 19),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Co-Supervision of a Bachelor Thesis: Distribution of the number of longest increasing subsequences sing large deviation methods",
+        "teaching": "supervision_bachelor",
+        "type": "teaching",
+        # "paper": ["10.1103/PhysRevE.101.062109"],
     },
     {
         "date": date(2019, 9, 1),
