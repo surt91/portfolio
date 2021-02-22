@@ -120,16 +120,18 @@ PUBLICATIONS = [
         "bonus": "Editors' Suggestion",
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
     },
-
+    {
+        "doi": "10.1103/PhysRevE.103.022135",
+        "arxiv": "2011.06668",
+        "pdf": "2021_rbm_PRE.pdf",
+        "alphabetical": True,
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2011.06668",
-        "pdf": "pp_rbm.pdf",
     },
 ]
