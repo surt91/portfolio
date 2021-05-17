@@ -180,4 +180,18 @@ DOCUMENTS = {
         "type": "talk",
         "date": date(2020, 12, 3),
     },
+    "2021suppHKdata": {
+        "title": "Cluster configurations of the Hegselmann-Krause model on network ensembles",
+        "short": "HKdata",
+        "link": "https://doi.org/10.5281/zenodo.4288672",
+        "type": "data",
+        "date": date(2021, 5, 13),
+    },
+    "2021suppDWdata": {
+        "title": "Cluster configurations of the Deffuant model on network ensembles",
+        "short": "DWdata",
+        "link": "https://doi.org/10.5281/zenodo.4701047",
+        "type": "data",
+        "date": date(2021, 5, 13),
+    },
 }

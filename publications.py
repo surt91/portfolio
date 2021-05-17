@@ -137,5 +137,6 @@ PREPRINTS = [
     {
         "arxiv": "2102.10910",
         "pdf": "pp_hknet.pdf",
+        "related": ["2021suppHKdata", "2021suppDWdata"],
     },
 ]
