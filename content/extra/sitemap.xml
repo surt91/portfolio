@@ -75,6 +75,30 @@
         <loc>https://academic.schawe.me/pdf/2019DPG.pdf</loc>
         <changefreq>never</changefreq>
     </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020R4.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020DPG_hk.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020DPG_lis.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020supp2SciRep_hk.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020IC2S2_hk.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020CompPhys.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
 
     <url>
         <loc>https://academic.schawe.me/pdf/bachelorThesis.pdf</loc>
@@ -133,13 +157,49 @@
         <loc>https://academic.schawe.me/pdf/2019_convex_true_JOPCS.pdf</loc>
         <changefreq>never</changefreq>
     </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_lis2_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_hk_SciRep.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_rtp_JSTAT_accepted.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_liscount_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_hkcost_SciRep.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_sbm_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2020_scent_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2021_tele_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://academic.schawe.me/pdf/2021_rbm_PRE.pdf</loc>
+        <changefreq>never</changefreq>
+    </url>
 
     <url>
         <loc>https://academic.schawe.me/pdf/pp_bat.pdf</loc>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://academic.schawe.me/pdf/pp_lis2.pdf</loc>
+        <loc>https://academic.schawe.me/pdf/pp_hknet.pdf</loc>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
