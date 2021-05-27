@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Hendrik Schawe'
 SITENAME = 'Hendrik Schawe'
 # SITESUBTITLE = 'lorem ipsum dolor sit amet'
-SITEURL = 'https://hendrik.schawe.me'
+SITEURL = 'https://academic.schawe.me'
 
 from events import EVENTS
 from publications import PUBLICATIONS, PREPRINTS
@@ -71,7 +71,7 @@ EXTRA_PATH_METADATA = {
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
-FEATURED_IMAGE = 'https://hendrik.schawe.me/img/portrait.jpg'
+FEATURED_IMAGE = 'https://academic.schawe.me/img/portrait.jpg'
 
 PATH = 'content'
 

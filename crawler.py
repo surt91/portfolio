@@ -140,7 +140,7 @@ def links_reachable(html, data, root="/", parent="/", depth=0, request_kwargs={}
 
 if __name__ == "__main__":
     # url = sys.argv[1]
-    url = "https://hendrik.schawe.me"
+    url = "https://academic.schawe.me"
     user = ""
     passwd = ""
 

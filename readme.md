@@ -1,6 +1,6 @@
 # This is the source of my personal landing page. [![Build Status](https://travis-ci.org/surt91/portfolio.svg?branch=master)](https://travis-ci.org/surt91/portfolio)
 
-Visit it at [hendrik.schawe.me](https://hendrik.schawe.me).
+Visit it at [academic.schawe.me](https://academic.schawe.me).
 
 ## Setup
 

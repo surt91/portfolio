@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hendrik.schawe.me/sitemap.xml
+Sitemap: https://academic.schawe.me/sitemap.xml
