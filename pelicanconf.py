@@ -71,7 +71,7 @@ EXTRA_PATH_METADATA = {
 }
 
 SITE_DESCRIPTION = 'Hendrik Schawe'
-FEATURED_IMAGE = 'https://blog.schawe.me/img/portrait.jpg'
+FEATURED_IMAGE = 'https://hendrik.schawe.me/img/portrait.jpg'
 
 PATH = 'content'
 
