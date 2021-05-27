@@ -54,6 +54,7 @@ STATIC_PATHS = [
     'extra/cname',
     'extra/sitemap.xml',
     'extra/robots.txt',
+    'extra/_headers',
     'extra/legacy_redirect.html',
     'img',
     'pdf',
@@ -67,6 +68,7 @@ EXTRA_PATH_METADATA = {
     'extra/cname': {'path': 'CNAME'},
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/_headers': {'path': '_headers'},
     'extra/legacy_redirect.html': {'path': 'en/index.html'},
 }
 
