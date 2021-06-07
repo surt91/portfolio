@@ -3,6 +3,7 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Content-Security-Policy: default-src 'self'; object-src 'none'; connect-src https://maker.ifttt.com
+  Access-Control-Allow-Origin: https://data.schawe.me
   Referrer-Policy: no-referrer-when-downgrade
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: geolocation=(), microphone=()
