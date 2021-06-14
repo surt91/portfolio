@@ -194,4 +194,25 @@ DOCUMENTS = {
         "type": "data",
         "date": date(2021, 5, 13),
     },
+    "2021suppPRR_hknet_lat3": {
+        "title": "Video of the evolution of a Hegselmann-Krause model on a square lattice",
+        "short": "lat3",
+        "link": "https://data.schawe.me/lat3_eps015.mp4",
+        "type": "video",
+        "date": date(2021, 6, 14),
+    },
+    "2021suppPRR_hknet_lat4": {
+        "title": "Video of the evolution of a Hegselmann-Krause model on a square lattice",
+        "short": "lat4",
+        "link": "https://data.schawe.me/lat4_eps015.mp4",
+        "type": "video",
+        "date": date(2021, 6, 14),
+    },
+    "2021suppPRR_hknet_ba10": {
+        "title": "Video of the evolution of a Hegselmann-Krause model on a Barabási Albert Graph",
+        "short": "ba10",
+        "link": "https://data.schawe.me/ba10_eps015.mp4",
+        "type": "video",
+        "date": date(2021, 6, 14),
+    },
 }

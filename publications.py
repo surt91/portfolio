@@ -127,16 +127,19 @@ PUBLICATIONS = [
         "alphabetical": True,
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
     },
+    {
+        "doi": "10.1103/PhysRevResearch.3.023208",
+        "arxiv": "2102.10910",
+        "pdf": "2021_hknet_PRR.pdf",
+        "comment": "direct link is fine: Open Access (creative commons license)",
+        "related": ["2021suppHKdata", "2021suppDWdata"],
+        "supplementary": ["2021suppPRR_hknet_lat3", "2021suppPRR_hknet_lat4", "2021suppPRR_hknet_ba10"],
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2102.10910",
-        "pdf": "pp_hknet.pdf",
-        "related": ["2021suppHKdata", "2021suppDWdata"],
     },
 ]
