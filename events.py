@@ -323,6 +323,18 @@ EVENTS = [
         "type": "workshop",
         "presentations": ["2020confCompPhys"],
     },
+    {
+        "date": date(2021, 6, 13),
+        "name": "Mention in NETfrix podcast",
+        "type": "media",
+        "link": "https://en.snapod.net/post/episode-10-what-s-the-rumpus-about-networks-2021"
+    },
+    {
+        "date": date(2021, 7, 2),
+        "name": "Networks2021 Satellite: OpLaDyn",
+        "type": "organization",
+        "link": "https://opladyn.github.io/organizer/#technical-assistance"
+    }
 ]
 
 import pycountry
