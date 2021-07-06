@@ -334,6 +334,18 @@ EVENTS = [
         "name": "Networks2021 Satellite: OpLaDyn",
         "type": "organization",
         "link": "https://opladyn.github.io/organizer/#technical-assistance"
+    },
+    {
+        "date": date(2021, 7, 5),
+        "date_end": date(2021, 7, 11),
+        "country": "US",
+        "place": "Bloomington, IN",
+        "name": "Networks 2021 (remote)",
+        "link": "https://networks2021.net/",
+        "type": "conference",
+        "presentations": [
+            "2021confNetworks2021_video",
+        ],
     }
 ]
 

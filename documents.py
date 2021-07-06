@@ -218,4 +218,11 @@ DOCUMENTS = {
         "type": "video",
         "date": date(2021, 6, 14),
     },
+    "2021confNetworks_video": {
+        "title": "The Bridges to consensus -- Bounded confidence models in networked societies",
+        "short": "Networks2021",
+        "link": "https://youtu.be/FYlRGbq-rIA",
+        "type": "video",
+        "date": date(2021, 7, 7),
+    },
 }
