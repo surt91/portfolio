@@ -344,7 +344,7 @@ EVENTS = [
         "link": "https://networks2021.net/",
         "type": "conference",
         "presentations": [
-            "2021confNetworks2021_video",
+            "2021confNetworks_video",
             "2021confNetworks_slides",
         ],
     }
