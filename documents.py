@@ -232,4 +232,11 @@ DOCUMENTS = {
         "type": "talk",
         "date": date(2021, 7, 7),
     },
+    "2021confIC2S2_poster": {
+        "title": "Information in times of COVID19: traditional media vs. online social networks",
+        "short": "IC2S2",
+        "pdf": "2021IC2S2_tnyt.pdf",
+        "type": "poster",
+        "date": date(2021, 7, 27),
+    },
 }

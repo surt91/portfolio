@@ -347,6 +347,18 @@ EVENTS = [
             "2021confNetworks_video",
             "2021confNetworks_slides",
         ],
+    },
+    {
+        "date": date(2021, 7, 27),
+        "date_end": date(2021, 7, 31),
+        "country": "CH",
+        "place": "Zürich",
+        "name": "International Conference on Computational Social Science (remote)",
+        "link": "http://2021.ic2s2.org/",
+        "type": "conference",
+        "presentations": [
+            "2021confIC2S2_poster",
+        ],
     }
 ]
 
