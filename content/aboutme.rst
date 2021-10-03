@@ -13,8 +13,8 @@ About me
     :align: right
     :target: /img/portrait.jpg
 
-My name is Hendrik Schawe and I am working
-as a postdoc at the LPTM, CY Cergy Paris Université.
+My name is Hendrik Schawe. This site is about the achievements of
+my short academic career.
 
 I am fascinated by simple models exhibiting an unexpected depth.
 Examples, which I studied, are the easily defined
@@ -35,8 +35,3 @@ regime of an observable with *Markov chain Monte Carlo* methods, finding
 exact solutions of moderately sized traveling salesperson instances
 using *linear programming* or just pushing the envelope of the system
 sizes which can be simulated.
-
-Currently I am working on simple models for opinion dynamics
-as well as real world data obtained from a large social network
-to obtain a better understanding how opinions change with time
-and which mechanisms lead to the patterns observed in society.
