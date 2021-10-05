@@ -12,7 +12,7 @@ About me
     :align: right
     :target: /img/portrait.jpg
 
-Ich bin Hendrik Schawe. Auf dieser Seite zeige die Errungenschaften meiner
+Ich bin Hendrik Schawe. Auf dieser Seite zeige ich die Errungenschaften meiner
 kurzen akademischen Karriere.
 
 Als Forschungsobjekt faszinieren mich einfache Modelle, die eine unerwartete Tiefe zeigen.
