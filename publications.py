@@ -135,6 +135,13 @@ PUBLICATIONS = [
         "related": ["2021suppHKdata", "2021suppDWdata"],
         "supplementary": ["2021suppPRR_hknet_lat3", "2021suppPRR_hknet_lat4", "2021suppPRR_hknet_ba10"],
     },
+    {
+        "doi": "10.1088/1751-8121/ac2dc2",
+        "arxiv": "2110.04188",
+        "pdf": "2021_zero_JPA.pdf",
+        "alphabetical": True,
+        "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
+    },
 ]
 
 PREPRINTS = [
