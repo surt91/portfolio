@@ -149,4 +149,8 @@ PREPRINTS = [
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
     },
+    {
+        "arxiv": "2111.12165",
+        "pdf": "pp_hyper.pdf",
+    },
 ]
