@@ -154,7 +154,7 @@ PREPRINTS = [
         "pdf": "pp_hyper.pdf",
     },
     {
-        "arxiv": "2112.08752 ",
+        "arxiv": "2112.08752",
         "pdf": "pp_rtpa.pdf",
     },
 ]
