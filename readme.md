@@ -1,8 +1,10 @@
-# This is the source of my personal landing page. [![Build Status](https://travis-ci.org/surt91/portfolio.svg?branch=master)](https://travis-ci.org/surt91/portfolio)
+# :mortar_board: Website of my academic achievements
+
+[![Makefile CI](https://github.com/surt91/portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/surt91/portfolio/actions/workflows/main.yml)
 
 Visit it at [academic.schawe.me](https://academic.schawe.me).
 
-## Setup
+## :hammer_and_wrench: Setup
 
 Ensure that `python3` is installed and `pip` is available. Advanced users might prefer to perform
 step 4. in a python [virtual environment](https://docs.python.org/3/tutorial/venv.html).
