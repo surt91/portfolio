@@ -15,6 +15,6 @@ step 4. in a python [virtual environment](https://docs.python.org/3/tutorial/ven
 4. `pip3 install --user -r requirements.txt`
 5. `make publish`
 6. upload the static files in the `output` directory to some web server
-    * [GitHub pages](https://pages.github.com/) using [TravisCI](https://travis-ci.org/) and [`.travis.yml`](.travis.yml)
+    * [GitHub pages](https://pages.github.com/) using and [`.github/workflows/main.yml`](main.yml)
     * [Netlify](https://www.netlify.com/) using [`build.sh`](build.sh)
     * An Apache server using the [`apache-vhost.conf`](apache-vhost.conf) example
