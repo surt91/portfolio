@@ -306,7 +306,7 @@ EVENTS = [
         "country": "US",
         "place": "Cambridge, MA",
         "name": "International Conference on Computational Social Science (remote)",
-        "link": "http://2020.ic2s2.org/",
+        "link": "https://ic2s2.mit.edu/",
         "type": "conference",
         "presentations": [
             "2020confIC2S2_video",
@@ -354,7 +354,7 @@ EVENTS = [
         "country": "CH",
         "place": "Zürich",
         "name": "International Conference on Computational Social Science (remote)",
-        "link": "http://2021.ic2s2.org/",
+        "link": "https://ic2s2-2021.ethz.ch/",
         "type": "conference",
         "presentations": [
             "2021confIC2S2_poster",
