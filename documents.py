@@ -239,4 +239,11 @@ DOCUMENTS = {
         "type": "poster",
         "date": date(2021, 7, 27),
     },
+    "2021confSMR3624_talk": {
+        "title": "Position distribution in a generalised run and tumble process",
+        "short": "SMR3624",
+        "link": "https://youtu.be/VTQAgXelS58?t=1731",
+        "type": "talk",
+        "date": date(2021, 9, 8),
+    },
 }

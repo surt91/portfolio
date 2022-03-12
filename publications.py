@@ -118,6 +118,7 @@ PUBLICATIONS = [
         "pdf": "2021_tele_PRE.pdf",
         "alphabetical": True,
         "bonus": "Editors' Suggestion",
+        "related": ["2021confSMR3624_talk"],
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
     },
     {
