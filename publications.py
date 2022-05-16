@@ -149,15 +149,18 @@ PUBLICATIONS = [
         "pdf": "2022_hyper_CommPhys.pdf",
         "comment": "direct link is fine: Open Access (creative commons license)",
     },
+    {
+        "doi": "10.1088/1751-8121/ac62bb",
+        "arxiv": "2112.08752",
+        "pdf": "2022_rtpa_JPA.pdf",
+        "alphabetical": True,
+        "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2112.08752",
-        "pdf": "pp_rtpa.pdf",
     },
 ]
