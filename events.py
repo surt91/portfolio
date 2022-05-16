@@ -359,7 +359,16 @@ EVENTS = [
         "presentations": [
             "2021confIC2S2_poster",
         ],
-    }
+    },
+    {
+        "date": date(2021, 9, 15),
+        "date_end": date(2022, 4, 7),
+        "country": "DE",
+        "place": "Carl von Ossietzky Universität Oldenburg",
+        "name": "Non-trivial behaviour of increasing subsequences in equilibrium",
+        "teaching": "supervision_master",
+        "type": "teaching",
+    },
 ]
 
 import pycountry
