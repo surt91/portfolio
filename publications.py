@@ -153,7 +153,6 @@ PUBLICATIONS = [
         "doi": "10.1088/1751-8121/ac62bb",
         "arxiv": "2112.08752",
         "pdf": "2022_rtpa_JPA.pdf",
-        "alphabetical": True,
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
 ]
