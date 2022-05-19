@@ -16,13 +16,14 @@ jobs:
       with:
         submodules: recursive
 
+    - name: Install poetry
+      run: pipx install poetry
+
     - name: Setup Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.9'
+        python-version: '3.8'
         cache: 'poetry'
-    - name: Install poetry
-      run: pipx install poetry
     - run: poetry install
 
     - name: build static sites
