@@ -18,3 +18,13 @@ step 4. in a python [virtual environment](https://docs.python.org/3/tutorial/ven
     * [GitHub pages](https://pages.github.com/) using and [`.github/workflows/main.yml`](main.yml)
     * [Netlify](https://www.netlify.com/) using [`build.sh`](build.sh)
     * An Apache server using the [`apache-vhost.conf`](apache-vhost.conf) example
+
+## Update
+
+To calculate new dependencies
+
+Do 1-3 from above
+4. `python3 -m venv .`
+5. `source bin/activate`
+6. `sed -i '' 's/[~=]=/>=/' requirements.txt; pip install -U -r requirements.txt; pip freeze | sed 's/==/~=/' > requirements.txt`
+7. run `build.sh` to test 
