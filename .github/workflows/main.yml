@@ -12,21 +12,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       with:
         submodules: recursive
 
     - name: Setup Python
-      uses: actions/setup-python@v2.3.1
+      uses: actions/setup-python@v3
       with:
-        python-version: 3.9
-        cache: pip
-
-    - name: install dependencies
-      run: pip install -r requirements.txt
+        python-version: '3.9'
+        cache: 'poetry'
+    - name: Install poetry
+      run: pipx install poetry
+    - run: poetry install
 
     - name: build static sites
-      run: DEBUG=1 make publish
+      run: DEBUG=1 poetry run make publish
 
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.7.3
