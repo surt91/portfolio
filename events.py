@@ -252,7 +252,7 @@ EVENTS = [
         "date_end": date(2019, 12, 19),
         "country": "DE",
         "place": "Carl von Ossietzky Universität Oldenburg",
-        "name": "Distribution of the number of longest increasing subsequences sing large deviation methods",
+        "name": "Distribution of the number of longest increasing subsequences using large deviation methods",
         "teaching": "supervision_bachelor",
         "type": "teaching",
         # "paper": ["10.1103/PhysRevE.101.062109"],
