@@ -166,4 +166,12 @@ PREPRINTS = [
         "arxiv": "2207.10488",
         "pdf": "pp_relax.pdf",
     },
+    {
+        "arxiv": "2208.14393",
+        "pdf": "pp_tnyt.pdf",
+    },
+    {
+        "arxiv": "2208.14955",
+        "pdf": "pp_lis_rsb.pdf",
+    },
 ]
