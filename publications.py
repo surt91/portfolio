@@ -176,6 +176,6 @@ PREPRINTS = [
     },
     {
         "arxiv": "2301.09233",
-        "pdf": "pp_hk_het.pdf",
+        "pdf": "pp_hkhet.pdf",
     },
 ]
