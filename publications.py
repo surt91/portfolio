@@ -155,6 +155,18 @@ PUBLICATIONS = [
         "pdf": "2022_rtpa_JPA.pdf",
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
+    {
+        "doi": "10.1103/PhysRevB.107.064208",
+        "arxiv": "2208.14955",
+        #"pdf": "2023_lis_rsb_PRB.pdf",
+        "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
+    },
+    {
+        "doi": "10.1038/s41598-023-30367-8",
+        "arxiv": "2208.14393",
+        "pdf": "2023_tnyt_SciRep.pdf",
+        "comment": "direct link is fine: Open Access (creative commons license)",
+    },
 ]
 
 PREPRINTS = [
@@ -165,14 +177,6 @@ PREPRINTS = [
     {
         "arxiv": "2207.10488",
         "pdf": "pp_relax.pdf",
-    },
-    {
-        "arxiv": "2208.14393",
-        "pdf": "pp_tnyt.pdf",
-    },
-    {
-        "arxiv": "2208.14955",
-        "pdf": "pp_lis_rsb.pdf",
     },
     {
         "arxiv": "2301.09233",
