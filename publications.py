@@ -182,4 +182,8 @@ PREPRINTS = [
         "arxiv": "2301.09233",
         "pdf": "pp_hkhet.pdf",
     },
+    {
+        "arxiv": "2303.08535",
+        "pdf": "pp_relaxbox.pdf",
+    },
 ]
