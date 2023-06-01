@@ -167,6 +167,12 @@ PUBLICATIONS = [
         "pdf": "2023_tnyt_SciRep.pdf",
         "comment": "direct link is fine: Open Access (creative commons license)",
     },
+    {
+        "doi": "10.1088/1751-8121/acd829",
+        "arxiv": "2303.08535",
+        #"pdf": "2023_relaxbox_JPA.pdf",
+        "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
+    },
 ]
 
 PREPRINTS = [
@@ -181,9 +187,5 @@ PREPRINTS = [
     {
         "arxiv": "2301.09233",
         "pdf": "pp_hkhet.pdf",
-    },
-    {
-        "arxiv": "2303.08535",
-        "pdf": "pp_relaxbox.pdf",
     },
 ]
