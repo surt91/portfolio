@@ -158,7 +158,7 @@ PUBLICATIONS = [
     {
         "doi": "10.1103/PhysRevB.107.064208",
         "arxiv": "2208.14955",
-        #"pdf": "2023_lis_rsb_PRB.pdf",
+        "pdf": "2023_lis_rsb_PRB.pdf",
         "comment": "direct link is fine: point 3. in https://journals.aps.org/authors/transfer-of-copyright-agreement 'The right to use all or part of the Article, including the APS-prepared version without revision or modification, on the author(s)’ web home page [..]'",
     },
     {
@@ -170,7 +170,7 @@ PUBLICATIONS = [
     {
         "doi": "10.1088/1751-8121/acd829",
         "arxiv": "2303.08535",
-        #"pdf": "2023_relaxbox_JPA.pdf",
+        "pdf": "2023_relaxbox_JPA.pdf",
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
 ]
