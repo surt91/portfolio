@@ -173,16 +173,18 @@ PUBLICATIONS = [
         "pdf": "2023_relaxbox_JPA.pdf",
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
+    {
+        "doi": "10.1088/1742-5468/ad002d",
+        "arxiv": "2207.10488",
+        "pdf": "pp_relax.pdf",
+        "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2207.10488",
-        "pdf": "pp_relax.pdf",
     },
     {
         "arxiv": "2301.09233",
