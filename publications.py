@@ -179,15 +179,17 @@ PUBLICATIONS = [
         "pdf": "pp_relax.pdf",
         "comment": "the published version is explicitly forbidden, but the accepted manuscript is explicitly allowed without embargo (https://publishingsupport.iopscience.iop.org/questions/quick-check-guide-current-author-rights-policy/)",
     },
+    {
+        "doi": "10.1038/s41598-023-50463-z",
+        "arxiv": "2301.09233",
+        "pdf": "2024_hknet_SciRep.pdf",
+        "comment": "direct link is fine: Open Access (creative commons license)",
+    },
 ]
 
 PREPRINTS = [
     {
         "arxiv": "1803.08015",
         "pdf": "pp_bat.pdf",
-    },
-    {
-        "arxiv": "2301.09233",
-        "pdf": "pp_hkhet.pdf",
     },
 ]
