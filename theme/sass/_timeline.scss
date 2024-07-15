@@ -1,0 +1,51 @@
+@import 'functions';
+
+.timeline-item {
+    padding: 3em 2em 2em;
+    position: relative;
+    color: getColor(sectiontitle);
+    border-left: 2px solid getColor(border);
+
+    &::before {
+        content: attr(data-date);
+        position: absolute;
+        left: 2em;
+        font-weight: bold;
+        top: 1em;
+        display: block;
+        font: $font-subtitle;
+        font-weight: bold;
+        font-size: 0.9em;
+    }
+
+    &::after {
+        width: 10px;
+        height: 10px;
+        display: block;
+        top: 1em;
+        position: absolute;
+        left: -8px;
+        border-radius: 10px;
+        content: '';
+        border: 2px solid getColor(border);
+        background: getColor(bg-main);
+    }
+
+    &:last-child {
+        border-image: linear-gradient(
+            to bottom,
+            getColor(border) 60%,
+            rgba(getColor(border), 0)) 1 100%;
+    }
+}
+
+ul.timeline-vis-list li {
+    display: inline;
+    color: getColor(subtitle);
+    padding-right: 1.3em;
+    white-space: nowrap;
+}
+
+#timeline-settings {
+    cursor: pointer;
+}
