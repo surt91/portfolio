@@ -6,7 +6,7 @@ authors = ["Hendrik Schawe <surt91@gmail.com>"]
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.12"
 pelican = "^4.7.2"
 webassets = "^2.0"
 libsass = "^0.21.0"
