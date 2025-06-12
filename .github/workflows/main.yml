@@ -47,3 +47,4 @@ jobs:
         with:
             vulnerability-check: false
             base-ref: 3ed5b3b4
+            head-ref: HEAD
