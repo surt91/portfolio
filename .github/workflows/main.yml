@@ -48,5 +48,5 @@ jobs:
             vulnerability-check: false
             base-ref: 3ed5b3b4
             head-ref: HEAD
-            allow-licenses: Apache-2.0, PSF-2.0
-            # allow-dependencies-licenses: ""
+            allow-licenses: Apache-2.0, PSF-2.0, MIT, MPL-2.0, LGPL-2.1, 0BSD, BSD-2-Clause, BSD-3-Clause, Python-2.0
+            allow-dependencies-licenses: pkg:pypi/cssmin
