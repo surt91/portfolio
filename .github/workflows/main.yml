@@ -48,3 +48,5 @@ jobs:
             vulnerability-check: false
             base-ref: 3ed5b3b4
             head-ref: HEAD
+            allow-licenses: Apache-2.0, PSF-2.0
+            # allow-dependencies-licenses: ""
