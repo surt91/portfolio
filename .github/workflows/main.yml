@@ -37,3 +37,16 @@ jobs:
         publish_dir: output
         force_orphan: true
 
+  dependency-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v4
+      - name: 'Dependency Review'
+        uses: actions/dependency-review-action@v4
+        with:
+            vulnerability-check: false
+            base-ref: 3ed5b3b4
+            head-ref: HEAD
+            allow-licenses: Apache-2.0, PSF-2.0, MIT, MPL-1.1, MPL-2.0, LGPL-2.1, LGPL-2.1-or-later, LGPL-2.1-only, 0BSD, BSD-2-Clause, BSD-3-Clause, Python-2.0, ZPL-2.1
+            allow-dependencies-licenses: pkg:pypi/cssmin, pkg:pypi/typogrify, pkg:pypi/python-dateutil
