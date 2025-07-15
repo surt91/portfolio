@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hendrik Schawe</title><link href="https://academic.schawe.me/de/" rel="alternate"></link><link href="https://academic.schawe.me/feeds/all.atom.xml" rel="self"></link><id>https://academic.schawe.me/de/</id><updated>2019-07-28T11:41:00+02:00</updated><entry><title>About me</title><link href="https://academic.schawe.me/de/about-me.html" rel="alternate"></link><published>2019-07-28T11:41:00+02:00</published><updated>2019-07-28T11:41:00+02:00</updated><author><name>surt91</name></author><id>tag:academic.schawe.me,2019-07-28:/de/about-me.html</id><summary type="html">&lt;a class="reference external image-reference" href="/img/portrait.jpg"&gt;
+&lt;img alt="portrait" class="align-right" src="/img/portrait256.jpg" /&gt;
+&lt;/a&gt;
+&lt;p&gt;Ich bin Hendrik Schawe. Auf dieser Seite zeige ich die Errungenschaften meiner
+kurzen akademischen&amp;nbsp;Karriere.&lt;/p&gt;
+&lt;p&gt;Als Forschungsobjekt faszinieren mich einfache Modelle, die eine unerwartete Tiefe zeigen.
+Beispielsweise das einfach zu formulierende &lt;em&gt;Problem des Handlungsreisenden&lt;/em&gt;,
+das sich als sehr schwer zu lösen herausstellt; das komplexe und überraschende
+Verhalten von simplen Modellen …&lt;/p&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="/img/portrait.jpg"&gt;
+&lt;img alt="portrait" class="align-right" src="/img/portrait256.jpg" /&gt;
+&lt;/a&gt;
+&lt;p&gt;Ich bin Hendrik Schawe. Auf dieser Seite zeige ich die Errungenschaften meiner
+kurzen akademischen&amp;nbsp;Karriere.&lt;/p&gt;
+&lt;p&gt;Als Forschungsobjekt faszinieren mich einfache Modelle, die eine unerwartete Tiefe zeigen.
+Beispielsweise das einfach zu formulierende &lt;em&gt;Problem des Handlungsreisenden&lt;/em&gt;,
+das sich als sehr schwer zu lösen herausstellt; das komplexe und überraschende
+Verhalten von simplen Modellen, wie &lt;em&gt;selbstmeidende Pfade&lt;/em&gt;, die fraktalen
+Pfaden folgen, oder &lt;em&gt;längste aufsteigende Teilfolgen&lt;/em&gt;, die überraschende
+Verbindungen zur Theorie von Zufallsmatrizen und &lt;span class="caps"&gt;KPZ&lt;/span&gt;-Wachstumsprozessen
+aufweisen. Außerdem finde ich &lt;em&gt;Phasenübergänge&lt;/em&gt;, die emergent aus
+einfachen Wechselwirkungen zwischen vielen Teilchen entstehen wie
+im &lt;em&gt;Ising Modell&lt;/em&gt; für Ferromagnete dem &lt;em&gt;Hegselmann-Krause Modell&lt;/em&gt;
+für die Dynamik von&amp;nbsp;Meinungen.&lt;/p&gt;
+&lt;p&gt;Weil meine Forschung auf Simulationen gründet, bin ich interessiert an Algorithmen,
+die es ermöglichen Probleme zu untersuchen, die auf den ersten Blick
+unüberwindbar scheinen, wie das direkte Sampling des &lt;em&gt;Large-Deviation-Regimes&lt;/em&gt;
+einer Messgröße mittels &lt;em&gt;Markov-Chain-Monte-Carlo&lt;/em&gt;-Methoden, das Finden
+von exakten Lösungen von moderat großen Problemen des Handlungsreisenden
+mittels &lt;em&gt;Linearer Optimierung&lt;/em&gt;, oder einfach nur die Simulation von größeren
+Systemen als bisher&amp;nbsp;ermöglichen.&lt;/p&gt;
+</content><category term="de"></category></entry><entry><title>About me</title><link href="https://academic.schawe.me/about-me.html" rel="alternate"></link><published>2019-07-28T11:41:00+02:00</published><updated>2019-07-28T11:41:00+02:00</updated><author><name>surt91</name></author><id>tag:academic.schawe.me,2019-07-28:/about-me.html</id><summary type="html">&lt;a class="reference external image-reference" href="/img/portrait.jpg"&gt;
+&lt;img alt="portrait" class="align-right" src="/img/portrait256.jpg" /&gt;
+&lt;/a&gt;
+&lt;p&gt;My name is Hendrik Schawe. This site is about the achievements of
+my short academic&amp;nbsp;career.&lt;/p&gt;
+&lt;p&gt;I am fascinated by simple models exhibiting an unexpected depth.
+Examples, which I studied, are the easily defined
+&lt;em&gt;traveling salesperson problem&lt;/em&gt; turning out to be very hard to
+solve; the complex behavior and surprising …&lt;/p&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="/img/portrait.jpg"&gt;
+&lt;img alt="portrait" class="align-right" src="/img/portrait256.jpg" /&gt;
+&lt;/a&gt;
+&lt;p&gt;My name is Hendrik Schawe. This site is about the achievements of
+my short academic&amp;nbsp;career.&lt;/p&gt;
+&lt;p&gt;I am fascinated by simple models exhibiting an unexpected depth.
+Examples, which I studied, are the easily defined
+&lt;em&gt;traveling salesperson problem&lt;/em&gt; turning out to be very hard to
+solve; the complex behavior and surprising properties of simple
+models, like the &lt;em&gt;self-avoiding random walks&lt;/em&gt; following fractal paths or
+&lt;em&gt;longest increasing subsequences&lt;/em&gt; showing surprising connections
+to random matrix theory and &lt;span class="caps"&gt;KPZ&lt;/span&gt; growth processes. Also
+&lt;em&gt;phase transitions&lt;/em&gt; arising from simple interaction rules spark my
+interest, like in the &lt;em&gt;Ising model&lt;/em&gt; for ferromagnetism
+or the &lt;em&gt;Hegselmann-Krause model&lt;/em&gt; for bounded-confidence
+opinion&amp;nbsp;dynamics.&lt;/p&gt;
+&lt;p&gt;Since simulations are my main tool, I am interested in algorithms
+enabling the study of problems which are on the first glance
+infeasible, like directly sampling the &lt;em&gt;large deviation&lt;/em&gt;
+regime of an observable with &lt;em&gt;Markov chain Monte Carlo&lt;/em&gt; methods, finding
+exact solutions of moderately sized traveling salesperson instances
+using &lt;em&gt;linear programming&lt;/em&gt; or just pushing the envelope of the system
+sizes which can be&amp;nbsp;simulated.&lt;/p&gt;
+</content><category term="misc"></category></entry></feed>

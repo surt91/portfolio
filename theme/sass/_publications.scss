@@ -1,0 +1,106 @@
+@import 'functions';
+
+.publications,
+.timeline {
+    margin-bottom: 1.2em;
+}
+
+ol.publication {
+    list-style: decimal-leading-zero;
+}
+
+ol.publication > li {
+    margin-bottom: 1.8em;
+}
+
+ol.publication ::marker {
+    font: $font-sectiontitle;
+    color: getColor(title);
+}
+
+.pub-title {
+    font: $font-sectiontitle;
+    color: getColor(title);
+    margin-bottom: 0.2em;
+    margin-top: 0;
+}
+
+.pub-authors,
+.pub-journalref {
+    font: $font-post;
+    color: getColor(post);
+    margin-bottom: 0.2em;
+    margin-top: 0;
+}
+
+.pub-volume {
+    font-weight: bold;
+}
+
+.pub-related,
+.pub-supplementary,
+.pub-supp-title,
+.pub-links,
+.pub-bonus,
+.timeline-link {
+    font: $font-subtitle;
+    font-size: 1.1em;
+    color: getColor(subtitle);
+    margin-bottom: 0.2em;
+    margin-top: 0;
+}
+
+.timeline-presentation-item > .timeline-link {
+    font-size: 1em;
+}
+
+.pub-bonus {
+    display: inline-block;
+
+    font-size: 0.9em;
+    background: getColor(bg-tag);
+    border-radius: 3px;
+    color: getColor(tag);
+
+    padding: 0.2em 0.1em 0.1em 0.1em;
+    margin: 0.0em;
+}
+
+.timeline-title {
+    font: $font-post;
+    color: getColor(title);
+    margin-bottom: 0.2em;
+    margin-top: 0;
+}
+
+.timeline-presentation-item {
+    font: $font-post;
+    font-size: 1em;
+    color: getColor(post);
+    padding-left: 1em;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+}
+
+.pub-doi,
+.pub-arxiv,
+.pub-download,
+.timeline-doi,
+.timeline-download {
+    color: getColor(subtitle);
+    border-bottom: 1px dotted getColor(subtitle);
+}
+
+a.pub-doi:hover,
+a.pub-doi:focus,
+a.pub-arxiv:hover,
+a.pub-arxiv:focus,
+a.pub-download:hover,
+a.pub-download:focus,
+a.timeline-doi:hover,
+a.timeline-doi:focus,
+a.timeline-download:hover,
+a.timeline-download:focus {
+    text-decoration-line: none;
+    border-bottom: 1px solid getColor(subtitle);
+}
